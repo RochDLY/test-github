@@ -1,15 +1,14 @@
 ---
-title : uhfdxd
+title : L'invention littéraire des médias
 id: "20240708094511"
 
 types:
-  - enseignant
-thumbnail: ./img/deschamps.png
+  - lit
 tags:
-  - veille
-  - IA
-  - recherche d'information
-  - OSINT
+  - rôle
+  - test
+  - literature
+  - rsn
 ---
 
 

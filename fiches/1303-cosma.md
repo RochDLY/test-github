@@ -1,15 +1,14 @@
 ---
-title : uhdsjfd
+title : L’art olfactif contemporain, ses médias et leurs inventions fin-de-siècle
 id: "20240707195218"
 
 types:
-  - enseignant
-thumbnail: ./img/deschamps.png
+  -  livre
+
 tags:
-  - veille
-  - IA
-  - recherche d'information
-  - OSINT
+  - lectures
+  - art
+  - nez
 ---
 [[20240707195218]]
 [Certes, la tentative à laquelle j’ai assisté est loin d’être parfaite

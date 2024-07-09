@@ -1,15 +1,15 @@
 ---
-title : uhfd
+title : De *Lourdes* à *Paris*, en train ou à bicyclette
 id: "20240705154513"
 
 types:
-  - enseignant
-thumbnail: ./img/deschamps.png
+  - lecture
+
 tags:
-  - veille
-  - IA
-  - recherche d'information
-  - OSINT
+  - Hybridations médiatiques 
+  - machiniques dans le cycle des *Trois Villes* 
+  - Émile  Zola (1893-1898)
+  
 ---
 [Un reproche bête qu'on nous fait, à nous autres écrivains naturalistes, c'est de vouloir être uniquement des photographes.<br/>Émile Zola, *Le roman expérimental*]{.epigraphe}
 

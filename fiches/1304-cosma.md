@@ -1,15 +1,14 @@
 ---
-title : uhfdds
+title : Les Confessions Facebook ou le selfie inventé par Jean-Jacques Rousseau
 id: "20240707195235"
 
 types:
   - enseignant
-thumbnail: ./img/deschamps.png
 tags:
-  - veille
-  - IA
-  - recherche d'information
-  - OSINT
+  - rsn
+  - selfie
+  - facebook
+  - rousseau
 ---
 [[20240707195218]]
 Si le mot selfie est d’abord apparu en 2002-2003 sur des sites internet
