@@ -39,3 +39,19 @@ Cosma -c fonctionne mais pas le Costa m :
 - Point sur toutes les fiches avec titre idd mots clefs etc toujours erreur
 
 - Changer les nom, enlever les tirets = same
+
+
+- j'ai tanter de le reproduire à 0 point par point de la doc mais à partir du 4.1 plus rien ne fonction
+          ➜  cosma-test pwd
+          /Users/gaelledufaut-knipping/Documents/cosma-test
+        ➜  cosma-test % record cosma
+        titre : test         
+        fg: no current job
+        zsh: command not found: titre
+        ➜  cosma-test cosma record
+        [Cosma v.2.4.1]  /Users/gaelledufaut-knipping/Documents/cosma-test/config.yml
+        Err. Unable to create record: missing value for files_origin in the configuration file
+        ➜  cosma-test /Users/gaelledufaut-knipping/Documents/cosma-test
+        ➜  cosma-test cosma record
+        [Cosma v.2.4.1]  /Users/gaelledufaut-knipping/Documents/cosma-test/config.yml
+        Err. Unable to create record: missing value for files_origin in the configuration file
