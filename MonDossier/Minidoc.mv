@@ -42,7 +42,7 @@ Cosma -c fonctionne mais pas le Costa m :
 - Changer les nom, enlever les tirets = same
 
 
-- j'ai tanter de le reproduire à 0 point par point de la doc mais à partir du 4.1 plus rien ne fonction
+- j'ai tenté de le reproduire à 0 point par point de la doc mais à partir du 4.1 plus rien ne fonction
           ➜  cosma-test pwd
           /Users/gaelledufaut-knipping/Documents/cosma-test
         ➜  cosma-test % record cosma
