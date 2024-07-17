@@ -1,18 +1,15 @@
 ---
-title : uhfdj
+title : La novellisation poétique, différenciation ou émulation ?
 id: "20240707195149"
 
 types:
-  - enseignant
-thumbnail: ./img/deschamps.png
+  - litterature
 tags:
-  - veille
-  - IA
-  - recherche d'information
-  - OSINT
+  - poeme
+  - emulation
+  - oxymore
 ---
-# La novellisation poétique&nbsp;: une forme oxymorique&nbsp;?
-[[20240707195218]]
+## La novellisation poétique&nbsp;: une forme oxymorique&nbsp;?
 Raconter un film. Telle est l’ambition, apparemment modeste, de ce que
 l’on appelle, en décalquant le terme anglais, une novellisation. Un tel
 processus place l’écriture non plus en amont mais en aval du film en

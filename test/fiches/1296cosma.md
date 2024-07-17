@@ -1,21 +1,21 @@
 ---
-title : uhfhsd
+title : Allô, j’écoute? Les voix surnaturelles des nouveaux médias fin-de-siècle
 id: "20240707195111"
 
 types:
-  - enseignant
-thumbnail: ./img/deschamps.png
+  - test
+  
 tags:
-  - veille
-  - IA
-  - recherche d'information
-  - OSINT
+  - media
+  - nouvel air
+  - test
 ---
 
-
+[[20240717153844]]
 [—   C’est un rêve, cela, je crois, murmura Lord Ewald.<br/>—   Milord, il n’y a plus de rêve! répondit à voix basse le grand ingénieur.<br/>Villiers de L’Isle-Adam, *L’Ève future*]{.epigraphe}
 
-[[20240708094635]] Dans *L’Ève future,* le narrateur s’étend sur les pouvoirs de Thomas
+
+Dans *L’Ève future,* le narrateur s’étend sur les pouvoirs de Thomas
 Edison au point de tenir sur celui-ci un véritable discours
 hagiographique (bien qu’il faille tenir compte de l’ironie insistante
 qui traverse l’ouvrage). Il va jusqu’à affirmer que «&nbsp;ses inventions de

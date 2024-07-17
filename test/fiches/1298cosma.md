@@ -1,17 +1,15 @@
 ---
-title : uh
+title : La littérature qui résiste:concurrence médiatique et intermédialité
 id: "20240707195118"
 
 types:
-  - enseignant
-thumbnail: ./img/deschamps.png
+  - litterature
 tags:
-  - veille
-  - IA
-  - recherche d'information
-  - OSINT
+  - moderne
+  - lecture
+  - litt
 ---
-[[20240707195235]]
+[[20240717153844]] 
 [Les modernes s'intéressaient à ce qui pouvait résulter [des] changements et à leur tendance générale&nbsp;: ils réfléchissaient à la chose elle-même, substantivement, de manière utopique ou essentielle. Le postmodernisme est plus formel en ce sens, et plus «&nbsp;distrait&nbsp;» comme aurait pu le dire Benjamin&nbsp;: il ne fait que mesurer les variations et ne sait que trop bien que les contenus ne sont que des images de plus.<br/>Fredric Jameson, *Le Postmodernisme*]{.epigraphe}
 
 Lorsque la *littérature* – le mot est souligné à dessein – convie un

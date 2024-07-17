@@ -1,22 +1,24 @@
 ---
-title : uhfd
+title : De *Lourdes* à *Paris*, en train ou à bicyclette
 id: "20240705154513"
 
 types:
-  - enseignant
-thumbnail: ./img/deschamps.png
+  - test
+
 tags:
-  - veille
-  - IA
-  - recherche d'information
-  - OSINT
+  - Hybridations médiatiques 
+  - machiniques dans le cycle des *Trois Villes* 
+  - Émile  Zola (1893-1898)
+  
 ---
+
+[[20240717153844]] [[20240717154815]]
 [Un reproche bête qu'on nous fait, à nous autres écrivains naturalistes, c'est de vouloir être uniquement des photographes.<br/>Émile Zola, *Le roman expérimental*]{.epigraphe}
 
 [Toute l'œuvre positive du XIX^e^ siècle a été pour les artistes comme si elle n'était pas. Examinez combien peu ont été intéressés par le présent, sympathiques à ce qui changeait et se transformait sous leurs yeux, à ce qu'apportait avec lui de nouveau par exemple le chemin de fer.<br/>Paul Claudel, «&nbsp;Richard Wagner. Rêverie d'un poète français&nbsp;»]{.epigraphe}
 
 ## Première hybridation&nbsp;: de la machine au média[^1]
-[[20240705162428]]
+
 Comme le souligne la citation de Zola qui se trouve en exergue - aux
 côtés de celle de Claudel, que le présent article espère relativiser -,
 il n'est pas rare que le romancier naturaliste soit comparé à un objet
