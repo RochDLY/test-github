@@ -58,6 +58,6 @@ link_symbol: ""
 csl: ""
 bibliography: ""
 csl_locale: ""
-css_custom: ""
+css_custom: ./csstest.css
 devtools: false
 lang: en
