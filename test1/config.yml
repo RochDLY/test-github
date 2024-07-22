@@ -24,16 +24,15 @@ record_types:
   perso:
     fill: "#005C53"
     stroke: "#005C53"
+  référence:
+    stroke: "#6C6C6C"
+    fill: "#6C6C6C"
 link_types:
   undefined:
     stroke: simple
     color: "#e1e1e1"
 citations_as_nodes: true
-references_type_label: "biblio"
-record_types:
-  référence:
-    stroke: "#6C6C6C"
-    fill: "#6C6C6C"
+references_type_label: "référence"
 record_filters: []
 graph_background_color: "#ffffff"
 graph_highlight_color: "#ff6a6a"
@@ -58,9 +57,9 @@ author: ""
 description: ""
 keywords: []
 link_symbol: ""
-csl: ""
-bibliography: ""
-csl_locale: ""
+csl: ./bibliographie/apa.csl
+bibliography: ./bibliographie/biblio.json
+csl_locale: ./bibliographie/locales-fr-FR.xml
 css_custom: ./csstest.css
 devtools: false
 lang: en
