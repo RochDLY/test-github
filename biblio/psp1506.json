@@ -1,1 +1,1028 @@
-{"pandoc-api-version":[1,23],"meta":{"nocite":{"t":"MetaInlines","c":[{"t":"Cite","c":[[{"citationId":"*","citationPrefix":[],"citationSuffix":[],"citationMode":{"t":"NormalCitation"},"citationNoteNum":0,"citationHash":0}],[{"t":"Str","c":"[@*]"}]]}]},"references":{"t":"MetaList","c":[{"t":"MetaMap","c":{"accessed":{"t":"MetaString","c":"2020-01-30"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Arsenault"},"given":{"t":"MetaString","c":"Mathieu"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Doctorak,"},{"t":"Space"},{"t":"Str","c":"GO!"}]},"id":{"t":"MetaString","c":"arsenault_emmanuelle_2016"},"issued":{"t":"MetaString","c":"2016-02"},"keyword":{"t":"MetaInlines","c":[{"t":"Str","c":"Académie"},{"t":"Space"},{"t":"Str","c":"2016"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Emmanuelle"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Riendeau"}]]},{"t":"Str","c":","},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Lectures"}]]},{"t":"Space"},{"t":"Str","c":"dans"},{"t":"Space"},{"t":"Str","c":"les"},{"t":"Space"},{"t":"Str","c":"micros"},{"t":"Space"},{"t":"Str","c":"ouverts"}]},"type":{"t":"MetaString","c":""},"url":{"t":"MetaString","c":"https://via.hypothes.is/https://doctorak-go.blogspot.com/2016/02/emmanuelle-riendeau-lectures-dans-les.html"}}},{"t":"MetaMap","c":{"accessed":{"t":"MetaString","c":"2020-09-25"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Arsenault"},"given":{"t":"MetaString","c":"Mathieu"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Doctorak,"},{"t":"Space"},{"t":"Str","c":"GO!"}]},"id":{"t":"MetaString","c":"arsenault_genevieve_2011"},"issued":{"t":"MetaString","c":"2011"},"keyword":{"t":"MetaInlines","c":[{"t":"Str","c":"Académie"},{"t":"Space"},{"t":"Str","c":"2011"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Geneviève"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Desrosiers"}]]},{"t":"Space"},{"t":"Str","c":"-"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Nombreux"}]]},{"t":"Space"},{"t":"Str","c":"seront"},{"t":"Space"},{"t":"Str","c":"nos"},{"t":"Space"},{"t":"Str","c":"ennemis"}]},"type":{"t":"MetaString","c":""},"url":{"t":"MetaString","c":"https://via.hypothes.is/https://doctorak-go.blogspot.com/2011/02/genevieve-desrosiers-nombreux-seront.html"}}},{"t":"MetaMap","c":{"abstract":{"t":"MetaInlines","c":[{"t":"Str","c":"Un"},{"t":"Space"},{"t":"Str","c":"article"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"revue"},{"t":"Space"},{"t":"Str","c":"Liberté,"},{"t":"Space"},{"t":"Str","c":"diffusée"},{"t":"Space"},{"t":"Str","c":"par"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"plateforme"},{"t":"Space"},{"t":"Str","c":"Érudit."}]},"accessed":{"t":"MetaString","c":"2020-01-30"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Arsenault"},"given":{"t":"MetaString","c":"Mathieu"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Liberté"}]},"id":{"t":"MetaString","c":"arsenault_josee_2014"},"issn":{"t":"MetaString","c":"0024-2020, 1923-0915"},"issue":{"t":"MetaInlines","c":[{"t":"Str","c":"303"}]},"issued":{"t":"MetaString","c":"2014"},"page":{"t":"MetaInlines","c":[{"t":"Str","c":"77-78"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Josée"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Yvon"}]]},{"t":"Str","c":","},{"t":"Space"},{"t":"Str","c":"ma"},{"t":"Space"},{"t":"Str","c":"contemporaine"}]},"type":{"t":"MetaString","c":"article-journal"},"url":{"t":"MetaString","c":"https://www.erudit.org/fr/revues/liberte/2014-n303-liberte01285/71413ac/"}}},{"t":"MetaMap","c":{"abstract":{"t":"MetaInlines","c":[{"t":"Str","c":"Un"},{"t":"Space"},{"t":"Str","c":"article"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"revue"},{"t":"Space"},{"t":"Str","c":"Liberté,"},{"t":"Space"},{"t":"Str","c":"diffusée"},{"t":"Space"},{"t":"Str","c":"par"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"plateforme"},{"t":"Space"},{"t":"Str","c":"Érudit."}]},"accessed":{"t":"MetaString","c":"2020-01-30"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Arsenault"},"given":{"t":"MetaString","c":"Mathieu"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Liberté"}]},"id":{"t":"MetaString","c":"arsenault_les_2016"},"issn":{"t":"MetaString","c":"0024-2020, 1923-0915"},"issue":{"t":"MetaInlines","c":[{"t":"Str","c":"311"}]},"issued":{"t":"MetaString","c":"2016"},"page":{"t":"MetaInlines","c":[{"t":"Str","c":"15-16"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Les"},{"t":"Space"},{"t":"Str","c":"ayants"},{"t":"Space"},{"t":"Str","c":"droit"}]},"type":{"t":"MetaString","c":"article-journal"},"url":{"t":"MetaString","c":"https://www.erudit.org/fr/revues/liberte/2016-n311-liberte02351/80452ac/"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Arsenault"},"given":{"t":"MetaString","c":"Mathieu"}}}]},"collection-number":{"t":"MetaInlines","c":[{"t":"Str","c":"76"}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Série"},{"t":"Space"},{"t":"Str","c":"QR"}]},"id":{"t":"MetaString","c":"arsenault_vie_2014"},"isbn":{"t":"MetaString","c":"978-2-89698-162-5"},"issued":{"t":"MetaString","c":"2014"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Le"},{"t":"Space"},{"t":"Str","c":"Quartanier"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Montréal"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"La"},{"t":"Space"},{"t":"Str","c":"vie"},{"t":"Space"},{"t":"Str","c":"littéraire"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Aubé-Lanctôt"},"given":{"t":"MetaString","c":"Amélie"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Jet"},{"t":"Space"},{"t":"Str","c":"d’encre"}]},"id":{"t":"MetaString","c":"aube-lanctot__2012"},"issue":{"t":"MetaInlines","c":[{"t":"Str","c":"21"}]},"issued":{"t":"MetaString","c":"2012"},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Josée"},{"t":"Space"},{"t":"Str","c":"hivon"}]},"type":{"t":"MetaString","c":"article-journal"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Aubé-Lanctôt"},"given":{"t":"MetaString","c":"Amélie"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Lamy"},"given":{"t":"MetaString","c":"Jonathan"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Jet"},{"t":"Space"},{"t":"Str","c":"d’encre"}]},"id":{"t":"MetaString","c":"aube-lanctot_liminaire_2012"},"issue":{"t":"MetaInlines","c":[{"t":"Str","c":"21"}]},"issued":{"t":"MetaString","c":"2012"},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Liminaire"}]},"type":{"t":"MetaString","c":"article-journal"}}},{"t":"MetaMap","c":{"annote":{"t":"MetaInlines","c":[{"t":"Str","c":"OCLC:"},{"t":"Space"},{"t":"Str","c":"935879036"}]},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Biron"},"given":{"t":"MetaString","c":"Michel"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Dumont"},"given":{"t":"MetaString","c":"François"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Nardout-Lafarge"},"given":{"t":"MetaString","c":"Élisabeth"}}}]},"collection-number":{"t":"MetaInlines","c":[{"t":"Str","c":"210"}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Boréal"},{"t":"Space"},{"t":"Str","c":"compact"}]},"id":{"t":"MetaString","c":"biron_histoire_2014"},"isbn":{"t":"MetaString","c":"978-2-7646-2027-4"},"issued":{"t":"MetaString","c":"2014"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Boréal"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Montréal"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Histoire"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"littérature"},{"t":"Space"},{"t":"Str","c":"québécoise"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Boisclair"},"given":{"t":"MetaString","c":"Isabelle"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Dussault Frenette"},"given":{"t":"MetaString","c":"Catherine"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Recherches"},{"t":"Space"},{"t":"Str","c":"féministes"}]},"doi":{"t":"MetaString","c":"10.7202/1027917ar"},"id":{"t":"MetaString","c":"boisclair_mosaique_2014"},"issue":{"t":"MetaInlines","c":[{"t":"Str","c":"2"}]},"issued":{"t":"MetaString","c":"2014-01"},"page":{"t":"MetaInlines","c":[{"t":"Str","c":"39-61"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Mosaïque"},{"t":"Space"},{"t":"Str","c":":"},{"t":"Space"},{"t":"Str","c":"L’écriture"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"femmes"},{"t":"Space"},{"t":"Str","c":"au"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Québec"}]]},{"t":"Space"},{"t":"Str","c":"(1980-2010)"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"Mosaïque"},{"t":"Space"}]},"type":{"t":"MetaString","c":"article-journal"},"url":{"t":"MetaString","c":"https://www.erudit.org/fr/revues/rf/2014-v27-n2-rf01646/1027917ar/"},"volume":{"t":"MetaInlines","c":[{"t":"Str","c":"27"}]}}},{"t":"MetaMap","c":{"annote":{"t":"MetaInlines","c":[{"t":"Str","c":"OCLC:"},{"t":"Space"},{"t":"Str","c":"1135199104"}]},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Boudreault"},"given":{"t":"MetaString","c":"Dany"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Cadieux"},"given":{"t":"MetaString","c":"Sophie"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Carbonneau"},"given":{"t":"MetaString","c":"Maxime"}}}]},"id":{"t":"MetaString","c":"boudreault_femme_2019"},"isbn":{"t":"MetaString","c":"978-2-89419-692-2"},"issued":{"t":"MetaString","c":"2019"},"language":{"t":"MetaString","c":"fr-FR"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Herbes"},{"t":"Space"},{"t":"Str","c":"rouges"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Montréal"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"La"},{"t":"Space"},{"t":"Str","c":"femme"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"plus"},{"t":"Space"},{"t":"Str","c":"dangereuse"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"Québec."}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"accessed":{"t":"MetaString","c":"2020-02-11"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Brassard"},"given":{"t":"MetaString","c":"Denise"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Voix"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"Images"}]},"doi":{"t":"MetaString","c":"10.7202/1041054ar"},"id":{"t":"MetaString","c":"brassard_poeme_2017"},"issn":{"t":"MetaString","c":"0318-9201, 1705-933X"},"issue":{"t":"MetaInlines","c":[{"t":"Str","c":"3"}]},"issued":{"t":"MetaString","c":"2017"},"page":{"t":"MetaInlines","c":[{"t":"Str","c":"137-145"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Le"},{"t":"Space"},{"t":"Str","c":"poème"},{"t":"Space"},{"t":"Str","c":"retourné"},{"t":"Space"},{"t":"Str","c":"contre"},{"t":"Space"},{"t":"Str","c":"soi"}]},"type":{"t":"MetaString","c":"article-journal"},"url":{"t":"MetaString","c":"http://id.erudit.org/iderudit/1041054ar"},"volume":{"t":"MetaInlines","c":[{"t":"Str","c":"42"}]}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Cabana"},"given":{"t":"MetaString","c":"Marie-Hélène"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Jet"},{"t":"Space"},{"t":"Str","c":"d’encre"}]},"id":{"t":"MetaString","c":"cabana_cycle_2012"},"issue":{"t":"MetaInlines","c":[{"t":"Str","c":"21"}]},"issued":{"t":"MetaString","c":"2012"},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Cycle"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Sluts"}]]},{"t":"Space"},{"t":"Str","c":"from"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Hell"}]]}]},"type":{"t":"MetaString","c":"article-journal"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Charette"},"given":{"t":"MetaString","c":"Jonathan"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Jet"},{"t":"Space"},{"t":"Str","c":"d’encre"}]},"id":{"t":"MetaString","c":"charette_naissance_2012"},"issue":{"t":"MetaInlines","c":[{"t":"Str","c":"21"}]},"issued":{"t":"MetaString","c":"2012"},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Naissance"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Frances"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Bean"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Cobain"}]]}]},"type":{"t":"MetaString","c":"article-journal"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Colonna"},"given":{"t":"MetaString","c":"Daria"}}}]},"id":{"t":"MetaString","c":"colonna_ne_2017"},"isbn":{"t":"MetaString","c":"978-2-924671-10-8"},"issued":{"t":"MetaString","c":"2017"},"keyword":{"t":"MetaInlines","c":[{"t":"Str","c":"21st"},{"t":"Space"},{"t":"Str","c":"century,"},{"t":"Space"},{"t":"Str","c":"French-Canadian"},{"t":"Space"},{"t":"Str","c":"poetry"}]},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Poètes"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"brousse"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Montréal"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Ne"},{"t":"Space"},{"t":"Str","c":"faites"},{"t":"Space"},{"t":"Str","c":"pas"},{"t":"Space"},{"t":"Str","c":"honte"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"votre"},{"t":"Space"},{"t":"Str","c":"siècle"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Delvaux"},"given":{"t":"MetaString","c":"Martine"}}}]},"id":{"t":"MetaString","c":"delvaux_les_2013"},"isbn":{"t":"MetaString","c":"978-2-89091-465-0 978-2-89091-466-7 978-2-89091-467-4"},"issued":{"t":"MetaString","c":"2013"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Éditions"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"Remue-ménage"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Montréal"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Les"},{"t":"Space"},{"t":"Str","c":"filles"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"série"},{"t":"Space"},{"t":"Str","c":":"},{"t":"Space"},{"t":"Str","c":"Des"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Barbies"}]]},{"t":"Space"},{"t":"Str","c":"aux"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Pussy"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Riot"}]]}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"Les"},{"t":"Space"},{"t":"Str","c":"filles"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"série"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"abstract":{"t":"MetaInlines","c":[{"t":"Str","c":"À"},{"t":"Space"},{"t":"Str","c":"partir"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"figure"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"Barbie"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"textes"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"poète"},{"t":"Space"},{"t":"Str","c":"Josée"},{"t":"Space"},{"t":"Str","c":"Yvon,"},{"t":"Space"},{"t":"Str","c":"l’auteure"},{"t":"Space"},{"t":"Str","c":"s’interroge"},{"t":"Space"},{"t":"Str","c":"sur"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"condition"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"sujet"},{"t":"Space"},{"t":"Str","c":"féminin,"},{"t":"Space"},{"t":"Str","c":"par"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"biais"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"notions"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"singularité"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"communauté"},{"t":"Space"},{"t":"Str","c":"mises"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’avant"},{"t":"Space"},{"t":"Str","c":"par"},{"t":"Space"},{"t":"Str","c":"Giorgio"},{"t":"Space"},{"t":"Str","c":"Agamben."},{"t":"Space"},{"t":"Str","c":"Elle"},{"t":"Space"},{"t":"Str","c":"montre"},{"t":"Space"},{"t":"Str","c":"d’abord"},{"t":"Space"},{"t":"Str","c":"comment,"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"façon"},{"t":"Space"},{"t":"Str","c":"totalitaire,"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"célèbre"},{"t":"Space"},{"t":"Str","c":"poupée"},{"t":"Space"},{"t":"Str","c":"contribue"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"re-produire"},{"t":"Space"},{"t":"Str","c":"l’idée"},{"t":"Space"},{"t":"Str","c":"d’un"},{"t":"Space"},{"t":"Str","c":"féminin"},{"t":"Space"},{"t":"Str","c":"anonyme,"},{"t":"Space"},{"t":"Str","c":"inorganique,"},{"t":"Space"},{"t":"Str","c":"éternellement"},{"t":"Space"},{"t":"Str","c":"propre"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"souriant."},{"t":"Space"},{"t":"Str","c":"À"},{"t":"Space"},{"t":"Str","c":"cette"},{"t":"Space"},{"t":"Str","c":"figure"},{"t":"Space"},{"t":"Str","c":"aliénante,"},{"t":"Space"},{"t":"Str","c":"l’auteure"},{"t":"Space"},{"t":"Str","c":"oppose"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"communauté"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"filles"},{"t":"Space"},{"t":"Str","c":"sans"},{"t":"Space"},{"t":"Str","c":"nom"},{"t":"Space"},{"t":"Str","c":"qui"},{"t":"Space"},{"t":"Str","c":"prend"},{"t":"Space"},{"t":"Str","c":"vie"},{"t":"Space"},{"t":"Str","c":"dans"},{"t":"Space"},{"t":"Str","c":"les"},{"t":"Space"},{"t":"Str","c":"textes"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"Josée"},{"t":"Space"},{"t":"Str","c":"Yvon."},{"t":"Space"},{"t":"Str","c":"Ces"},{"t":"Space"},{"t":"Str","c":"filles-terroristes,"},{"t":"Space"},{"t":"Str","c":"sauvages"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"incarnées,"},{"t":"Space"},{"t":"Str","c":"font"},{"t":"Space"},{"t":"Str","c":"violemment"},{"t":"Space"},{"t":"Str","c":"exploser"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"fantasme"},{"t":"Space"},{"t":"Str","c":"masculin"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"femme-poupée"},{"t":"Space"},{"t":"Str","c":"pour"},{"t":"Space"},{"t":"Str","c":"se"},{"t":"Space"},{"t":"Str","c":"répandre"},{"t":"Space"},{"t":"Str","c":"sans"},{"t":"Space"},{"t":"Str","c":"compromis"},{"t":"Space"},{"t":"Str","c":"dans"},{"t":"Space"},{"t":"Str","c":"toute"},{"t":"Space"},{"t":"Str","c":"leur"},{"t":"Space"},{"t":"Str","c":"chair"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"leur"},{"t":"Space"},{"t":"Str","c":"sang."}]},"accessed":{"t":"MetaString","c":"2020-01-30"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Delvaux"},"given":{"t":"MetaString","c":"Martine"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Globe"},{"t":"Space"},{"t":"Str","c":":"},{"t":"Space"},{"t":"Str","c":"revue"},{"t":"Space"},{"t":"Str","c":"internationale"},{"t":"Space"},{"t":"Str","c":"d’études"},{"t":"Space"},{"t":"Str","c":"québécoises"}]},"doi":{"t":"MetaString","c":"https://doi.org/10.7202/1000709ar"},"id":{"t":"MetaString","c":"delvaux_poupees_2009"},"issn":{"t":"MetaString","c":"1481-5869, 1923-8231"},"issue":{"t":"MetaInlines","c":[{"t":"Str","c":"2"}]},"issued":{"t":"MetaString","c":"2009"},"page":{"t":"MetaInlines","c":[{"t":"Str","c":"95-107"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Poupées"}]},"type":{"t":"MetaString","c":"article-journal"},"url":{"t":"MetaString","c":"https://www.erudit.org/fr/revues/globe/2009-v12-n2-globe1498040/1000709ar/"},"volume":{"t":"MetaInlines","c":[{"t":"Str","c":"12"}]}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Durepos"},"given":{"t":"MetaString","c":"Fernand"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Jet"},{"t":"Space"},{"t":"Str","c":"d’encre"}]},"id":{"t":"MetaString","c":"durepos_du_2012"},"issue":{"t":"MetaInlines","c":[{"t":"Str","c":"21"}]},"issued":{"t":"MetaString","c":"2012"},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Du"},{"t":"Space"},{"t":"Str","c":"ciel"},{"t":"Space"},{"t":"Str","c":"coulait"},{"t":"Space"},{"t":"Str","c":"un"},{"t":"Space"},{"t":"Str","c":"magma"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"suie…"}]},"type":{"t":"MetaString","c":"article-journal"}}},{"t":"MetaMap","c":{"abstract":{"t":"MetaInlines","c":[{"t":"Str","c":"\"Ce"},{"t":"Space"},{"t":"Str","c":"livre"},{"t":"Space"},{"t":"Str","c":"pourrait"},{"t":"Space"},{"t":"Str","c":"s’appeler"},{"t":"Space"},{"t":"Str","c":"Tes"},{"t":"Space"},{"t":"Str","c":"dialogues"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"Tarantino"},{"t":"Space"},{"t":"Str","c":"ou"},{"t":"Space"},{"t":"Str","c":"Demandes"},{"t":"Space"},{"t":"Str","c":"spéciales."},{"t":"Space"},{"t":"Str","c":"Je"},{"t":"Space"},{"t":"Str","c":"parle"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"cinéma"},{"t":"Space"},{"t":"Str","c":"tout"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"temps."},{"t":"Space"},{"t":"Str","c":"Je"},{"t":"Space"},{"t":"Str","c":"dis"},{"t":"Space"},{"t":"Str","c":"tout"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"temps"},{"t":"Space"},{"t":"Str","c":"que"},{"t":"Space"},{"t":"Str","c":"je"},{"t":"Space"},{"t":"Str","c":"vais"},{"t":"Space"},{"t":"Str","c":"écrire"},{"t":"Space"},{"t":"Str","c":"dix"},{"t":"Space"},{"t":"Str","c":"livres"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"que"},{"t":"Space"},{"t":"Str","c":"je"},{"t":"Space"},{"t":"Str","c":"vais"},{"t":"Space"},{"t":"Str","c":"vivre"},{"t":"Space"},{"t":"Str","c":"dix"},{"t":"Space"},{"t":"Str","c":"ans."},{"t":"Space"},{"t":"Str","c":"Que"},{"t":"Space"},{"t":"Str","c":"celui-là"},{"t":"Space"},{"t":"Str","c":"va"},{"t":"Space"},{"t":"Str","c":"s’appeler"},{"t":"Space"},{"t":"Str","c":"Cinéma"},{"t":"Space"},{"t":"Str","c":"expérimental."},{"t":"Space"},{"t":"Str","c":"Drama"},{"t":"Space"},{"t":"Str","c":"Queens,"},{"t":"Space"},{"t":"Str","c":"c’est"},{"t":"Space"},{"t":"Str","c":"comme"},{"t":"Space"},{"t":"Str","c":"son"},{"t":"Space"},{"t":"Str","c":"nom"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"danseuse."},{"t":"Space"},{"t":"Str","c":"Je"},{"t":"Space"},{"t":"Str","c":"tape"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"une"},{"t":"Space"},{"t":"Str","c":"main,"},{"t":"Space"},{"t":"Str","c":"avec"},{"t":"Space"},{"t":"Str","c":"un"},{"t":"Space"},{"t":"Str","c":"œil"},{"t":"Space"},{"t":"Str","c":"fermé."},{"t":"Space"},{"t":"Str","c":"À"},{"t":"Space"},{"t":"Str","c":"tout"},{"t":"Space"},{"t":"Str","c":"moment,"},{"t":"Space"},{"t":"Str","c":"je"},{"t":"Space"},{"t":"Str","c":"pourrais"},{"t":"Space"},{"t":"Str","c":"partir"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"convulsions."},{"t":"Space"},{"t":"Str","c":"Partir"},{"t":"Space"},{"t":"Str","c":"comme"},{"t":"Space"},{"t":"Str","c":"dans"},{"t":"Space"},{"t":"Str","c":"ne"},{"t":"Space"},{"t":"Str","c":"plus"},{"t":"Space"},{"t":"Str","c":"jamais"},{"t":"Space"},{"t":"Str","c":"revenir."},{"t":"Space"},{"t":"Str","c":"Chaque"},{"t":"Space"},{"t":"Str","c":"phrase"},{"t":"Space"},{"t":"Str","c":"est"},{"t":"Space"},{"t":"Str","c":"un"},{"t":"Space"},{"t":"Str","c":"combat."},{"t":"Space"},{"t":"Str","c":"Au"},{"t":"Space"},{"t":"Str","c":"Salon"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"livre"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"Rimouski,"},{"t":"Space"},{"t":"Str","c":"une"},{"t":"Space"},{"t":"Str","c":"dame"},{"t":"Space"},{"t":"Str","c":"a"},{"t":"Space"},{"t":"Str","c":"pris"},{"t":"Space"},{"t":"Str","c":"mon"},{"t":"Space"},{"t":"Str","c":"premier"},{"t":"Space"},{"t":"Str","c":"livre"},{"t":"Space"},{"t":"Str","c":"pour"},{"t":"Space"},{"t":"Str","c":"lire"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"quatrième"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"couverture."},{"t":"Space"},{"t":"Str","c":"Elle"},{"t":"Space"},{"t":"Str","c":"l’a"},{"t":"Space"},{"t":"Str","c":"reposé"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"évitant"},{"t":"Space"},{"t":"Str","c":"mon"},{"t":"Space"},{"t":"Str","c":"regard."},{"t":"Space"},{"t":"Str","c":"C’est"},{"t":"Space"},{"t":"Str","c":"lourd,"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"cancer,"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"mort"},{"t":"Space"},{"t":"Str","c":"pis"},{"t":"Space"},{"t":"Str","c":"ces"},{"t":"Space"},{"t":"Str","c":"affaires-là."},{"t":"Space"},{"t":"Str","c":"J’aimerais"},{"t":"Space"},{"t":"Str","c":"que"},{"t":"Space"},{"t":"Str","c":"ça"},{"t":"Space"},{"t":"Str","c":"soit"},{"t":"Space"},{"t":"Str","c":"plus"},{"t":"Space"},{"t":"Str","c":"interactif"},{"t":"Space"},{"t":"Str","c":"comme"},{"t":"Space"},{"t":"Str","c":"objet,"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"livre."},{"t":"Space"},{"t":"Str","c":"Comme"},{"t":"Space"},{"t":"Str","c":"une"},{"t":"Space"},{"t":"Str","c":"manette"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"jeu"},{"t":"Space"},{"t":"Str","c":"vidéo."},{"t":"Space"},{"t":"Str","c":"Que"},{"t":"Space"},{"t":"Str","c":"ça"},{"t":"Space"},{"t":"Str","c":"vibre"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"chaque"},{"t":"Space"},{"t":"Str","c":"fin"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"chapitre."},{"t":"Space"},{"t":"Str","c":"Mais"},{"t":"Space"},{"t":"Str","c":"c’est"},{"t":"Space"},{"t":"Str","c":"pas"},{"t":"Space"},{"t":"Str","c":"comme"},{"t":"Space"},{"t":"Str","c":"ça"},{"t":"Space"},{"t":"Str","c":"que"},{"t":"Space"},{"t":"Str","c":"ça"},{"t":"Space"},{"t":"Str","c":"marche,"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"vie."},{"t":"Space"},{"t":"Str","c":"Comment"},{"t":"Space"},{"t":"Str","c":"est-ce"},{"t":"Space"},{"t":"Str","c":"que"},{"t":"Space"},{"t":"Str","c":"ça"},{"t":"Space"},{"t":"Str","c":"se"},{"t":"Space"},{"t":"Str","c":"passe,"},{"t":"Space"},{"t":"Str","c":"mourir"},{"t":"Space"},{"t":"Str","c":"?"},{"t":"Space"},{"t":"Str","c":"Est-ce"},{"t":"Space"},{"t":"Str","c":"qu’on"},{"t":"Space"},{"t":"Str","c":"vibre"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"qu’il"},{"t":"Space"},{"t":"Str","c":"est"},{"t":"Space"},{"t":"Str","c":"écrit"},{"t":"Space"},{"t":"Str","c":"GAME"},{"t":"Space"},{"t":"Str","c":"OVER?\"–Résumé"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’éditeur."}]},"annote":{"t":"MetaInlines","c":[{"t":"Str","c":"OCLC:"},{"t":"Space"},{"t":"Str","c":"991175889"}]},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Gendreau"},"given":{"t":"MetaString","c":"Vickie"}}}]},"id":{"t":"MetaString","c":"gendreau_drama_2017"},"isbn":{"t":"MetaString","c":"978-2-89698-307-0"},"issued":{"t":"MetaString","c":"2017"},"language":{"t":"MetaString","c":"fr-FR"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Le"},{"t":"Space"},{"t":"Str","c":"Quartanier"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Montréal"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Drama"},{"t":"Space"},{"t":"Str","c":"queens"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"abstract":{"t":"MetaInlines","c":[{"t":"Str","c":"Un"},{"t":"Space"},{"t":"Str","c":"article"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"revue"},{"t":"Space"},{"t":"Str","c":"Voix"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"Images,"},{"t":"Space"},{"t":"Str","c":"diffusée"},{"t":"Space"},{"t":"Str","c":"par"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"plateforme"},{"t":"Space"},{"t":"Str","c":"Érudit."}]},"accessed":{"t":"MetaString","c":"2020-01-30"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Harel"},"given":{"t":"MetaString","c":"Simon"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Lamy"},"given":{"t":"MetaString","c":"Jonathan"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Voix"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"Images"}]},"doi":{"t":"MetaString","c":"https://doi.org/10.7202/014700ar"},"id":{"t":"MetaString","c":"harel_denis_2006"},"issn":{"t":"MetaString","c":"0318-9201, 1705-933X"},"issue":{"t":"MetaInlines","c":[{"t":"Str","c":"1"}]},"issued":{"t":"MetaString","c":"2006"},"page":{"t":"MetaInlines","c":[{"t":"Str","c":"8-18"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Denis"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Vanier"}]]},{"t":"Str","c":","},{"t":"Space"},{"t":"Str","c":"un"},{"t":"Space"},{"t":"Str","c":"monstre"},{"t":"Space"},{"t":"Str","c":"dans"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"ruelle"}]},"type":{"t":"MetaString","c":"article-journal"},"url":{"t":"MetaString","c":"https://www.erudit.org/fr/revues/vi/2006-v32-n1-vi1623/014700ar/"},"volume":{"t":"MetaInlines","c":[{"t":"Str","c":"32"}]}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Lalonde"},"given":{"t":"MetaString","c":"Catherine"}}}]},"collection-number":{"t":"MetaInlines","c":[{"t":"Str","c":"112"}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Série"},{"t":"Space"},{"t":"Str","c":"QR"}]},"id":{"t":"MetaString","c":"lalonde_devoration_2017"},"isbn":{"t":"MetaString","c":"978-2-89698-326-1"},"issued":{"t":"MetaString","c":"2017"},"keyword":{"t":"MetaInlines","c":[{"t":"Str","c":"20th"},{"t":"Space"},{"t":"Str","c":"century,"},{"t":"Space"},{"t":"Str","c":"21st"},{"t":"Space"},{"t":"Str","c":"century,"},{"t":"Space"},{"t":"Str","c":"French-Canadian"},{"t":"Space"},{"t":"Str","c":"poetry"}]},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Le"},{"t":"Space"},{"t":"Str","c":"Quartanier"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Montréal"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"La"},{"t":"Space"},{"t":"Str","c":"dévoration"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"fées"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"abstract":{"t":"MetaInlines","c":[{"t":"Str","c":"Un"},{"t":"Space"},{"t":"Str","c":"article"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"revue"},{"t":"Space"},{"t":"Str","c":"Liberté,"},{"t":"Space"},{"t":"Str","c":"diffusée"},{"t":"Space"},{"t":"Str","c":"par"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"plateforme"},{"t":"Space"},{"t":"Str","c":"Érudit."}]},"accessed":{"t":"MetaString","c":"2020-02-11"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Lalonde"},"given":{"t":"MetaString","c":"Catherine"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Liberté"}]},"id":{"t":"MetaString","c":"lalonde_mission_2014"},"issn":{"t":"MetaString","c":"0024-2020, 1923-0915"},"issue":{"t":"MetaInlines","c":[{"t":"Str","c":"303"}]},"issued":{"t":"MetaString","c":"2014"},"page":{"t":"MetaInlines","c":[{"t":"Str","c":"78-79"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Mission"},{"t":"Space"},{"t":"Str","c":"impossible"},{"t":"Space"},{"t":"Str","c":"/"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Josée"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Yvon"}]]},{"t":"Str","c":","},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Filles"}]]},{"t":"Str","c":"-commandos"},{"t":"Space"},{"t":"Str","c":"bandées,"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Les"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Herbes"}]]},{"t":"Space"},{"t":"Str","c":"rouges,"},{"t":"Space"},{"t":"Str","c":"1976,"},{"t":"Space"},{"t":"Str","c":"40"},{"t":"Space"},{"t":"Str","c":"p."}]},"type":{"t":"MetaString","c":"article-journal"},"url":{"t":"MetaString","c":"https://www.erudit.org/fr/revues/liberte/2014-n303-liberte01285/71414ac/"}}},{"t":"MetaMap","c":{"abstract":{"t":"MetaInlines","c":[{"t":"Str","c":"Vingt"},{"t":"Space"},{"t":"Str","c":"ans"},{"t":"Space"},{"t":"Str","c":"après"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"décès"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"poète"},{"t":"Space"},{"t":"Str","c":"trash"},{"t":"Space"},{"t":"Str","c":"Josée"},{"t":"Space"},{"t":"Str","c":"Yvon,"},{"t":"Space"},{"t":"Str","c":"sa"},{"t":"Space"},{"t":"Str","c":"colère"},{"t":"Space"},{"t":"Str","c":"résonne"},{"t":"Space"},{"t":"Str","c":"encore."}]},"accessed":{"t":"MetaString","c":"2020-02-11"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Lalonde"},"given":{"t":"MetaString","c":"Catherine"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Le"},{"t":"Space"},{"t":"Str","c":"Devoir"}]},"id":{"t":"MetaString","c":"lalonde_tombeau_nodate"},"issued":{"t":"MetaString","c":"2014"},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Tombeau"},{"t":"Space"},{"t":"Str","c":"d’une"},{"t":"Space"},{"t":"Str","c":"fée"},{"t":"Space"},{"t":"Str","c":"mal"},{"t":"Space"},{"t":"Str","c":"tournée"}]},"type":{"t":"MetaString","c":""},"url":{"t":"MetaString","c":"https://www.ledevoir.com/lire/410706/tombeau-d-une-fee-mal-tournee"}}},{"t":"MetaMap","c":{"annote":{"t":"MetaInlines","c":[{"t":"Str","c":"OCLC:"},{"t":"Space"},{"t":"Str","c":"1007014270"}]},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Landreville"},"given":{"t":"MetaString","c":"Mélanie"}}}]},"id":{"t":"MetaString","c":"landreville_vertiges_2016"},"isbn":{"t":"MetaString","c":"978-2-89419-566-6"},"issued":{"t":"MetaString","c":"2016"},"language":{"t":"MetaString","c":"fr-FR"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Les"},{"t":"Space"},{"t":"Str","c":"Herbes"},{"t":"Space"},{"t":"Str","c":"rouges"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Montréal"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Vertiges"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’hospitalité"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"Vertiges"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’hospitalit"},{"t":"Space"},{"t":"Str","c":"̌"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"accessed":{"t":"MetaString","c":"2020-09-29"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Mailhot"},"given":{"t":"MetaString","c":"Valérie"}}}]},"container-author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Larose"},"given":{"t":"MetaString","c":"Karim"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Rondeau"},"given":{"t":"MetaString","c":"Frédéric"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"La"},{"t":"Space"},{"t":"Str","c":"contre-culture"},{"t":"Space"},{"t":"Str","c":"au"},{"t":"Space"},{"t":"Str","c":"Québec"}]},"id":{"t":"MetaString","c":"larose_contre-culture_2016"},"isbn":{"t":"MetaString","c":"9782760635708"},"issued":{"t":"MetaString","c":"2016"},"language":{"t":"MetaString","c":"fr-FR"},"note":{"t":"MetaInlines","c":[{"t":"Str","c":"OCLC:"},{"t":"Space"},{"t":"Str","c":"1104233728"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"La"},{"t":"Space"},{"t":"Quoted","c":[{"t":"DoubleQuote"},[{"t":"Str","c":"dislocation"},{"t":"Space"},{"t":"Str","c":"révolutionnaire"}]]},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"corps"},{"t":"Space"},{"t":"Str","c":"chez"},{"t":"Space"},{"t":"Str","c":"Josée"},{"t":"Space"},{"t":"Str","c":"Yvon"}]},"type":{"t":"MetaString","c":"chapter"},"url":{"t":"MetaString","c":"http://sbiproxy.uqac.ca/login?url=https://international.scholarvox.com/book/88858493"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Laverdure"},"given":{"t":"MetaString","c":"Bertrand"}}}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Poésie"}]},"id":{"t":"MetaString","c":"laverdure_cascadeuse_2013"},"isbn":{"t":"MetaString","c":"9782896517312"},"issued":{"t":"MetaString","c":"2013"},"language":{"t":"MetaString","c":"fr-FR"},"note":{"t":"MetaInlines","c":[{"t":"Str","c":"OCLC:"},{"t":"Space"},{"t":"Str","c":"798415904"}]},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"La"},{"t":"Space"},{"t":"Str","c":"courte"},{"t":"Space"},{"t":"Str","c":"échelle"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Montréal"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Cascadeuse"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"abstract":{"t":"MetaInlines","c":[{"t":"Str","c":"Un"},{"t":"Space"},{"t":"Str","c":"article"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"revue"},{"t":"Space"},{"t":"Str","c":"Liberté,"},{"t":"Space"},{"t":"Str","c":"diffusée"},{"t":"Space"},{"t":"Str","c":"par"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"plateforme"},{"t":"Space"},{"t":"Str","c":"Érudit."}]},"accessed":{"t":"MetaString","c":"2020-01-30"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Lefort-Favreau"},"given":{"t":"MetaString","c":"Julien"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Liberté"}]},"id":{"t":"MetaString","c":"lefort-favreau_josee_2014"},"issn":{"t":"MetaString","c":"0024-2020, 1923-0915"},"issue":{"t":"MetaInlines","c":[{"t":"Str","c":"303"}]},"issued":{"t":"MetaString","c":"2014"},"page":{"t":"MetaInlines","c":[{"t":"Str","c":"75-75"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Josée"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Yvon"}]]},{"t":"Space"},{"t":"Str","c":"classique"},{"t":"Space"},{"t":"Str","c":"trash"}]},"type":{"t":"MetaString","c":"article-journal"},"url":{"t":"MetaString","c":"https://www.erudit.org/fr/revues/liberte/2014-n303-liberte01285/71411ac/"}}},{"t":"MetaMap","c":{"abstract":{"t":"MetaInlines","c":[{"t":"Str","c":"Un"},{"t":"Space"},{"t":"Str","c":"article"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"revue"},{"t":"Space"},{"t":"Str","c":"Liberté,"},{"t":"Space"},{"t":"Str","c":"diffusée"},{"t":"Space"},{"t":"Str","c":"par"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"plateforme"},{"t":"Space"},{"t":"Str","c":"Érudit."}]},"accessed":{"t":"MetaString","c":"2020-01-30"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Mavrikakis"},"given":{"t":"MetaString","c":"Catherine"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Liberté"}]},"id":{"t":"MetaString","c":"mavrikakis_inhabiter_2014"},"issn":{"t":"MetaString","c":"0024-2020, 1923-0915"},"issue":{"t":"MetaInlines","c":[{"t":"Str","c":"303"}]},"issued":{"t":"MetaString","c":"2014"},"page":{"t":"MetaInlines","c":[{"t":"Str","c":"76-77"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Inhabiter"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"monde"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"poète"}]},"type":{"t":"MetaString","c":"article-journal"},"url":{"t":"MetaString","c":"https://www.erudit.org/fr/revues/liberte/2014-n303-liberte01285/71412ac/"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Mavrikakis"},"given":{"t":"MetaString","c":"Catherine"}}}]},"container-author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Mavrikakis"},"given":{"t":"MetaString","c":"Catherine"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Lequin"},"given":{"t":"MetaString","c":"Lucie"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"La"},{"t":"Space"},{"t":"Str","c":"francophonie"},{"t":"Space"},{"t":"Str","c":"sans"},{"t":"Space"},{"t":"Str","c":"frontière:"},{"t":"Space"},{"t":"Str","c":"Une"},{"t":"Space"},{"t":"Str","c":"nouvelle"},{"t":"Space"},{"t":"Str","c":"cartographie"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’imaginaire"},{"t":"Space"},{"t":"Str","c":"au"},{"t":"Space"},{"t":"Str","c":"féminin"}]},"id":{"t":"MetaString","c":"mavrikakis_portrait_2001"},"isbn":{"t":"MetaString","c":"9782747517133"},"issued":{"t":"MetaString","c":"2001"},"note":{"t":"MetaInlines","c":[{"t":"Str","c":"OCLC:"},{"t":"Space"},{"t":"Str","c":"174798678"}]},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"L’harmattan"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Portrait"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"groupe"},{"t":"Space"},{"t":"Str","c":"avec"},{"t":"Space"},{"t":"Str","c":"dames"},{"t":"Space"},{"t":"Str","c":"ou"},{"t":"Space"},{"t":"Str","c":"comment"},{"t":"Space"},{"t":"Str","c":"penser"},{"t":"Space"},{"t":"Str","c":"une"},{"t":"Space"},{"t":"Str","c":"communauté"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"femmes"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"La"},{"t":"Space"},{"t":"Str","c":"francophonie"},{"t":"Space"},{"t":"Str","c":"sans"},{"t":"Space"},{"t":"Str","c":"frontière"}]},"type":{"t":"MetaString","c":"chapter"}}},{"t":"MetaMap","c":{"abstract":{"t":"MetaInlines","c":[{"t":"Str","c":"Pour"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"libre"},{"t":"Space"},{"t":"Str","c":"diffusion"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"écrits"},{"t":"Space"},{"t":"Str","c":"épuisés"},{"t":"Space"},{"t":"Str","c":"ou"},{"t":"Space"},{"t":"Str","c":"pas"},{"t":"Space"},{"t":"Str","c":"trouvables."}]},"accessed":{"t":"MetaString","c":"2020-02-11"},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Les"},{"t":"Space"},{"t":"Str","c":"Épuisés"}]},"id":{"t":"MetaString","c":"noauthor_les_nodate"},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Les"},{"t":"Space"},{"t":"Str","c":"épuisés"}]},"type":{"t":"MetaString","c":""},"url":{"t":"MetaString","c":"https://lesepuises.wordpress.com/"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Riendeau"},"given":{"t":"MetaString","c":"Emmanuelle"}}}]},"id":{"t":"MetaString","c":"riendeau_desinhibee_2018"},"isbn":{"t":"MetaString","c":"978-2-924682-09-8"},"issued":{"t":"MetaString","c":"2018"},"keyword":{"t":"MetaInlines","c":[{"t":"Str","c":"21st"},{"t":"Space"},{"t":"Str","c":"century,"},{"t":"Space"},{"t":"Str","c":"French-Canadian"},{"t":"Space"},{"t":"Str","c":"poetry"}]},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Les"},{"t":"Space"},{"t":"Str","c":"Éditions"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’Écrou"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Montréal"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Désinhibée"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"accessed":{"t":"MetaString","c":"2020-01-30"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Riendeau"},"given":{"t":"MetaString","c":"Emmanuelle"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Spirale"}]},"id":{"t":"MetaString","c":"riendeau_meme_nodate"},"issued":{"t":"MetaString","c":"2018"},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Même"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"fée"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"étoiles"},{"t":"Space"},{"t":"Str","c":"boit"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Molson"}]]}]},"type":{"t":"MetaString","c":""},"url":{"t":"MetaString","c":"http://magazine-spirale.com/article-dune-publication/meme-la-fee-des-etoiles-boit-de-la-molson"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Roussel"},"given":{"t":"MetaString","c":"Maggie"}}}]},"collection-number":{"t":"MetaInlines","c":[{"t":"Str","c":"106"}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Série"},{"t":"Space"},{"t":"Str","c":"QR"}]},"id":{"t":"MetaString","c":"roussel_a_2017"},"isbn":{"t":"MetaString","c":"978-2-89698-311-7"},"issued":{"t":"MetaString","c":"2017"},"keyword":{"t":"MetaInlines","c":[{"t":"Str","c":"21st"},{"t":"Space"},{"t":"Str","c":"century,"},{"t":"Space"},{"t":"Str","c":"French-Canadian,"},{"t":"Space"},{"t":"Str","c":"French-Canadian"},{"t":"Space"},{"t":"Str","c":"fiction,"},{"t":"Space"},{"t":"Str","c":"French-Canadian"},{"t":"Space"},{"t":"Str","c":"poetry,"},{"t":"Space"},{"t":"Str","c":"Short"},{"t":"Space"},{"t":"Str","c":"stories"}]},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Le"},{"t":"Space"},{"t":"Str","c":"Quartanier"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Montréal"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"À"},{"t":"Space"},{"t":"Str","c":"l’œil"},{"t":"Space"},{"t":"Str","c":"nu"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Théoret"},"given":{"t":"MetaString","c":"France"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Jet"},{"t":"Space"},{"t":"Str","c":"d’encre"}]},"id":{"t":"MetaString","c":"theoret_femme_2012"},"issue":{"t":"MetaInlines","c":[{"t":"Str","c":"21"}]},"issued":{"t":"MetaString","c":"2012"},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"La"},{"t":"Space"},{"t":"Str","c":"femme"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"personne"}]},"type":{"t":"MetaString","c":"article-journal"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Turmel"},"given":{"t":"MetaString","c":"Émilie"}}}]},"id":{"t":"MetaString","c":"turmel_casse-gueules_2018"},"isbn":{"t":"MetaString","c":"978-2-924671-17-7"},"issued":{"t":"MetaString","c":"2018"},"keyword":{"t":"MetaInlines","c":[{"t":"Str","c":"21st"},{"t":"Space"},{"t":"Str","c":"century,"},{"t":"Space"},{"t":"Str","c":"French-Canadian"},{"t":"Space"},{"t":"Str","c":"poetry"}]},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Poètes"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"Brousse"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Montréal"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Casse-gueules"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Yvon"},"given":{"t":"MetaString","c":"Josée"}}}]},"id":{"t":"MetaString","c":"yvon_danseuses-mamelouk_1982"},"issued":{"t":"MetaString","c":"1982"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"VLB"},{"t":"Space"},{"t":"Str","c":"éditeur"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Montréal"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Danseuses-mamelouk"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Yvon"},"given":{"t":"MetaString","c":"Josée"}}}]},"id":{"t":"MetaString","c":"yvon_filles-commandos_1982"},"issued":{"t":"MetaString","c":"1982"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"VLB"},{"t":"Space"},{"t":"Str","c":"éditeur"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Montréal"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Filles-commandos"},{"t":"Space"},{"t":"Str","c":"bandées"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"annote":{"t":"MetaInlines","c":[{"t":"Str","c":"La"},{"t":"Space"},{"t":"Str","c":"chienne"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’hôtel"},{"t":"Space"},{"t":"Str","c":"Tropicana"},{"t":"Space"},{"t":"Str","c":"–"},{"t":"Space"},{"t":"Str","c":"Koréphilie"},{"t":"Space"},{"t":"Str","c":"/"},{"t":"Space"},{"t":"Str","c":"Denis"},{"t":"Space"},{"t":"Str","c":"Vanier"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"&"}]]},{"t":"Space"},{"t":"Str","c":"Josée"},{"t":"Space"},{"t":"Str","c":"Yvon"},{"t":"Space"},{"t":"Str","c":"–"},{"t":"Space"},{"t":"Str","c":"Filles"},{"t":"Space"},{"t":"Str","c":"missiles"},{"t":"Space"},{"t":"Str","c":"–"},{"t":"Space"},{"t":"Str","c":"Autres"},{"t":"Space"},{"t":"Str","c":"poèmes"}]},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Yvon"},"given":{"t":"MetaString","c":"Josée"}}}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Écrits"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"forges"},{"t":"Space"},{"t":"Str","c":"poésie"}]},"id":{"t":"MetaString","c":"yvon_pages_2015"},"isbn":{"t":"MetaString","c":"978-2-89645-282-8"},"issued":{"t":"MetaString","c":"2015"},"keyword":{"t":"MetaInlines","c":[{"t":"Str","c":"French"},{"t":"Space"},{"t":"Str","c":"poetry"}]},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Écrits"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"Forges"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Trois-Rivières"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Pages"},{"t":"Space"},{"t":"Str","c":"intimes"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"ma"},{"t":"Space"},{"t":"Str","c":"peau"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Yvon"},"given":{"t":"MetaString","c":"Josée"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Liberté"}]},"id":{"t":"MetaString","c":"yvon_poche_nodate"},"issue":{"t":"MetaInlines","c":[{"t":"Str","c":"299"}]},"issued":{"t":"MetaString","c":"2013"},"note":{"t":"MetaInlines","c":[{"t":"Str","c":"Publisher:"},{"t":"Space"},{"t":"Str","c":"Collectif"},{"t":"Space"},{"t":"Str","c":"Liberté"}]},"page":{"t":"MetaInlines","c":[{"t":"Str","c":"13-13"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"La"},{"t":"Space"},{"t":"Str","c":"poche"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"autres"}]},"type":{"t":"MetaString","c":"article-journal"}}},{"t":"MetaMap","c":{"annote":{"t":"MetaInlines","c":[{"t":"Str","c":"OCLC:"},{"t":"Space"},{"t":"Str","c":"899761694"}]},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Yvon"},"given":{"t":"MetaString","c":"Josée"}}}]},"id":{"t":"MetaString","c":"yvon_travesties-kamikaze_2019"},"isbn":{"t":"MetaString","c":"978-2-89419-342-6"},"issued":{"t":"MetaString","c":"2019"},"language":{"t":"MetaString","c":"fr-FR"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Les"},{"t":"Space"},{"t":"Str","c":"Herbes"},{"t":"Space"},{"t":"Str","c":"rouges"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Montréal"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Travesties-kamikaze"}]},"type":{"t":"MetaString","c":"book"}}}]}},"blocks":[]}
+[
+  {
+    "URL": "https://via.hypothes.is/https://doctorak-go.blogspot.com/2016/02/emmanuelle-riendeau-lectures-dans-les.html",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          30
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Arsenault",
+        "given": "Mathieu"
+      }
+    ],
+    "container-title": "Doctorak, GO!",
+    "id": "arsenault_emmanuelle_2016",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          2
+        ]
+      ]
+    },
+    "keyword": "Académie 2016",
+    "title": "Emmanuelle Riendeau, Lectures dans les micros ouverts",
+    "type": ""
+  },
+  {
+    "URL": "https://via.hypothes.is/https://doctorak-go.blogspot.com/2011/02/genevieve-desrosiers-nombreux-seront.html",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          25
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Arsenault",
+        "given": "Mathieu"
+      }
+    ],
+    "container-title": "Doctorak, GO!",
+    "id": "arsenault_genevieve_2011",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "keyword": "Académie 2011",
+    "title": "Geneviève Desrosiers - Nombreux seront nos ennemis",
+    "type": ""
+  },
+  {
+    "ISSN": "0024-2020, 1923-0915",
+    "URL": "https://www.erudit.org/fr/revues/liberte/2014-n303-liberte01285/71413ac/",
+    "abstract": "Un article de la revue Liberté, diffusée par la plateforme Érudit.",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          30
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Arsenault",
+        "given": "Mathieu"
+      }
+    ],
+    "container-title": "Liberté",
+    "id": "arsenault_josee_2014",
+    "issue": "303",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "77-78",
+    "title": "Josée Yvon, ma contemporaine",
+    "type": "article-journal"
+  },
+  {
+    "ISSN": "0024-2020, 1923-0915",
+    "URL": "https://www.erudit.org/fr/revues/liberte/2016-n311-liberte02351/80452ac/",
+    "abstract": "Un article de la revue Liberté, diffusée par la plateforme Érudit.",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          30
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Arsenault",
+        "given": "Mathieu"
+      }
+    ],
+    "container-title": "Liberté",
+    "id": "arsenault_les_2016",
+    "issue": "311",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "15-16",
+    "title": "Les ayants droit",
+    "type": "article-journal"
+  },
+  {
+    "ISBN": "978-2-89698-162-5",
+    "author": [
+      {
+        "family": "Arsenault",
+        "given": "Mathieu"
+      }
+    ],
+    "collection-number": "76",
+    "collection-title": "Série QR",
+    "id": "arsenault_vie_2014",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "publisher": "Le Quartanier",
+    "title": "La vie littéraire",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Aubé-Lanctôt",
+        "given": "Amélie"
+      }
+    ],
+    "container-title": "Jet d’encre",
+    "id": "aube-lanctot__2012",
+    "issue": "21",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "title": "Josée hivon",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Aubé-Lanctôt",
+        "given": "Amélie"
+      },
+      {
+        "family": "Lamy",
+        "given": "Jonathan"
+      }
+    ],
+    "container-title": "Jet d’encre",
+    "id": "aube-lanctot_liminaire_2012",
+    "issue": "21",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "title": "Liminaire",
+    "type": "article-journal"
+  },
+  {
+    "ISBN": "978-2-7646-2027-4",
+    "annote": "OCLC: 935879036",
+    "author": [
+      {
+        "family": "Biron",
+        "given": "Michel"
+      },
+      {
+        "family": "Dumont",
+        "given": "François"
+      },
+      {
+        "family": "Nardout-Lafarge",
+        "given": "Élisabeth"
+      }
+    ],
+    "collection-number": "210",
+    "collection-title": "Boréal compact",
+    "id": "biron_histoire_2014",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "publisher": "Boréal",
+    "title": "Histoire de la littérature québécoise",
+    "type": "book"
+  },
+  {
+    "DOI": "10.7202/1027917ar",
+    "URL": "https://www.erudit.org/fr/revues/rf/2014-v27-n2-rf01646/1027917ar/",
+    "author": [
+      {
+        "family": "Boisclair",
+        "given": "Isabelle"
+      },
+      {
+        "family": "Dussault Frenette",
+        "given": "Catherine"
+      }
+    ],
+    "container-title": "Recherches féministes",
+    "id": "boisclair_mosaique_2014",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          1
+        ]
+      ]
+    },
+    "page": "39-61",
+    "title": "Mosaïque : L’écriture des femmes au Québec (1980-2010)",
+    "title-short": "Mosaïque ",
+    "type": "article-journal",
+    "volume": "27"
+  },
+  {
+    "ISBN": "978-2-89419-692-2",
+    "annote": "OCLC: 1135199104",
+    "author": [
+      {
+        "family": "Boudreault",
+        "given": "Dany"
+      },
+      {
+        "family": "Cadieux",
+        "given": "Sophie"
+      },
+      {
+        "family": "Carbonneau",
+        "given": "Maxime"
+      }
+    ],
+    "id": "boudreault_femme_2019",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "language": "fr-FR",
+    "publisher": "Herbes rouges",
+    "title": "La femme la plus dangereuse du Québec.",
+    "type": "book"
+  },
+  {
+    "DOI": "10.7202/1041054ar",
+    "ISSN": "0318-9201, 1705-933X",
+    "URL": "http://id.erudit.org/iderudit/1041054ar",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Brassard",
+        "given": "Denise"
+      }
+    ],
+    "container-title": "Voix et Images",
+    "id": "brassard_poeme_2017",
+    "issue": "3",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "137-145",
+    "title": "Le poème retourné contre soi",
+    "type": "article-journal",
+    "volume": "42"
+  },
+  {
+    "author": [
+      {
+        "family": "Cabana",
+        "given": "Marie-Hélène"
+      }
+    ],
+    "container-title": "Jet d’encre",
+    "id": "cabana_cycle_2012",
+    "issue": "21",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "title": "Cycle Sluts from Hell",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Charette",
+        "given": "Jonathan"
+      }
+    ],
+    "container-title": "Jet d’encre",
+    "id": "charette_naissance_2012",
+    "issue": "21",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "title": "Naissance de Frances Bean Cobain",
+    "type": "article-journal"
+  },
+  {
+    "ISBN": "978-2-924671-10-8",
+    "author": [
+      {
+        "family": "Colonna",
+        "given": "Daria"
+      }
+    ],
+    "id": "colonna_ne_2017",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "keyword": "21st century, French-Canadian poetry",
+    "publisher": "Poètes de brousse",
+    "title": "Ne faites pas honte à votre siècle",
+    "type": "book"
+  },
+  {
+    "ISBN": "978-2-89091-465-0 978-2-89091-466-7 978-2-89091-467-4",
+    "author": [
+      {
+        "family": "Delvaux",
+        "given": "Martine"
+      }
+    ],
+    "id": "delvaux_les_2013",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "publisher": "Éditions du Remue-ménage",
+    "title": "Les filles en série : Des Barbies aux Pussy Riot",
+    "title-short": "Les filles en série",
+    "type": "book"
+  },
+  {
+    "DOI": "https://doi.org/10.7202/1000709ar",
+    "ISSN": "1481-5869, 1923-8231",
+    "URL": "https://www.erudit.org/fr/revues/globe/2009-v12-n2-globe1498040/1000709ar/",
+    "abstract": "À partir de la figure de Barbie et des textes de la poète Josée Yvon, l’auteure s’interroge sur la condition du sujet féminin, par le biais des notions de singularité et de communauté mises de l’avant par Giorgio Agamben. Elle montre d’abord comment, de façon totalitaire, la célèbre poupée contribue à re-produire l’idée d’un féminin anonyme, inorganique, éternellement propre et souriant. À cette figure aliénante, l’auteure oppose la communauté de filles sans nom qui prend vie dans les textes de Josée Yvon. Ces filles-terroristes, sauvages et incarnées, font violemment exploser le fantasme masculin de la femme-poupée pour se répandre sans compromis dans toute leur chair et leur sang.",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          30
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Delvaux",
+        "given": "Martine"
+      }
+    ],
+    "container-title": "Globe : revue internationale d’études québécoises",
+    "id": "delvaux_poupees_2009",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "page": "95-107",
+    "title": "Poupées",
+    "type": "article-journal",
+    "volume": "12"
+  },
+  {
+    "author": [
+      {
+        "family": "Durepos",
+        "given": "Fernand"
+      }
+    ],
+    "container-title": "Jet d’encre",
+    "id": "durepos_du_2012",
+    "issue": "21",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "title": "Du ciel coulait un magma de suie…",
+    "type": "article-journal"
+  },
+  {
+    "ISBN": "978-2-89698-307-0",
+    "abstract": "\"Ce livre pourrait s’appeler Tes dialogues de Tarantino ou Demandes spéciales. Je parle de cinéma tout le temps. Je dis tout le temps que je vais écrire dix livres et que je vais vivre dix ans. Que celui-là va s’appeler Cinéma expérimental. Drama Queens, c’est comme son nom de danseuse. Je tape à une main, avec un œil fermé. À tout moment, je pourrais partir en convulsions. Partir comme dans ne plus jamais revenir. Chaque phrase est un combat. Au Salon du livre de Rimouski, une dame a pris mon premier livre pour lire la quatrième de couverture. Elle l’a reposé en évitant mon regard. C’est lourd, le cancer, la mort pis ces affaires-là. J’aimerais que ça soit plus interactif comme objet, le livre. Comme une manette de jeu vidéo. Que ça vibre à chaque fin de chapitre. Mais c’est pas comme ça que ça marche, la vie. Comment est-ce que ça se passe, mourir ? Est-ce qu’on vibre et qu’il est écrit GAME OVER?\"–Résumé de l’éditeur.",
+    "annote": "OCLC: 991175889",
+    "author": [
+      {
+        "family": "Gendreau",
+        "given": "Vickie"
+      }
+    ],
+    "id": "gendreau_drama_2017",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "language": "fr-FR",
+    "publisher": "Le Quartanier",
+    "title": "Drama queens",
+    "type": "book"
+  },
+  {
+    "DOI": "https://doi.org/10.7202/014700ar",
+    "ISSN": "0318-9201, 1705-933X",
+    "URL": "https://www.erudit.org/fr/revues/vi/2006-v32-n1-vi1623/014700ar/",
+    "abstract": "Un article de la revue Voix et Images, diffusée par la plateforme Érudit.",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          30
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Harel",
+        "given": "Simon"
+      },
+      {
+        "family": "Lamy",
+        "given": "Jonathan"
+      }
+    ],
+    "container-title": "Voix et Images",
+    "id": "harel_denis_2006",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "page": "8-18",
+    "title": "Denis Vanier, un monstre dans la ruelle",
+    "type": "article-journal",
+    "volume": "32"
+  },
+  {
+    "ISBN": "978-2-89698-326-1",
+    "author": [
+      {
+        "family": "Lalonde",
+        "given": "Catherine"
+      }
+    ],
+    "collection-number": "112",
+    "collection-title": "Série QR",
+    "id": "lalonde_devoration_2017",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "keyword": "20th century, 21st century, French-Canadian poetry",
+    "publisher": "Le Quartanier",
+    "title": "La dévoration des fées",
+    "type": "book"
+  },
+  {
+    "ISSN": "0024-2020, 1923-0915",
+    "URL": "https://www.erudit.org/fr/revues/liberte/2014-n303-liberte01285/71414ac/",
+    "abstract": "Un article de la revue Liberté, diffusée par la plateforme Érudit.",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Lalonde",
+        "given": "Catherine"
+      }
+    ],
+    "container-title": "Liberté",
+    "id": "lalonde_mission_2014",
+    "issue": "303",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "78-79",
+    "title": "Mission impossible / Josée Yvon, Filles-commandos bandées, Les Herbes rouges, 1976, 40 p.",
+    "type": "article-journal"
+  },
+  {
+    "URL": "https://www.ledevoir.com/lire/410706/tombeau-d-une-fee-mal-tournee",
+    "abstract": "Vingt ans après le décès de la poète trash Josée Yvon, sa colère résonne encore.",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Lalonde",
+        "given": "Catherine"
+      }
+    ],
+    "container-title": "Le Devoir",
+    "id": "lalonde_tombeau_nodate",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "title": "Tombeau d’une fée mal tournée",
+    "type": ""
+  },
+  {
+    "ISBN": "978-2-89419-566-6",
+    "annote": "OCLC: 1007014270",
+    "author": [
+      {
+        "family": "Landreville",
+        "given": "Mélanie"
+      }
+    ],
+    "id": "landreville_vertiges_2016",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "language": "fr-FR",
+    "publisher": "Les Herbes rouges",
+    "title": "Vertiges de l’hospitalité",
+    "title-short": "Vertiges de l’hospitalit ̌",
+    "type": "book"
+  },
+  {
+    "ISBN": "9782760635708",
+    "URL": "http://sbiproxy.uqac.ca/login?url=https://international.scholarvox.com/book/88858493",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          29
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Mailhot",
+        "given": "Valérie"
+      }
+    ],
+    "container-author": [
+      {
+        "family": "Larose",
+        "given": "Karim"
+      },
+      {
+        "family": "Rondeau",
+        "given": "Frédéric"
+      }
+    ],
+    "container-title": "La contre-culture au Québec",
+    "id": "larose_contre-culture_2016",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "language": "fr-FR",
+    "note": "OCLC: 1104233728",
+    "title": "La “dislocation révolutionnaire” des corps chez Josée Yvon",
+    "type": "chapter"
+  },
+  {
+    "ISBN": "9782896517312",
+    "author": [
+      {
+        "family": "Laverdure",
+        "given": "Bertrand"
+      }
+    ],
+    "collection-title": "Poésie",
+    "id": "laverdure_cascadeuse_2013",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "language": "fr-FR",
+    "note": "OCLC: 798415904",
+    "publisher": "La courte échelle",
+    "title": "Cascadeuse",
+    "type": "book"
+  },
+  {
+    "ISSN": "0024-2020, 1923-0915",
+    "URL": "https://www.erudit.org/fr/revues/liberte/2014-n303-liberte01285/71411ac/",
+    "abstract": "Un article de la revue Liberté, diffusée par la plateforme Érudit.",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          30
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Lefort-Favreau",
+        "given": "Julien"
+      }
+    ],
+    "container-title": "Liberté",
+    "id": "lefort-favreau_josee_2014",
+    "issue": "303",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "75-75",
+    "title": "Josée Yvon classique trash",
+    "type": "article-journal"
+  },
+  {
+    "ISSN": "0024-2020, 1923-0915",
+    "URL": "https://www.erudit.org/fr/revues/liberte/2014-n303-liberte01285/71412ac/",
+    "abstract": "Un article de la revue Liberté, diffusée par la plateforme Érudit.",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          30
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Mavrikakis",
+        "given": "Catherine"
+      }
+    ],
+    "container-title": "Liberté",
+    "id": "mavrikakis_inhabiter_2014",
+    "issue": "303",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "76-77",
+    "title": "Inhabiter le monde en poète",
+    "type": "article-journal"
+  },
+  {
+    "ISBN": "9782747517133",
+    "author": [
+      {
+        "family": "Mavrikakis",
+        "given": "Catherine"
+      }
+    ],
+    "container-author": [
+      {
+        "family": "Mavrikakis",
+        "given": "Catherine"
+      },
+      {
+        "family": "Lequin",
+        "given": "Lucie"
+      }
+    ],
+    "container-title": "La francophonie sans frontière: Une nouvelle cartographie de l’imaginaire au féminin",
+    "id": "mavrikakis_portrait_2001",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "note": "OCLC: 174798678",
+    "publisher": "L’harmattan",
+    "title": "Portrait de groupe avec dames ou comment penser une communauté de femmes",
+    "title-short": "La francophonie sans frontière",
+    "type": "chapter"
+  },
+  {
+    "URL": "https://lesepuises.wordpress.com/",
+    "abstract": "Pour la libre diffusion des écrits épuisés ou pas trouvables.",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          11
+        ]
+      ]
+    },
+    "container-title": "Les Épuisés",
+    "id": "noauthor_les_nodate",
+    "title": "Les épuisés",
+    "type": ""
+  },
+  {
+    "ISBN": "978-2-924682-09-8",
+    "author": [
+      {
+        "family": "Riendeau",
+        "given": "Emmanuelle"
+      }
+    ],
+    "id": "riendeau_desinhibee_2018",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "keyword": "21st century, French-Canadian poetry",
+    "publisher": "Les Éditions de l’Écrou",
+    "title": "Désinhibée",
+    "type": "book"
+  },
+  {
+    "URL": "http://magazine-spirale.com/article-dune-publication/meme-la-fee-des-etoiles-boit-de-la-molson",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          30
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Riendeau",
+        "given": "Emmanuelle"
+      }
+    ],
+    "container-title": "Spirale",
+    "id": "riendeau_meme_nodate",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "title": "Même la fée des étoiles boit de la Molson",
+    "type": ""
+  },
+  {
+    "ISBN": "978-2-89698-311-7",
+    "author": [
+      {
+        "family": "Roussel",
+        "given": "Maggie"
+      }
+    ],
+    "collection-number": "106",
+    "collection-title": "Série QR",
+    "id": "roussel_a_2017",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "keyword": "21st century, French-Canadian, French-Canadian fiction, French-Canadian poetry, Short stories",
+    "publisher": "Le Quartanier",
+    "title": "À l’œil nu",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Théoret",
+        "given": "France"
+      }
+    ],
+    "container-title": "Jet d’encre",
+    "id": "theoret_femme_2012",
+    "issue": "21",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "title": "La femme de personne",
+    "type": "article-journal"
+  },
+  {
+    "ISBN": "978-2-924671-17-7",
+    "author": [
+      {
+        "family": "Turmel",
+        "given": "Émilie"
+      }
+    ],
+    "id": "turmel_casse-gueules_2018",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "keyword": "21st century, French-Canadian poetry",
+    "publisher": "Poètes de Brousse",
+    "title": "Casse-gueules",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Yvon",
+        "given": "Josée"
+      }
+    ],
+    "id": "yvon_danseuses-mamelouk_1982",
+    "issued": {
+      "date-parts": [
+        [
+          1982
+        ]
+      ]
+    },
+    "publisher": "VLB éditeur",
+    "title": "Danseuses-mamelouk",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Yvon",
+        "given": "Josée"
+      }
+    ],
+    "id": "yvon_filles-commandos_1982",
+    "issued": {
+      "date-parts": [
+        [
+          1982
+        ]
+      ]
+    },
+    "publisher": "VLB éditeur",
+    "title": "Filles-commandos bandées",
+    "type": "book"
+  },
+  {
+    "ISBN": "978-2-89645-282-8",
+    "annote": "La chienne de l’hôtel Tropicana – Koréphilie / Denis Vanier & Josée Yvon – Filles missiles – Autres poèmes",
+    "author": [
+      {
+        "family": "Yvon",
+        "given": "Josée"
+      }
+    ],
+    "collection-title": "Écrits des forges poésie",
+    "id": "yvon_pages_2015",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "keyword": "French poetry",
+    "publisher": "Écrits des Forges",
+    "title": "Pages intimes de ma peau",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Yvon",
+        "given": "Josée"
+      }
+    ],
+    "container-title": "Liberté",
+    "id": "yvon_poche_nodate",
+    "issue": "299",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "note": "Publisher: Collectif Liberté",
+    "page": "13-13",
+    "title": "La poche des autres",
+    "type": "article-journal"
+  },
+  {
+    "ISBN": "978-2-89419-342-6",
+    "annote": "OCLC: 899761694",
+    "author": [
+      {
+        "family": "Yvon",
+        "given": "Josée"
+      }
+    ],
+    "id": "yvon_travesties-kamikaze_2019",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "language": "fr-FR",
+    "publisher": "Les Herbes rouges",
+    "title": "Travesties-kamikaze",
+    "type": "book"
+  }
+]

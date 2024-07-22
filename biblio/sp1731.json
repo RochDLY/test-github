@@ -1,1 +1,873 @@
-{"pandoc-api-version":[1,23],"meta":{"nocite":{"t":"MetaInlines","c":[{"t":"Cite","c":[[{"citationId":"*","citationPrefix":[],"citationSuffix":[],"citationMode":{"t":"NormalCitation"},"citationNoteNum":0,"citationHash":0}],[{"t":"Str","c":"[@*]"}]]}]},"references":{"t":"MetaList","c":[{"t":"MetaMap","c":{"accessed":{"t":"MetaString","c":"2024-04-01"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Almas"},"given":{"t":"MetaString","c":"Bridget"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Beaulieu"},"given":{"t":"MetaString","c":"Marie-Claire"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Digital"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Classics"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Outside"}]]},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Echo"}]]},{"t":"Str","c":"-"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Chamber"}]]},{"t":"Str","c":":"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Teaching"}]]},{"t":"Str","c":","},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Knowledge"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Exchange"}]]},{"t":"Space"},{"t":"Str","c":"&"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Public"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Engagement"}]]}]},"doi":{"t":"MetaString","c":"10.5334/bat.j"},"editor":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Bodard"},"given":{"t":"MetaString","c":"Gabriel"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Romanello"},"given":{"t":"MetaString","c":"Matteo"}}}]},"id":{"t":"MetaString","c":"bodard_perseids_2016"},"isbn":{"t":"MetaString","c":"978-1-909188-46-4"},"issued":{"t":"MetaString","c":"2016"},"keyword":{"t":"MetaInlines","c":[{"t":"Str","c":"Digital"},{"t":"Space"},{"t":"Str","c":"Philology,"},{"t":"Space"},{"t":"Str","c":"Encore"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"ligne,"},{"t":"Space"},{"t":"Str","c":"Méthodologies/Outils"}]},"page":{"t":"MetaInlines","c":[{"t":"Str","c":"171-186"}]},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Ubiquity"},{"t":"Space"},{"t":"Str","c":"Press"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"The"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Perseids"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Platform"}]]},{"t":"Str","c":":"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Scholarship"}]]},{"t":"Space"},{"t":"Str","c":"for"},{"t":"Space"},{"t":"Str","c":"all!"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"The"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Perseids"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Platform"}]]}]},"type":{"t":"MetaString","c":"chapter"},"url":{"t":"MetaString","c":"http://www.ubiquitypress.com/site/chapters/10.5334/bat.j/"}}},{"t":"MetaMap","c":{"accessed":{"t":"MetaString","c":"2024-03-12"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Fernández Riva"},"given":{"t":"MetaString","c":"Gustavo"}}}]},"doi":{"t":"MetaString","c":"10.11588/HEIDOK.00028583"},"id":{"t":"MetaString","c":"fernandez_riva_guidelines_2020"},"issued":{"t":"MetaString","c":"2020"},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Guidelines"},{"t":"Space"},{"t":"Str","c":"for"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Annotation"}]]},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Digital"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Facsimile"}]]},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Emph","c":[{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Anthologia"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Palatina"}]]}]},{"t":"Space"},{"t":"Str","c":"("},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Cod"}]]},{"t":"Str","c":"."},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Pal"}]]},{"t":"Str","c":"."},{"t":"Space"},{"t":"Str","c":"Graec."},{"t":"Space"},{"t":"Str","c":"23)"}]},"type":{"t":"MetaString","c":""},"url":{"t":"MetaString","c":"http://archiv.ub.uni-heidelberg.de/volltextserver/id/eprint/28583"}}},{"t":"MetaMap","c":{"accessed":{"t":"MetaString","c":"2024-03-11"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Lévy"},"given":{"t":"MetaString","c":"Pierre"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Sociétés"}]},"doi":{"t":"MetaString","c":"10.3917/soc.079.0105"},"id":{"t":"MetaString","c":"levy_jeu_2003"},"issn":{"t":"MetaString","c":"0765-3697, 1782-155X"},"issue":{"t":"MetaInlines","c":[{"t":"Str","c":"1"}]},"issued":{"t":"MetaString","c":"2003"},"page":{"t":"MetaInlines","c":[{"t":"Str","c":"105-122"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Le"},{"t":"Space"},{"t":"Str","c":"jeu"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’intelligence"},{"t":"Space"},{"t":"Str","c":"collective"}]},"type":{"t":"MetaString","c":"article-journal"},"url":{"t":"MetaString","c":"http://www.cairn.info/revue-societes-2003-1-page-105.htm"},"volume":{"t":"MetaInlines","c":[{"t":"Str","c":"79"}]}}},{"t":"MetaMap","c":{"abstract":{"t":"MetaInlines","c":[{"t":"Str","c":"Carte"},{"t":"Space"},{"t":"Str","c":"sémantique"},{"t":"Space"},{"t":"Str","c":"de l’intelligence"},{"t":"Space"},{"t":"Str","c":"collective"},{"t":"Space"},{"t":"Str","c":"La"},{"t":"Space"},{"t":"Str","c":"carte"},{"t":"Space"},{"t":"Str","c":"ci-dessus schématise"},{"t":"Space"},{"t":"Str","c":"les"},{"t":"Space"},{"t":"Str","c":"grandes"},{"t":"Space"},{"t":"Str","c":"structures"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’intelligence"},{"t":"Space"},{"t":"Str","c":"collective"},{"t":"Space"},{"t":"Str","c":"humaine"},{"t":"Space"},{"t":"Str","c":"telles"},{"t":"Space"},{"t":"Str","c":"que"},{"t":"Space"},{"t":"Str","c":"nous"},{"t":"Space"},{"t":"Str","c":"les"},{"t":"Space"},{"t":"Str","c":"appréhendons"},{"t":"Space"},{"t":"Str","c":"au"},{"t":"Space"},{"t":"Str","c":"début"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"XXIe…"}]},"accessed":{"t":"MetaString","c":"2024-03-11"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Lévy"},"given":{"t":"MetaString","c":"Pierre"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Pierre"},{"t":"Space"},{"t":"Str","c":"Levy’s"},{"t":"Space"},{"t":"Str","c":"Blog"}]},"id":{"t":"MetaString","c":"levy_cultiver_2016"},"issued":{"t":"MetaString","c":"2016-03"},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Cultiver"},{"t":"Space"},{"t":"Str","c":"l’intelligence"},{"t":"Space"},{"t":"Str","c":"collective"}]},"type":{"t":"MetaString","c":""},"url":{"t":"MetaString","c":"https://pierrelevyblog.com/2016/03/30/cultiver-lintelligence-collective/"}}},{"t":"MetaMap","c":{"abstract":{"t":"MetaInlines","c":[{"t":"Str","c":"Si"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"passage"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"institutions"},{"t":"Space"},{"t":"Str","c":"patrimoniales"},{"t":"Space"},{"t":"Str","c":"dans"},{"t":"Space"},{"t":"Str","c":"l’ère"},{"t":"Space"},{"t":"Str","c":"numérique"},{"t":"Space"},{"t":"Str","c":"a"},{"t":"Space"},{"t":"Str","c":"d’abord"},{"t":"Space"},{"t":"Str","c":"été"},{"t":"Space"},{"t":"Str","c":"marqué"},{"t":"Space"},{"t":"Str","c":"par"},{"t":"Space"},{"t":"Str","c":"un"},{"t":"Space"},{"t":"Str","c":"paradigme"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’accès,"},{"t":"Space"},{"t":"Str","c":"un"},{"t":"Space"},{"t":"Str","c":"nouveau"},{"t":"Space"},{"t":"Str","c":"chantier"},{"t":"Space"},{"t":"Str","c":"s’ouvre"},{"t":"Space"},{"t":"Str","c":"désormais"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"côté"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"enjeux"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"modalités"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"circulation"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"patrimoines"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"ligne."},{"t":"Space"},{"t":"Str","c":"Là"},{"t":"Space"},{"t":"Str","c":"où"},{"t":"Space"},{"t":"Str","c":"l’usager"},{"t":"Space"},{"t":"Str","c":"était"},{"t":"Space"},{"t":"Str","c":"traditionnellement"},{"t":"Space"},{"t":"Str","c":"invité"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"venir"},{"t":"Space"},{"t":"Str","c":"profiter"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"fonds"},{"t":"Space"},{"t":"Str","c":"patrimoniaux"},{"t":"Space"},{"t":"Str","c":"dans"},{"t":"Space"},{"t":"Str","c":"les"},{"t":"Space"},{"t":"Str","c":"archives,"},{"t":"Space"},{"t":"Str","c":"les"},{"t":"Space"},{"t":"Str","c":"musées"},{"t":"Space"},{"t":"Str","c":"ou"},{"t":"Space"},{"t":"Str","c":"les"},{"t":"Space"},{"t":"Str","c":"bibliothèques,"},{"t":"Space"},{"t":"Str","c":"ce"},{"t":"Space"},{"t":"Str","c":"sont"},{"t":"Space"},{"t":"Str","c":"ces"},{"t":"Space"},{"t":"Str","c":"derniers"},{"t":"Space"},{"t":"Str","c":"qui,"},{"t":"Space"},{"t":"Str","c":"aujourd’hui,"},{"t":"Space"},{"t":"Str","c":"se"},{"t":"Space"},{"t":"Str","c":"rendent"},{"t":"Space"},{"t":"Str","c":"directement"},{"t":"Space"},{"t":"Str","c":"jusqu’à"},{"t":"Space"},{"t":"Str","c":"l’usager."},{"t":"Space"},{"t":"Str","c":"Ce"},{"t":"Space"},{"t":"Str","c":"paradigme"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"circulation"},{"t":"Space"},{"t":"Str","c":"déplace"},{"t":"Space"},{"t":"Str","c":"l’enjeu"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’accès"},{"t":"Space"},{"t":"Str","c":"vers"},{"t":"Space"},{"t":"Str","c":"un"},{"t":"Space"},{"t":"Str","c":"enjeu"},{"t":"Space"},{"t":"Str","c":"d’"},{"t":"Quoted","c":[{"t":"DoubleQuote"},[{"t":"Str","c":"ouverture"}]]},{"t":"Str","c":","},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"nous"},{"t":"Space"},{"t":"Str","c":"permet"},{"t":"Space"},{"t":"Str","c":"d’entrer"},{"t":"Space"},{"t":"Str","c":"dans"},{"t":"Space"},{"t":"Str","c":"l’ère"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"ce"},{"t":"Space"},{"t":"Str","c":"que"},{"t":"Space"},{"t":"Str","c":"Shanks"},{"t":"Space"},{"t":"Str","c":"(2008)"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"Giannachi"},{"t":"Space"},{"t":"Str","c":"(2016)"},{"t":"Space"},{"t":"Str","c":"ont"},{"t":"Space"},{"t":"Str","c":"qualifié"},{"t":"Space"},{"t":"Str","c":"d’“archive"},{"t":"Space"},{"t":"Str","c":"3.0\","},{"t":"Space"},{"t":"Str","c":"soit"},{"t":"Space"},{"t":"Str","c":"une"},{"t":"Space"},{"t":"Str","c":"archive"},{"t":"Space"},{"t":"Str","c":"qui"},{"t":"Space"},{"t":"Str","c":"se"},{"t":"Space"},{"t":"Str","c":"conçoit"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"fois"},{"t":"Space"},{"t":"Str","c":"comme"},{"t":"Space"},{"t":"Str","c":"un"},{"t":"Space"},{"t":"Str","c":"objet"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"un"},{"t":"Space"},{"t":"Str","c":"processus"},{"t":"Space"},{"t":"Str","c":":"},{"t":"Space"},{"t":"Str","c":"une"},{"t":"Space"},{"t":"Str","c":"archive"},{"t":"Space"},{"t":"Str","c":"performée"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"performative,"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"quelque"},{"t":"Space"},{"t":"Str","c":"sorte."},{"t":"Space"},{"t":"Str","c":"Cette"},{"t":"Space"},{"t":"Str","c":"mutation"},{"t":"Space"},{"t":"Str","c":"nous"},{"t":"Space"},{"t":"Str","c":"engage"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"repenser"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"sens"},{"t":"Space"},{"t":"Str","c":"même"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"objets"},{"t":"Space"},{"t":"Str","c":"patrimoniaux,"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"travers"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"distinction"},{"t":"Space"},{"t":"Str","c":"entre"},{"t":"Space"},{"t":"Quoted","c":[{"t":"DoubleQuote"},[{"t":"Str","c":"pratiques"}]]},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Quoted","c":[{"t":"DoubleQuote"},[{"t":"Str","c":"usages"}]]},{"t":"Space"},{"t":"Str","c":"explicitée"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"introduction"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"cet"},{"t":"Space"},{"t":"Str","c":"ouvrage."},{"t":"Space"},{"t":"Str","c":"Les"},{"t":"Space"},{"t":"Str","c":"politiques"},{"t":"Space"},{"t":"Str","c":"d’accès"},{"t":"Space"},{"t":"Str","c":"n’ont"},{"t":"Space"},{"t":"Str","c":"pas"},{"t":"Space"},{"t":"Str","c":"eu"},{"t":"Space"},{"t":"Str","c":"pour"},{"t":"Space"},{"t":"Str","c":"seule"},{"t":"Space"},{"t":"Str","c":"conséquence"},{"t":"Space"},{"t":"Str","c":"d’élargir"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"public,"},{"t":"Space"},{"t":"Str","c":"elles"},{"t":"Space"},{"t":"Str","c":"ont"},{"t":"Space"},{"t":"Str","c":"encouragé"},{"t":"Space"},{"t":"Str","c":"l’implication"},{"t":"Space"},{"t":"Str","c":"croissante"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"ce"},{"t":"Space"},{"t":"Str","c":"dernier"},{"t":"Space"},{"t":"Str","c":"dans"},{"t":"Space"},{"t":"Str","c":"l’entreprise"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"diffusion"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"d’interprétation"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"documents"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"oeuvres."},{"t":"Space"},{"t":"Str","c":"Mais"},{"t":"Space"},{"t":"Str","c":"un"},{"t":"Space"},{"t":"Str","c":"tel"},{"t":"Space"},{"t":"Str","c":"principe,"},{"t":"Space"},{"t":"Str","c":"évidemment"},{"t":"Space"},{"t":"Str","c":"louable,"},{"t":"Space"},{"t":"Str","c":"pose"},{"t":"Space"},{"t":"Str","c":"aussitôt"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"nombreux"},{"t":"Space"},{"t":"Str","c":"défis"},{"t":"Space"},{"t":"Str","c":"heuristiques"},{"t":"Space"},{"t":"Str","c":":"},{"t":"Space"},{"t":"Str","c":"sur"},{"t":"Space"},{"t":"Str","c":"les"},{"t":"Space"},{"t":"Str","c":"usages"},{"t":"Space"},{"t":"Str","c":"imaginés"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"parfois"},{"t":"Space"},{"t":"Str","c":"prescrits"},{"t":"Space"},{"t":"Str","c":"par"},{"t":"Space"},{"t":"Str","c":"les"},{"t":"Space"},{"t":"Str","c":"institutions,"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"pratiques"},{"t":"Space"},{"t":"Str","c":"amateurs"},{"t":"Space"},{"t":"Str","c":"inédites"},{"t":"Space"},{"t":"Str","c":"émergent,"},{"t":"Space"},{"t":"Str","c":"pouvant"},{"t":"Space"},{"t":"Str","c":"modifier"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"profondeur"},{"t":"Space"},{"t":"Str","c":"les"},{"t":"Space"},{"t":"Str","c":"valeurs"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"sens"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"collections"},{"t":"Space"},{"t":"Str","c":"patrimoniales"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"disciplines"},{"t":"Space"},{"t":"Str","c":"qui"},{"t":"Space"},{"t":"Str","c":"s’y"},{"t":"Space"},{"t":"Str","c":"rattachent."},{"t":"Space"},{"t":"Str","c":"La"},{"t":"Space"},{"t":"Str","c":"mise"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"ligne"},{"t":"Space"},{"t":"Str","c":"massive"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"patrimoines"},{"t":"Space"},{"t":"Str","c":"numérisés"},{"t":"Space"},{"t":"Str","c":"renvoie"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"fait"},{"t":"Space"},{"t":"Str","c":"au"},{"t":"Space"},{"t":"Str","c":"défi"},{"t":"Space"},{"t":"Str","c":"fondamental"},{"t":"Space"},{"t":"Str","c":"posé"},{"t":"Space"},{"t":"Str","c":"par"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"concept"},{"t":"Space"},{"t":"Str","c":"contemporain"},{"t":"Space"},{"t":"Str","c":"d’éditorialisation"},{"t":"Space"},{"t":"Str","c":":"},{"t":"Space"},{"t":"Str","c":"œuvrer"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"mise"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"disposition"},{"t":"Space"},{"t":"Str","c":"d’un"},{"t":"Space"},{"t":"Str","c":"contenu"},{"t":"Space"},{"t":"Str","c":"pour"},{"t":"Space"},{"t":"Str","c":"mieux"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"perdre"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"contrôle"},{"t":"Space"},{"t":"Str","c":"(ce"},{"t":"Space"},{"t":"Str","c":"que"},{"t":"Space"},{"t":"Str","c":"Louise"},{"t":"Space"},{"t":"Str","c":"Merzeau"},{"t":"Space"},{"t":"Str","c":"a"},{"t":"Space"},{"t":"Str","c":"notamment"},{"t":"Space"},{"t":"Str","c":"qualifié"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Quoted","c":[{"t":"DoubleQuote"},[{"t":"Str","c":"maîtrise"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"déprise"}]]},{"t":"Str","c":")."},{"t":"Space"},{"t":"Str","c":"Dans"},{"t":"Space"},{"t":"Str","c":"ce"},{"t":"Space"},{"t":"Str","c":"chapitre,"},{"t":"Space"},{"t":"Str","c":"nous"},{"t":"Space"},{"t":"Str","c":"verrons"},{"t":"Space"},{"t":"Str","c":"comment"},{"t":"Space"},{"t":"Str","c":"l’éditorialisation"},{"t":"Space"},{"t":"Str","c":"conçue"},{"t":"Space"},{"t":"Str","c":"comme"},{"t":"Space"},{"t":"Str","c":"un"},{"t":"Space"},{"t":"Str","c":"acte"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"patrimonialisation"},{"t":"Space"},{"t":"Str","c":"vient"},{"t":"Space"},{"t":"Str","c":"redéfinir"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"mission"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"institutions"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"charge"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"contenus"},{"t":"Space"},{"t":"Str","c":"patrimoniaux"},{"t":"Space"},{"t":"Str","c":"et,"},{"t":"Space"},{"t":"Str","c":"avec"},{"t":"Space"},{"t":"Str","c":"elle,"},{"t":"Space"},{"t":"Str","c":"nos"},{"t":"Space"},{"t":"Str","c":"grands"},{"t":"Space"},{"t":"Str","c":"concepts"},{"t":"Space"},{"t":"Str","c":"culturels."}]},"accessed":{"t":"MetaString","c":"2024-03-08"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Monjour"},"given":{"t":"MetaString","c":"Servanne"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Les"},{"t":"Space"},{"t":"Str","c":"devenirs"},{"t":"Space"},{"t":"Str","c":"numériques"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"patrimoines"}]},"editor":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Bohet"},"given":{"t":"MetaString","c":"Baptiste"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Pringuet"},"given":{"t":"MetaString","c":"Pringuet"}}}]},"id":{"t":"MetaString","c":"monjour_editorialisation_2022"},"issued":{"t":"MetaString","c":"2022"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Editions"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"Maison"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"sciences"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’homme,"},{"t":"Space"},{"t":"Str","c":"Paris"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Editorialisation,"},{"t":"Space"},{"t":"Str","c":"rééditorialisation"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"patrimonialisation"}]},"type":{"t":"MetaString","c":"chapter"},"url":{"t":"MetaString","c":"https://hal.science/hal-03949846"}}},{"t":"MetaMap","c":{"abstract":{"t":"MetaInlines","c":[{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"<"}]]},{"t":"Str","c":"p"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":">"}]]},{"t":"Str","c":"Si"},{"t":"Space"},{"t":"Str","c":"l’on"},{"t":"Space"},{"t":"Str","c":"s’accorde"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"dire"},{"t":"Space"},{"t":"Str","c":"que"},{"t":"Space"},{"t":"Str","c":"les"},{"t":"Space"},{"t":"Str","c":"outils"},{"t":"Space"},{"t":"Str","c":"numériques"},{"t":"Space"},{"t":"Str","c":"ont"},{"t":"Space"},{"t":"Str","c":"modifié"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"profondeur"},{"t":"Space"},{"t":"Str","c":"nos"},{"t":"Space"},{"t":"Str","c":"pratiques"},{"t":"Space"},{"t":"Str","c":"d’écriture"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"lecture,"},{"t":"Space"},{"t":"Str","c":"l’influence"},{"t":"Space"},{"t":"Str","c":"que"},{"t":"Space"},{"t":"Str","c":"ces"},{"t":"Space"},{"t":"Str","c":"nouvelles"},{"t":"Space"},{"t":"Str","c":"pratiques"},{"t":"Space"},{"t":"Str","c":"exercent"},{"t":"Space"},{"t":"Str","c":"sur"},{"t":"Space"},{"t":"Str","c":"les"},{"t":"Space"},{"t":"Str","c":"contenus"},{"t":"Space"},{"t":"Str","c":"d’une"},{"t":"Space"},{"t":"Str","c":"part,"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"sur"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"structuration"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"notre"},{"t":"Space"},{"t":"Str","c":"pensée"},{"t":"Space"},{"t":"Str","c":"d’autre"},{"t":"Space"},{"t":"Str","c":"part,"},{"t":"Space"},{"t":"Str","c":"reste"},{"t":"Space"},{"t":"Str","c":"encore"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"déterminer."},{"t":"Space"},{"t":"Str","c":"C’est"},{"t":"Space"},{"t":"Str","c":"dans"},{"t":"Space"},{"t":"Str","c":"ce"},{"t":"Space"},{"t":"Str","c":"champ"},{"t":"Space"},{"t":"Str","c":"d’investigation"},{"t":"Space"},{"t":"Str","c":"que"},{"t":"Space"},{"t":"Str","c":"s’inscrit"},{"t":"Space"},{"t":"Str","c":"cette"},{"t":"Space"},{"t":"Str","c":"thèse,"},{"t":"Space"},{"t":"Str","c":"qui"},{"t":"Space"},{"t":"Str","c":"questionne"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"production"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"connaissances"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"l’époque"},{"t":"Space"},{"t":"Str","c":"numérique"},{"t":"Space"},{"t":"Str","c":":"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"savoir"},{"t":"Space"},{"t":"Str","c":"scientifique"},{"t":"Space"},{"t":"Str","c":"aurait-il"},{"t":"Space"},{"t":"Str","c":"changé"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"même"},{"t":"Space"},{"t":"Str","c":"temps"},{"t":"Space"},{"t":"Str","c":"que"},{"t":"Space"},{"t":"Str","c":"ses"},{"t":"Space"},{"t":"Str","c":"modalités"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"production"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"diffusion"},{"t":"Space"},{"t":"Str","c":"?"},{"t":"Space"},{"t":"Str","c":"Je"},{"t":"Space"},{"t":"Str","c":"traiterai"},{"t":"Space"},{"t":"Str","c":"ce"},{"t":"Space"},{"t":"Str","c":"sujet"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"travers"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"prisme"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"revue"},{"t":"Space"},{"t":"Str","c":"savante"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"lettres"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"sciences"},{"t":"Space"},{"t":"Str","c":"humaines,"},{"t":"Space"},{"t":"Str","c":"dont"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"modèle"},{"t":"Space"},{"t":"Str","c":"épistémologique,"},{"t":"Space"},{"t":"Str","c":"encore"},{"t":"Space"},{"t":"Str","c":"attaché"},{"t":"Space"},{"t":"Str","c":"au"},{"t":"Space"},{"t":"Str","c":"support"},{"t":"Space"},{"t":"Str","c":"papier,"},{"t":"Space"},{"t":"Str","c":"se"},{"t":"Space"},{"t":"Str","c":"voit"},{"t":"Space"},{"t":"Str","c":"profondément"},{"t":"Space"},{"t":"Str","c":"questionné"},{"t":"Space"},{"t":"Str","c":"par"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"numérique"},{"t":"Space"},{"t":"Str","c":"dans"},{"t":"Space"},{"t":"Str","c":"sa"},{"t":"Space"},{"t":"Str","c":"dimension"},{"t":"Space"},{"t":"Str","c":"technique"},{"t":"Space"},{"t":"Str","c":"aussi"},{"t":"Space"},{"t":"Str","c":"bien"},{"t":"Space"},{"t":"Str","c":"que"},{"t":"Space"},{"t":"Str","c":"culturelle."},{"t":"Space"},{"t":"Str","c":"Je"},{"t":"Space"},{"t":"Str","c":"fais"},{"t":"Space"},{"t":"Str","c":"l’hypothèse"},{"t":"Space"},{"t":"Str","c":"que"},{"t":"Space"},{"t":"Str","c":"les"},{"t":"Space"},{"t":"Str","c":"modalités"},{"t":"Space"},{"t":"Str","c":"d’écriture"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"environnement"},{"t":"Space"},{"t":"Str","c":"numérique"},{"t":"Space"},{"t":"Str","c":"sont"},{"t":"Space"},{"t":"Str","c":"une"},{"t":"Space"},{"t":"Str","c":"opportunité"},{"t":"Space"},{"t":"Str","c":"pour"},{"t":"Space"},{"t":"Str","c":"renouer"},{"t":"Space"},{"t":"Str","c":"avec"},{"t":"Space"},{"t":"Str","c":"les"},{"t":"Space"},{"t":"Str","c":"idéaux"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"conversation"},{"t":"Space"},{"t":"Str","c":"scientifique"},{"t":"Space"},{"t":"Str","c":"qui"},{"t":"Space"},{"t":"Str","c":"présidaient"},{"t":"Space"},{"t":"Str","c":"l’invention"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"revues"},{"t":"Space"},{"t":"Str","c":"au"},{"t":"Space"},{"t":"Str","c":"17"},{"t":"Math","c":[{"t":"InlineMath"},"^{\\textrm{eme}}"]},{"t":"Space"},{"t":"Str","c":"siècle."},{"t":"Space"},{"t":"Str","c":"La"},{"t":"Space"},{"t":"Str","c":"thèse"},{"t":"Space"},{"t":"Str","c":"propose"},{"t":"Space"},{"t":"Str","c":"une"},{"t":"Space"},{"t":"Str","c":"réflexion"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"trois"},{"t":"Space"},{"t":"Str","c":"temps,"},{"t":"Space"},{"t":"Str","c":"articulée"},{"t":"Space"},{"t":"Str","c":"autour"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"trois"},{"t":"Space"},{"t":"Str","c":"conceptions"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"revue"},{"t":"Space"},{"t":"Str","c":":"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"revue"},{"t":"Space"},{"t":"Str","c":"comme"},{"t":"Space"},{"t":"Str","c":"format,"},{"t":"Space"},{"t":"Str","c":"comme"},{"t":"Space"},{"t":"Str","c":"espace"},{"t":"Space"},{"t":"Str","c":"et,"},{"t":"Space"},{"t":"Str","c":"tel"},{"t":"Space"},{"t":"Str","c":"que"},{"t":"Space"},{"t":"Str","c":"je"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"propose"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"conceptualise,"},{"t":"Space"},{"t":"Str","c":"comme"},{"t":"Space"},{"t":"Str","c":"collectif."},{"t":"Space"},{"t":"Str","c":"La"},{"t":"Space"},{"t":"Str","c":"revue"},{"t":"Space"},{"t":"Str","c":"comme"},{"t":"Space"},{"t":"Str","c":"format,"},{"t":"Space"},{"t":"Str","c":"d’abord,"},{"t":"Space"},{"t":"Str","c":"émerge"},{"t":"Space"},{"t":"Str","c":"directement"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"forme"},{"t":"Space"},{"t":"Str","c":"épistolaire"},{"t":"Space"},{"t":"Str","c":"au"},{"t":"Space"},{"t":"Str","c":"17eme,"},{"t":"Space"},{"t":"Str","c":"favorisant"},{"t":"Space"},{"t":"Str","c":"alors"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"conversation"},{"t":"Space"},{"t":"Str","c":"au"},{"t":"Space"},{"t":"Str","c":"sein"},{"t":"Space"},{"t":"Str","c":"d’une"},{"t":"Space"},{"t":"Str","c":"communauté"},{"t":"Space"},{"t":"Str","c":"savante"},{"t":"Space"},{"t":"Str","c":"dispersée."},{"t":"Space"},{"t":"Str","c":"Mais"},{"t":"Space"},{"t":"Str","c":"les"},{"t":"Space"},{"t":"Str","c":"limites"},{"t":"Space"},{"t":"Str","c":"conceptuelles"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"format"},{"t":"Space"},{"t":"Str","c":"nous"},{"t":"Space"},{"t":"Str","c":"invite"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"considérer"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"revue"},{"t":"Space"},{"t":"Str","c":"davantage"},{"t":"Space"},{"t":"Str","c":"comme"},{"t":"Space"},{"t":"Str","c":"un"},{"t":"Space"},{"t":"Str","c":"media."},{"t":"Space"},{"t":"Str","c":"Pour"},{"t":"Space"},{"t":"Str","c":"penser"},{"t":"Space"},{"t":"Str","c":"alors"},{"t":"Space"},{"t":"Str","c":"sa"},{"t":"Space"},{"t":"Str","c":"remédiation,"},{"t":"Space"},{"t":"Str","c":"je"},{"t":"Space"},{"t":"Str","c":"montrerai"},{"t":"Space"},{"t":"Str","c":"que"},{"t":"Space"},{"t":"Str","c":"cette"},{"t":"Space"},{"t":"Str","c":"conversation"},{"t":"Space"},{"t":"Str","c":"trouve"},{"t":"Space"},{"t":"Str","c":"son"},{"t":"Space"},{"t":"Str","c":"incarnation"},{"t":"Space"},{"t":"Str","c":"contemporaine"},{"t":"Space"},{"t":"Str","c":"dans"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"concept"},{"t":"Space"},{"t":"Str","c":"d’éditorialisation."},{"t":"Space"},{"t":"Str","c":"La"},{"t":"Space"},{"t":"Str","c":"revue"},{"t":"Space"},{"t":"Str","c":"comme"},{"t":"Space"},{"t":"Str","c":"espace,"},{"t":"Space"},{"t":"Str","c":"ensuite,"},{"t":"Space"},{"t":"Str","c":"où"},{"t":"Space"},{"t":"Str","c":"s’incarnait"},{"t":"Space"},{"t":"Str","c":"jusque-là"},{"t":"Space"},{"t":"Str","c":"l’autorité"},{"t":"Space"},{"t":"Str","c":"scientifique,"},{"t":"Space"},{"t":"Str","c":"fait"},{"t":"Space"},{"t":"Str","c":"émerger"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"nouvelles"},{"t":"Space"},{"t":"Str","c":"possibilités"},{"t":"Space"},{"t":"Str","c":"conversationnelles,"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"raison"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"glissements"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"fonction"},{"t":"Space"},{"t":"Str","c":"éditoriale"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"revues"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"leurs"},{"t":"Space"},{"t":"Str","c":"éditeurs"},{"t":"Space"},{"t":"Str","c":"dans"},{"t":"Space"},{"t":"Str","c":"l’espace"},{"t":"Space"},{"t":"Str","c":"numérique."},{"t":"Space"},{"t":"Str","c":"Enfin,"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"revue"},{"t":"Space"},{"t":"Str","c":"comme"},{"t":"Space"},{"t":"Str","c":"collectif"},{"t":"Space"},{"t":"Str","c":"émerge"},{"t":"Space"},{"t":"Str","c":"d’une"},{"t":"Space"},{"t":"Str","c":"écriture"},{"t":"Space"},{"t":"Str","c":"processuelle,"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"mouvement,"},{"t":"Space"},{"t":"Str","c":"propre"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"l’environnement"},{"t":"Space"},{"t":"Str","c":"numérique."},{"t":"Space"},{"t":"Str","c":"Un"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"enjeux"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"cette"},{"t":"Space"},{"t":"Str","c":"thèse"},{"t":"Space"},{"t":"Str","c":"réside"},{"t":"Space"},{"t":"Str","c":"dans"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"mise"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"évidence"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"dynamiques"},{"t":"Space"},{"t":"Str","c":"collectives"},{"t":"Space"},{"t":"Str","c":"d’appropriation"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"légitimation."},{"t":"Space"},{"t":"Str","c":"En"},{"t":"Space"},{"t":"Str","c":"ce"},{"t":"Space"},{"t":"Str","c":"sens,"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"finalité"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"revue"},{"t":"Space"},{"t":"Str","c":"est"},{"t":"Space"},{"t":"Str","c":"peut-être"},{"t":"Space"},{"t":"Str","c":"moins"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"production"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"documents"},{"t":"Space"},{"t":"Str","c":"que"},{"t":"Space"},{"t":"Str","c":"l’éditorialisation"},{"t":"Space"},{"t":"Str","c":"d’une"},{"t":"Space"},{"t":"Str","c":"conversation"},{"t":"Space"},{"t":"Str","c":"faisant"},{"t":"Space"},{"t":"Str","c":"advenir"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"collectif."},{"t":"Space"},{"t":"Str","c":"Au"},{"t":"Space"},{"t":"Str","c":"plan"},{"t":"Space"},{"t":"Str","c":"méthodologique,"},{"t":"Space"},{"t":"Str","c":"cette"},{"t":"Space"},{"t":"Str","c":"thèse"},{"t":"Space"},{"t":"Str","c":"a"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"particularité"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"s’appuyer"},{"t":"Space"},{"t":"Str","c":"sur"},{"t":"Space"},{"t":"Str","c":"une"},{"t":"Space"},{"t":"Str","c":"recherche-action"},{"t":"Space"},{"t":"Str","c":"ancrée"},{"t":"Space"},{"t":"Str","c":"dans"},{"t":"Space"},{"t":"Str","c":"une"},{"t":"Space"},{"t":"Str","c":"série"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"cas"},{"t":"Space"},{"t":"Str","c":"d’étude"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"d’expérimentations"},{"t":"Space"},{"t":"Str","c":"éditoriales"},{"t":"Space"},{"t":"Str","c":"que"},{"t":"Space"},{"t":"Str","c":"j’ai"},{"t":"Space"},{"t":"Str","c":"pu"},{"t":"Space"},{"t":"Str","c":"mener"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"tant"},{"t":"Space"},{"t":"Str","c":"que"},{"t":"Space"},{"t":"Str","c":"chercheur"},{"t":"Space"},{"t":"Str","c":"d’une"},{"t":"Space"},{"t":"Str","c":"part,"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"éditeur-praticien"},{"t":"Space"},{"t":"Str","c":"d’autre"},{"t":"Space"},{"t":"Str","c":"part."},{"t":"Space"},{"t":"Str","c":"La"},{"t":"Space"},{"t":"Str","c":"présentation"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"résultats"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"cette"},{"t":"Space"},{"t":"Str","c":"recherche-action,"},{"t":"Space"},{"t":"Str","c":"ainsi"},{"t":"Space"},{"t":"Str","c":"que"},{"t":"Space"},{"t":"Str","c":"leur"},{"t":"Space"},{"t":"Str","c":"analyse"},{"t":"Space"},{"t":"Str","c":"critique,"},{"t":"Space"},{"t":"Str","c":"fournissent"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"matière"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"concepts"},{"t":"Space"},{"t":"Str","c":"travaillés"},{"t":"Space"},{"t":"Str","c":"dans"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"thèse."},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"<"}]]},{"t":"Str","c":"/p"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":">"}]]}]},"accessed":{"t":"MetaString","c":"2024-03-08"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Sauret"},"given":{"t":"MetaString","c":"Nicolas"}}}]},"genre":{"t":"MetaString","c":"Thèse de {Ph}.{D}"},"id":{"t":"MetaString","c":"sauret_revue_2020"},"issued":{"t":"MetaString","c":"2020"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Université"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"Montréal"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"De"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"revue"},{"t":"Space"},{"t":"Str","c":"au"},{"t":"Space"},{"t":"Str","c":"collectif"},{"t":"Space"},{"t":"Str","c":":"},{"t":"Space"},{"t":"Str","c":"La"},{"t":"Space"},{"t":"Str","c":"conversation"},{"t":"Space"},{"t":"Str","c":"comme"},{"t":"Space"},{"t":"Str","c":"dispositif"},{"t":"Space"},{"t":"Str","c":"d’éditorialisation"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"communautés"},{"t":"Space"},{"t":"Str","c":"savantes"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"lettres"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"sciences"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"De"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"revue"},{"t":"Space"},{"t":"Str","c":"au"},{"t":"Space"},{"t":"Str","c":"collectif"}]},"type":{"t":"MetaString","c":"thesis"},"url":{"t":"MetaString","c":"https://these.nicolassauret.net"}}},{"t":"MetaMap","c":{"abstract":{"t":"MetaInlines","c":[{"t":"Str","c":"Cet"},{"t":"Space"},{"t":"Str","c":"article"},{"t":"Space"},{"t":"Str","c":"présente"},{"t":"Space"},{"t":"Str","c":"les"},{"t":"Space"},{"t":"Str","c":"résultats"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"huit"},{"t":"Space"},{"t":"Str","c":"ans"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"travail"},{"t":"Space"},{"t":"Str","c":"sur"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"concept"},{"t":"Space"},{"t":"Str","c":"d’éditorialisation,"},{"t":"Space"},{"t":"Str","c":"réalisés"},{"t":"Space"},{"t":"Str","c":"dans"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"cadre"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"séminaire"},{"t":"Space"},{"t":"Str","c":"international"},{"t":"Space"},{"t":"Str","c":"«"},{"t":"Space"},{"t":"Str","c":"Écritures"},{"t":"Space"},{"t":"Str","c":"numériques"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"éditorialisation"},{"t":"Space"},{"t":"Str","c":"»"},{"t":"Space"},{"t":"Str","c":"que"},{"t":"Space"},{"t":"Str","c":"j’ai"},{"t":"Space"},{"t":"Str","c":"coorganisé"},{"t":"Space"},{"t":"Str","c":"avec"},{"t":"Space"},{"t":"Str","c":"Nicolas"},{"t":"Space"},{"t":"Str","c":"Sauret"},{"t":"Space"},{"t":"Str","c":"depuis"},{"t":"Space"},{"t":"Str","c":"2008."},{"t":"Space"},{"t":"Str","c":"Je"},{"t":"Space"},{"t":"Str","c":"propose"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"définir"},{"t":"Space"},{"t":"Str","c":"l’éditorialisation"},{"t":"Space"},{"t":"Str","c":"comme"},{"t":"Space"},{"t":"Str","c":"l’ensemble"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"dynamiques"},{"t":"Space"},{"t":"Str","c":"qui"},{"t":"Space"},{"t":"Str","c":"produisent"},{"t":"Space"},{"t":"Str","c":"l’espace"},{"t":"Space"},{"t":"Str","c":"numérique."},{"t":"Space"},{"t":"Str","c":"Ces"},{"t":"Space"},{"t":"Str","c":"dynamiques"},{"t":"Space"},{"t":"Str","c":"peuvent"},{"t":"Space"},{"t":"Str","c":"être"},{"t":"Space"},{"t":"Str","c":"comprises"},{"t":"Space"},{"t":"Str","c":"comme"},{"t":"Space"},{"t":"Str","c":"les"},{"t":"Space"},{"t":"Str","c":"interactions"},{"t":"Space"},{"t":"Str","c":"d’actions"},{"t":"Space"},{"t":"Str","c":"individuelles"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"collectives"},{"t":"Space"},{"t":"Str","c":"avec"},{"t":"Space"},{"t":"Str","c":"un"},{"t":"Space"},{"t":"Str","c":"environnement"},{"t":"Space"},{"t":"Str","c":"numérique."},{"t":"Space"},{"t":"Str","c":"À"},{"t":"Space"},{"t":"Str","c":"partir"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"cette"},{"t":"Space"},{"t":"Str","c":"définition,"},{"t":"Space"},{"t":"Str","c":"je"},{"t":"Space"},{"t":"Str","c":"propose"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"décrire"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"fonctionnement"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"instances"},{"t":"Space"},{"t":"Str","c":"d’autorité"},{"t":"Space"},{"t":"Str","c":"dans"},{"t":"Space"},{"t":"Str","c":"l’espace"},{"t":"Space"},{"t":"Str","c":"numérique."}]},"accessed":{"t":"MetaString","c":"2024-03-08"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Vitali-Rosati"},"given":{"t":"MetaString","c":"Marcello"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Sens"},{"t":"Space"},{"t":"Str","c":"public"}]},"doi":{"t":"MetaString","c":"10.7202/1043383ar"},"id":{"t":"MetaString","c":"vitali-rosati_quest-ce_2016"},"issn":{"t":"MetaString","c":"2104-3272"},"issued":{"t":"MetaString","c":"2016"},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Qu’est-ce"},{"t":"Space"},{"t":"Str","c":"que"},{"t":"Space"},{"t":"Str","c":"l’éditorialisation?"}]},"type":{"t":"MetaString","c":"article-journal"},"url":{"t":"MetaString","c":"https://www.erudit.org/fr/revues/sp/2016-sp063/1043383ar/"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Lévy"},"given":{"t":"MetaString","c":"Pierre"}}}]},"id":{"t":"MetaString","c":"levy_intelligence_1994"},"isbn":{"t":"MetaString","c":"978-2-7071-2693-1"},"issued":{"t":"MetaString","c":"1994"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"La"},{"t":"Space"},{"t":"Str","c":"Découverte"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"L’intelligence"},{"t":"Space"},{"t":"Str","c":"collective"},{"t":"Space"},{"t":"Str","c":":"},{"t":"Space"},{"t":"Str","c":"Pour"},{"t":"Space"},{"t":"Str","c":"une"},{"t":"Space"},{"t":"Str","c":"anthropologie"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"cyberspace"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"L’intelligence"},{"t":"Space"},{"t":"Str","c":"collective"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"abstract":{"t":"MetaInlines","c":[{"t":"Str","c":"Face"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"un"},{"t":"Space"},{"t":"Str","c":"environnement"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"plus"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"plus"},{"t":"Space"},{"t":"Str","c":"changeant"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"complexe,"},{"t":"Space"},{"t":"Str","c":"les"},{"t":"Space"},{"t":"Str","c":"organisations"},{"t":"Space"},{"t":"Str","c":"doivent"},{"t":"Space"},{"t":"Str","c":"continûment"},{"t":"Space"},{"t":"Str","c":"adapter"},{"t":"Space"},{"t":"Str","c":"leurs"},{"t":"Space"},{"t":"Str","c":"modes"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"fonctionnement"},{"t":"Space"},{"t":"Str","c":"internes."},{"t":"Space"},{"t":"Str","c":"S’appuyer"},{"t":"Space"},{"t":"Str","c":"sur"},{"t":"Space"},{"t":"Str","c":"l’intelligence"},{"t":"Space"},{"t":"Str","c":"collaborative"},{"t":"Space"},{"t":"Str","c":"est"},{"t":"Space"},{"t":"Str","c":"devenu,"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"cet"},{"t":"Space"},{"t":"Str","c":"égard,"},{"t":"Space"},{"t":"Str","c":"un"},{"t":"Space"},{"t":"Str","c":"enjeu"},{"t":"Space"},{"t":"Str","c":"majeur."},{"t":"Space"},{"t":"Str","c":"En"},{"t":"Space"},{"t":"Str","c":"tant"},{"t":"Space"},{"t":"Str","c":"que"},{"t":"Space"},{"t":"Str","c":"nouvel"},{"t":"Space"},{"t":"Str","c":"actif"},{"t":"Space"},{"t":"Str","c":"stratégique,"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"collaboratif"},{"t":"Space"},{"t":"Str","c":"renforce,"},{"t":"Space"},{"t":"Str","c":"au"},{"t":"Space"},{"t":"Str","c":"niveau"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’organisation,"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"décloisonnement"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"l’agilisation"},{"t":"Space"},{"t":"Str","c":"et,"},{"t":"Space"},{"t":"Str","c":"au"},{"t":"Space"},{"t":"Str","c":"niveau"},{"t":"Space"},{"t":"Str","c":"individuel,"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"responsabilisation"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"sentiment"},{"t":"Space"},{"t":"Str","c":"d’appartenance."},{"t":"Space"},{"t":"Str","c":"Si"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"nombreux"},{"t":"Space"},{"t":"Str","c":"dispositifs"},{"t":"Space"},{"t":"Str","c":"collaboratifs"},{"t":"Space"},{"t":"Str","c":"existent"},{"t":"Space"},{"t":"Str","c":"déjà,"},{"t":"Space"},{"t":"Str","c":"peu"},{"t":"Space"},{"t":"Str","c":"encore"},{"t":"Space"},{"t":"Str","c":"permettent"},{"t":"Space"},{"t":"Str","c":"un"},{"t":"Space"},{"t":"Str","c":"traitement"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"programmes"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"transformation"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"mode"},{"t":"Space"},{"t":"Str","c":"interentreprises."},{"t":"Space"},{"t":"Str","c":"Le"},{"t":"Space"},{"t":"Str","c":"SwitchLab,"},{"t":"Space"},{"t":"Str","c":"conçu"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"2018"},{"t":"Space"},{"t":"Str","c":"par"},{"t":"Space"},{"t":"Str","c":"deux"},{"t":"Space"},{"t":"Str","c":"spécialistes"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’innovation"},{"t":"Space"},{"t":"Str","c":"managériale,"},{"t":"Space"},{"t":"Str","c":"permet"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"façon"},{"t":"Space"},{"t":"Str","c":"originale"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"booster"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"projets"},{"t":"Space"},{"t":"Str","c":"d’organisation"},{"t":"Space"},{"t":"Str","c":"concrets."},{"t":"Space"},{"t":"Str","c":"Cet"},{"t":"Space"},{"t":"Str","c":"ouvrage"},{"t":"Space"},{"t":"Str","c":"présente"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"détail"},{"t":"Space"},{"t":"Str","c":"les"},{"t":"Space"},{"t":"Str","c":"principes,"},{"t":"Space"},{"t":"Str","c":"modalités"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"apports"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"ce"},{"t":"Space"},{"t":"Str","c":"nouveau"},{"t":"Space"},{"t":"Str","c":"dispositif"},{"t":"Space"},{"t":"Str","c":"d’échange"},{"t":"Space"},{"t":"Str","c":"inter-organisationnel,"},{"t":"Space"},{"t":"Str","c":"tout"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"montrant"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"quelle"},{"t":"Space"},{"t":"Str","c":"façon"},{"t":"Space"},{"t":"Str","c":"il"},{"t":"Space"},{"t":"Str","c":"s’inscrit"},{"t":"Space"},{"t":"Str","c":"dans"},{"t":"Space"},{"t":"Str","c":"une"},{"t":"Space"},{"t":"Str","c":"logique"},{"t":"Space"},{"t":"Str","c":"« d’entreprise"},{"t":"Space"},{"t":"Str","c":"étendue »,"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"« pair-à-pair »"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"« collaboration"},{"t":"Space"},{"t":"Str","c":"ouverte »."}]},"accessed":{"t":"MetaString","c":"2024-03-04"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Guillain"},"given":{"t":"MetaString","c":"Jean-Yves"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Autissier"},"given":{"t":"MetaString","c":"David"}}}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Académie"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Sciences"}]]},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Management"}]]},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Paris"}]]}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Le"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"SwitchLab"}]]},{"t":"Str","c":"."},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Accélérateur"}]]},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"projets"},{"t":"Space"},{"t":"Str","c":"interentreprises"}]},"id":{"t":"MetaString","c":"guillain_lintelligence_2019"},"isbn":{"t":"MetaString","c":"978-2-37687-307-5"},"issued":{"t":"MetaString","c":"2019"},"page":{"t":"MetaInlines","c":[{"t":"Str","c":"79-94"}]},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"EMS"},{"t":"Space"},{"t":"Str","c":"Editions"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Caen"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"De"},{"t":"Space"},{"t":"Str","c":"l’intelligence"},{"t":"Space"},{"t":"Str","c":"collective"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"l’intelligence"},{"t":"Space"},{"t":"Str","c":"collaborative."}]},"type":{"t":"MetaString","c":"chapter"},"url":{"t":"MetaString","c":"https://www.cairn.info/le-switchlab--9782376873075-p-79.htm"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Surowiecki"},"given":{"t":"MetaString","c":"James"}}}]},"id":{"t":"MetaString","c":"surowiecki_wisdom_2005"},"isbn":{"t":"MetaString","c":"978-0-385-72170-7"},"issued":{"t":"MetaString","c":"2005"},"note":{"t":"MetaInlines","c":[{"t":"Str","c":"OCLC:"},{"t":"Space"},{"t":"Str","c":"458759480"}]},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Anchor"},{"t":"Space"},{"t":"Str","c":"Books"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"New"},{"t":"Space"},{"t":"Str","c":"York"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"The"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Wisdom"}]]},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Crowds"}]]}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Vitali-Rosati"},"given":{"t":"MetaString","c":"Marcello"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Monjour"},"given":{"t":"MetaString","c":"Servanne"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Casenave"},"given":{"t":"MetaString","c":"Joana"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Bouchard"},"given":{"t":"MetaString","c":"Elsa"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Mellet"},"given":{"t":"MetaString","c":"Margot"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Digital"},{"t":"Space"},{"t":"Str","c":"Humanities"},{"t":"Space"},{"t":"Str","c":"Quarterly"}]},"id":{"t":"MetaString","c":"vitali-rosati_editorializing_2020"},"issn":{"t":"MetaString","c":"1938-4122"},"issue":{"t":"MetaInlines","c":[{"t":"Str","c":"1"}]},"issued":{"t":"MetaString","c":"2020"},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Editorializing"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Greek"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Anthology"}]]},{"t":"Str","c":":"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"The"}]]},{"t":"Space"},{"t":"Str","c":"palatin"},{"t":"Space"},{"t":"Str","c":"manuscript"},{"t":"Space"},{"t":"Str","c":"as"},{"t":"Space"},{"t":"Str","c":"a"},{"t":"Space"},{"t":"Str","c":"collective"},{"t":"Space"},{"t":"Str","c":"imaginary"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"Editorializing"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Greek"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Anthology"}]]}]},"type":{"t":"MetaString","c":"article-journal"},"volume":{"t":"MetaInlines","c":[{"t":"Str","c":"14"}]}}},{"t":"MetaMap","c":{"abstract":{"t":"MetaInlines","c":[{"t":"Str","c":"Le"},{"t":"Space"},{"t":"Str","c":"projet"},{"t":"Space"},{"t":"Str","c":"Anthologie"},{"t":"Space"},{"t":"Str","c":"Palatine"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"Chaire"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"recherche"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"Canada"},{"t":"Space"},{"t":"Str","c":"sur"},{"t":"Space"},{"t":"Str","c":"les"},{"t":"Space"},{"t":"Str","c":"écritures"},{"t":"Space"},{"t":"Str","c":"numériques"},{"t":"Space"},{"t":"Str","c":"cherche"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"établir"},{"t":"Space"},{"t":"Str","c":"une"},{"t":"Space"},{"t":"Str","c":"visualisation"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’univers"},{"t":"Space"},{"t":"Str","c":"anthologique"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"sa"},{"t":"Space"},{"t":"Str","c":"richesse."},{"t":"Space"},{"t":"Str","c":"Dans"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"cadre"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"ce"},{"t":"Space"},{"t":"Str","c":"projet"},{"t":"Space"},{"t":"Str","c":"a"},{"t":"Space"},{"t":"Str","c":"été"},{"t":"Space"},{"t":"Str","c":"conçue"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"plateforme"},{"t":"Space"},{"t":"Str","c":"Anthologia,"},{"t":"Space"},{"t":"Str","c":"qui"},{"t":"Space"},{"t":"Str","c":"permet"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"l’utilisateur·trice"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"participer"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"constitution"},{"t":"Space"},{"t":"Str","c":"d’un"},{"t":"Space"},{"t":"Str","c":"imaginaire"},{"t":"Space"},{"t":"Str","c":"collectif"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"associant"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"matériel"},{"t":"Space"},{"t":"Str","c":"anthologique"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"d’autres"},{"t":"Space"},{"t":"Str","c":"références."},{"t":"Space"},{"t":"Str","c":"Cette"},{"t":"Space"},{"t":"Str","c":"édition"},{"t":"Space"},{"t":"Str","c":"collaborative"},{"t":"Space"},{"t":"Str","c":"numérique"},{"t":"Space"},{"t":"Str","c":"interroge"},{"t":"Space"},{"t":"Str","c":"les"},{"t":"Space"},{"t":"Str","c":"phénomènes"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"remédiation"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"figure"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"palimpseste."},{"t":"Str","c":","},{"t":"Str","c":"The"},{"t":"Space"},{"t":"Str","c":"Canada"},{"t":"Space"},{"t":"Str","c":"Research"},{"t":"Space"},{"t":"Str","c":"Chair"},{"t":"Space"},{"t":"Str","c":"on"},{"t":"Space"},{"t":"Str","c":"Digital"},{"t":"Space"},{"t":"Str","c":"Textualities’s"},{"t":"Space"},{"t":"Str","c":"Anthologie"},{"t":"Space"},{"t":"Str","c":"Palatine"},{"t":"Space"},{"t":"Str","c":"project"},{"t":"Space"},{"t":"Str","c":"aims"},{"t":"Space"},{"t":"Str","c":"to"},{"t":"Space"},{"t":"Str","c":"demonstrate"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Str","c":"anthology"},{"t":"Space"},{"t":"Str","c":"universe"},{"t":"Space"},{"t":"Str","c":"and"},{"t":"Space"},{"t":"Str","c":"its"},{"t":"Space"},{"t":"Str","c":"richness."},{"t":"Space"},{"t":"Str","c":"Within"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Str","c":"framework"},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Str","c":"this"},{"t":"Space"},{"t":"Str","c":"project,"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Str","c":"Anthologia"},{"t":"Space"},{"t":"Str","c":"platform"},{"t":"Space"},{"t":"Str","c":"was"},{"t":"Space"},{"t":"Str","c":"designed,"},{"t":"Space"},{"t":"Str","c":"which"},{"t":"Space"},{"t":"Str","c":"allows"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Str","c":"user"},{"t":"Space"},{"t":"Str","c":"to"},{"t":"Space"},{"t":"Str","c":"participate"},{"t":"Space"},{"t":"Str","c":"in"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Str","c":"constitution"},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Str","c":"a"},{"t":"Space"},{"t":"Str","c":"collective"},{"t":"Space"},{"t":"Str","c":"imaginary"},{"t":"Space"},{"t":"Str","c":"by"},{"t":"Space"},{"t":"Str","c":"associating"},{"t":"Space"},{"t":"Str","c":"anthological"},{"t":"Space"},{"t":"Str","c":"material"},{"t":"Space"},{"t":"Str","c":"with"},{"t":"Space"},{"t":"Str","c":"other"},{"t":"Space"},{"t":"Str","c":"references."},{"t":"Space"},{"t":"Str","c":"This"},{"t":"Space"},{"t":"Str","c":"collaborative"},{"t":"Space"},{"t":"Str","c":"digital"},{"t":"Space"},{"t":"Str","c":"edition"},{"t":"Space"},{"t":"Str","c":"questions"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Str","c":"phenomena"},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Str","c":"remediation"},{"t":"Space"},{"t":"Str","c":"and"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Str","c":"figure"},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Str","c":"palimpsest."}]},"accessed":{"t":"MetaString","c":"2024-03-04"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Mellet"},"given":{"t":"MetaString","c":"Margot"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Captures"}]},"doi":{"t":"MetaString","c":"10.7202/1073479ar"},"id":{"t":"MetaString","c":"mellet_penser_2020"},"issn":{"t":"MetaString","c":"2371-1930"},"issue":{"t":"MetaInlines","c":[{"t":"Str","c":"1"}]},"issued":{"t":"MetaString","c":"2020"},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Penser"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"palimpseste"},{"t":"Space"},{"t":"Str","c":"numérique."},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Le"}]]},{"t":"Space"},{"t":"Str","c":"projet"},{"t":"Space"},{"t":"Str","c":"d’édition"},{"t":"Space"},{"t":"Str","c":"numérique"},{"t":"Space"},{"t":"Str","c":"collaborative"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Anthologie"}]]},{"t":"Space"},{"t":"Str","c":"palatine"}]},"type":{"t":"MetaString","c":"article-journal"},"url":{"t":"MetaString","c":"http://id.erudit.org/iderudit/1073479ar"},"volume":{"t":"MetaInlines","c":[{"t":"Str","c":"5"}]}}},{"t":"MetaMap","c":{"accessed":{"t":"MetaString","c":"2024-03-04"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Vitali-Rosati"},"given":{"t":"MetaString","c":"Marcello"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Mellet"},"given":{"t":"MetaString","c":"Margot"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Monjour"},"given":{"t":"MetaString","c":"Servanne"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Fauchié"},"given":{"t":"MetaString","c":"Antoine"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Guicherd"},"given":{"t":"MetaString","c":"Timothée"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Larlet"},"given":{"t":"MetaString","c":"David"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Agostini-Marchese"},"given":{"t":"MetaString","c":"Enrico"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Sens"},{"t":"Space"},{"t":"Str","c":"public"}]},"doi":{"t":"MetaString","c":"10.7202/1089649ar"},"id":{"t":"MetaString","c":"vitali-rosati_lepopee_2021"},"issn":{"t":"MetaString","c":"2104-3272"},"issued":{"t":"MetaString","c":"2021"},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"L’épopée"},{"t":"Space"},{"t":"Str","c":"numérique"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Anthologie"}]]},{"t":"Space"},{"t":"Str","c":"grecque"},{"t":"Space"},{"t":"Str","c":":"},{"t":"Space"},{"t":"Str","c":"Entre"},{"t":"Space"},{"t":"Str","c":"questions"},{"t":"Space"},{"t":"Str","c":"épistémologiques,"},{"t":"Space"},{"t":"Str","c":"modèles"},{"t":"Space"},{"t":"Str","c":"techniques"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"dynamiques"},{"t":"Space"},{"t":"Str","c":"collaboratives"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"L’épopée"},{"t":"Space"},{"t":"Str","c":"numérique"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Anthologie"}]]},{"t":"Space"},{"t":"Str","c":"grecque"},{"t":"Space"}]},"type":{"t":"MetaString","c":"article-journal"},"url":{"t":"MetaString","c":"http://id.erudit.org/iderudit/1089649ar"}}},{"t":"MetaMap","c":{"accessed":{"t":"MetaString","c":"2024-02-21"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Dué"},"given":{"t":"MetaString","c":"Casey"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Ebbott"},"given":{"t":"MetaString","c":"Mary"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Digital"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Classical"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Philology"}]]}]},"doi":{"t":"MetaString","c":"10.1515/9783110599572-014"},"editor":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Berti"},"given":{"t":"MetaString","c":"Monica"}}}]},"id":{"t":"MetaString","c":"berti_homer_2019"},"isbn":{"t":"MetaString","c":"978-3-11-059957-2"},"issued":{"t":"MetaString","c":"2019-08"},"page":{"t":"MetaInlines","c":[{"t":"Str","c":"239-256"}]},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"De"},{"t":"Space"},{"t":"Str","c":"Gruyter"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"The"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Homer"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Multitext"}]]},{"t":"Space"},{"t":"Str","c":"within"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"History"}]]},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Access"}]]},{"t":"Space"},{"t":"Str","c":"to"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Homeric"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Epic"}]]}]},"type":{"t":"MetaString","c":"chapter"}}},{"t":"MetaMap","c":{"accessed":{"t":"MetaString","c":"2024-02-13"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Soldo"},"given":{"t":"MetaString","c":"Petar"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Šoštarić"},"given":{"t":"MetaString","c":"Petra"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Studia"},{"t":"Space"},{"t":"Str","c":"Universitatis"},{"t":"Space"},{"t":"Str","c":"Babeș-Bolyai"},{"t":"Space"},{"t":"Str","c":"Digitalia"}]},"doi":{"t":"MetaString","c":"10.24193/subbdigitalia.2018.2.01"},"id":{"t":"MetaString","c":"soldo_treebanking_2019"},"issn":{"t":"MetaString","c":"25596721"},"issue":{"t":"MetaInlines","c":[{"t":"Str","c":"2"}]},"issued":{"t":"MetaString","c":"2019-03"},"keyword":{"t":"MetaInlines","c":[{"t":"Str","c":"Difficultés"},{"t":"Space"},{"t":"Str","c":"rencontrées,"},{"t":"Space"},{"t":"Str","c":"Digital"},{"t":"Space"},{"t":"Str","c":"Philology,"},{"t":"Space"},{"t":"Str","c":"Encore"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"ligne,"},{"t":"Space"},{"t":"Str","c":"Méthodologies/Outils"}]},"page":{"t":"MetaInlines","c":[{"t":"Str","c":"7-18"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Treebanking"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Lucian"}]]},{"t":"Space"},{"t":"Str","c":"in"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Arethusa"}]]},{"t":"Str","c":":"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Experiences"}]]},{"t":"Str","c":","},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Problems"}]]},{"t":"Space"},{"t":"Str","c":"and"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Considerations"}]]}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"Treebanking"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Lucian"}]]},{"t":"Space"},{"t":"Str","c":"in"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Arethusa"}]]}]},"type":{"t":"MetaString","c":"article-journal"},"url":{"t":"MetaString","c":"http://digihubb.centre.ubbcluj.ro/journal/index.php/digitalia/article/view/47"},"volume":{"t":"MetaInlines","c":[{"t":"Str","c":"63"}]}}},{"t":"MetaMap","c":{"accessed":{"t":"MetaString","c":"2024-02-20"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"literal":{"t":"MetaString","c":"The Digital Classicist Wiki contributors"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"The"},{"t":"Space"},{"t":"Str","c":"Digital"},{"t":"Space"},{"t":"Str","c":"Classicist"},{"t":"Space"},{"t":"Str","c":"Wiki"}]},"id":{"t":"MetaString","c":"the_digital_classicist_wiki_contributors_treebanking_2024"},"issued":{"t":"MetaString","c":"2024"},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Treebanking"}]},"type":{"t":"MetaString","c":""},"url":{"t":"MetaString","c":"https://wiki.digitalclassicist.org/index.php?title=Special:CiteThisPage&page=Treebanking&id=11067&wpFormIdentifier=titleform"}}},{"t":"MetaMap","c":{"abstract":{"t":"MetaInlines","c":[{"t":"Str","c":"And"},{"t":"Space"},{"t":"Str","c":"that"},{"t":"Space"},{"t":"Str","c":"might"},{"t":"Space"},{"t":"Str","c":"be"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Str","c":"right"},{"t":"Space"},{"t":"Str","c":"way"},{"t":"Space"},{"t":"Str","c":"to"},{"t":"Space"},{"t":"Str","c":"save"},{"t":"Space"},{"t":"Str","c":"classics"},{"t":"Space"},{"t":"Str","c":"from"},{"t":"Space"},{"t":"Str","c":"oblivion."}]},"accessed":{"t":"MetaString","c":"2024-02-20"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Wood"},"given":{"t":"MetaString","c":"Graeme"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"The"},{"t":"Space"},{"t":"Str","c":"Atlantic"}]},"id":{"t":"MetaString","c":"wood_princeton_2021"},"issued":{"t":"MetaString","c":"2021-06"},"note":{"t":"MetaInlines","c":[{"t":"Str","c":"Section:"},{"t":"Space"},{"t":"Str","c":"Ideas"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Princeton"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Dumbs"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Down"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Classics"}]]}]},"type":{"t":"MetaString","c":"article-journal"},"url":{"t":"MetaString","c":"https://www.theatlantic.com/ideas/archive/2021/06/princeton-greek-latin-requirement/619136/"}}},{"t":"MetaMap","c":{"abstract":{"t":"MetaInlines","c":[{"t":"Str","c":"The"},{"t":"Space"},{"t":"Str","c":"recent"},{"t":"Space"},{"t":"Str","c":"decision"},{"t":"Space"},{"t":"Str","c":"by"},{"t":"Space"},{"t":"Str","c":"Princeton"},{"t":"Space"},{"t":"Str","c":"to"},{"t":"Space"},{"t":"Str","c":"remove"},{"t":"Space"},{"t":"Str","c":"Greek"},{"t":"Space"},{"t":"Str","c":"and"},{"t":"Space"},{"t":"Str","c":"Latin"},{"t":"Space"},{"t":"Str","c":"for"},{"t":"Space"},{"t":"Str","c":"Classics"},{"t":"Space"},{"t":"Str","c":"majors"},{"t":"Space"},{"t":"Str","c":"has"},{"t":"Space"},{"t":"Str","c":"sparked"},{"t":"Space"},{"t":"Str","c":"a"},{"t":"Space"},{"t":"Str","c":"lively"},{"t":"Space"},{"t":"Str","c":"debate"},{"t":"Space"},{"t":"Str","c":"among"},{"t":"Space"},{"t":"Str","c":"academic"},{"t":"Space"},{"t":"Str","c":"circles"},{"t":"Space"},{"t":"Str","c":"in"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Str","c":"US."}]},"accessed":{"t":"MetaString","c":"2024-02-20"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Kokkinidis"},"given":{"t":"MetaString","c":"Tasos"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"GreekReporter.com"}]},"id":{"t":"MetaString","c":"kokkinidis_removal_2021"},"issued":{"t":"MetaString","c":"2021-09"},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Removal"},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Greek"}]]},{"t":"Str","c":","},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Latin"}]]},{"t":"Space"},{"t":"Str","c":"at"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Princeton"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Sparks"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Debate"}]]},{"t":"Space"},{"t":"Str","c":"on"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Classics"}]]},{"t":"Space"},{"t":"Str","c":"in"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"US"}]]}]},"type":{"t":"MetaString","c":"article-journal"},"url":{"t":"MetaString","c":"https://greekreporter.com/2021/09/06/greek-latin-princeton-sparks-debate-classics/"}}},{"t":"MetaMap","c":{"abstract":{"t":"MetaInlines","c":[{"t":"Str","c":"By"},{"t":"Space"},{"t":"Str","c":"ending"},{"t":"Space"},{"t":"Str","c":"a"},{"t":"Space"},{"t":"Str","c":"requirement"},{"t":"Space"},{"t":"Str","c":"that"},{"t":"Space"},{"t":"Str","c":"classics"},{"t":"Space"},{"t":"Str","c":"majors"},{"t":"Space"},{"t":"Str","c":"learn"},{"t":"Space"},{"t":"Str","c":"Greek"},{"t":"Space"},{"t":"Str","c":"or"},{"t":"Space"},{"t":"Str","c":"Latin,"},{"t":"Space"},{"t":"Str","c":"Princeton"},{"t":"Space"},{"t":"Str","c":"risks"},{"t":"Space"},{"t":"Str","c":"amplifying"},{"t":"Space"},{"t":"Str","c":"racism"},{"t":"Space"},{"t":"Str","c":"instead"},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Str","c":"curing"},{"t":"Space"},{"t":"Str","c":"it."}]},"accessed":{"t":"MetaString","c":"2024-02-20"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"McWhorter"},"given":{"t":"MetaString","c":"John"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"The"},{"t":"Space"},{"t":"Str","c":"Atlantic"}]},"id":{"t":"MetaString","c":"mcwhorter_problem_2021"},"issued":{"t":"MetaString","c":"2021-06"},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"The"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Problem"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"With"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Dropping"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Standards"}]]},{"t":"Space"},{"t":"Str","c":"in"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Name"}]]},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Racial"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Equity"}]]}]},"type":{"t":"MetaString","c":"article-journal"},"url":{"t":"MetaString","c":"https://www.theatlantic.com/ideas/archive/2021/06/princeton-classics-major-latin-greek/619110/"}}},{"t":"MetaMap","c":{"accessed":{"t":"MetaString","c":"2023-10-13"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Joffredo"},"given":{"t":"MetaString","c":"Thierry"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Digitizing"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Enlightenment"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"V"}]]},{"t":"Space"},{"t":"Str","c":"-"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Vers"}]]},{"t":"Space"},{"t":"Str","c":"l’interopérabilité"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"bases"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"textes"},{"t":"Space"},{"t":"Str","c":"/"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Toward"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Interoperability"}]]},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Textbases"}]]}]},"id":{"t":"MetaString","c":"joffredo_usages_2022"},"issued":{"t":"MetaString","c":"2022-07"},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Montpellier,"},{"t":"Space"},{"t":"Str","c":"France"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Usages"},{"t":"Space"},{"t":"Str","c":"pédagogiques"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"ENCCRE"}]]},{"t":"Space"},{"t":"Str","c":"(édition"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Numérique"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Collaborative"}]]},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"CRititque"}]]},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Enycyclopédie"}]]},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Diderot"}]]},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"D"}]]},{"t":"Str","c":"’"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Alembert"}]]},{"t":"Str","c":")"}]},"type":{"t":"MetaString","c":"paper-conference"},"url":{"t":"MetaString","c":"https://hal.science/hal-03718774"}}},{"t":"MetaMap","c":{"abstract":{"t":"MetaInlines","c":[{"t":"Str","c":"Sustaining"},{"t":"Space"},{"t":"Str","c":"Linked"},{"t":"Space"},{"t":"Str","c":"Ancient"},{"t":"Space"},{"t":"Str","c":"World"},{"t":"Space"},{"t":"Str","c":"Data"},{"t":"Space"},{"t":"Str","c":"was"},{"t":"Space"},{"t":"Str","c":"published"},{"t":"Space"},{"t":"Str","c":"in"},{"t":"Space"},{"t":"Str","c":"Digital"},{"t":"Space"},{"t":"Str","c":"Classical"},{"t":"Space"},{"t":"Str","c":"Philology"},{"t":"Space"},{"t":"Str","c":"on"},{"t":"Space"},{"t":"Str","c":"page"},{"t":"Space"},{"t":"Str","c":"35."}]},"accessed":{"t":"MetaString","c":"2023-06-14"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Cayless"},"given":{"t":"MetaString","c":"Hugh A."}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Digital"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Classical"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Philology"}]]},{"t":"Str","c":"."},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Ancient"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Greek"}]]},{"t":"Space"},{"t":"Str","c":"and"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Latin"}]]},{"t":"Space"},{"t":"Str","c":"in"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Digital"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Revolution"}]]}]},"editor":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Berti"},"given":{"t":"MetaString","c":"Monica"}}}]},"id":{"t":"MetaString","c":"cayless_sustaining_2019"},"isbn":{"t":"MetaString","c":"978-3-11-059957-2"},"issued":{"t":"MetaString","c":"2019"},"note":{"t":"MetaInlines","c":[{"t":"Str","c":"https://doi.org/10.1515/9783110599572-004"}]},"page":{"t":"MetaInlines","c":[{"t":"Str","c":"35-50"}]},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"De"},{"t":"Space"},{"t":"Str","c":"Gruyter"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Sustaining"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Linked"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Ancient"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"World"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Data"}]]}]},"type":{"t":"MetaString","c":"chapter"}}},{"t":"MetaMap","c":{"abstract":{"t":"MetaInlines","c":[{"t":"Str","c":"En"},{"t":"Space"},{"t":"Str","c":"avril,"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"prestigieuse"},{"t":"Space"},{"t":"Str","c":"université"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"Princeton,"},{"t":"Space"},{"t":"Str","c":"aux"},{"t":"Space"},{"t":"Str","c":"États-Unis,"},{"t":"Space"},{"t":"Str","c":"a"},{"t":"Space"},{"t":"Str","c":"décidé"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"ne"},{"t":"Space"},{"t":"Str","c":"plus"},{"t":"Space"},{"t":"Str","c":"exiger"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"connaissance"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"latin"},{"t":"Space"},{"t":"Str","c":"ou"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"grec"},{"t":"Space"},{"t":"Str","c":"pour"},{"t":"Space"},{"t":"Str","c":"suivre"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"cursus"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"..."}]},"accessed":{"t":"MetaString","c":"2023-06-12"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Vesperini"},"given":{"t":"MetaString","c":"Pierre"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Philosophie"},{"t":"Space"},{"t":"Str","c":"magazine"}]},"id":{"t":"MetaString","c":"vesperini_fin_2021"},"issued":{"t":"MetaString","c":"2021-07"},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Fin"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’enseignement"},{"t":"Space"},{"t":"Str","c":"obligatoire"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"grec"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"latin"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Princeton"}]]},{"t":"Space"},{"t":"Str","c":":"},{"t":"Space"},{"t":"Str","c":"Peut-on"},{"t":"Space"},{"t":"Str","c":"connaître"},{"t":"Space"},{"t":"Str","c":"l’"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Antiquité"}]]},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"ignorant"},{"t":"Space"},{"t":"Str","c":"sa"},{"t":"Space"},{"t":"Str","c":"langue"},{"t":"Space"},{"t":"Str","c":"?"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"Fin"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’enseignement"},{"t":"Space"},{"t":"Str","c":"obligatoire"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"grec"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"latin"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Princeton"}]]}]},"type":{"t":"MetaString","c":""},"url":{"t":"MetaString","c":"https://www.philomag.com/articles/fin-de-lenseignement-obligatoire-du-grec-et-du-latin-princeton-peut-connaitre-lantiquite"}}},{"t":"MetaMap","c":{"abstract":{"t":"MetaInlines","c":[{"t":"Str","c":"Le"},{"t":"Space"},{"t":"Str","c":"fait"},{"t":"Space"},{"t":"Str","c":"numérique"},{"t":"Space"},{"t":"Str","c":"a"},{"t":"Space"},{"t":"Str","c":"été"},{"t":"Space"},{"t":"Str","c":"pensé"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"interprété"},{"t":"Space"},{"t":"Str","c":"pendant"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"dizaines"},{"t":"Space"},{"t":"Str","c":"d’années"},{"t":"Space"},{"t":"Str","c":"dans"},{"t":"Space"},{"t":"Str","c":"diverses"},{"t":"Space"},{"t":"Str","c":"perspectives"},{"t":"Space"},{"t":"Str","c":"disciplinaires :"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"media"},{"t":"Space"},{"t":"Str","c":"studies"},{"t":"Space"},{"t":"Str","c":"aux"},{"t":"Space"},{"t":"Str","c":"sciences"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’information"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"communication,"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"passant"},{"t":"Space"},{"t":"Str","c":"par"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"sociologie,"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"psychologie,"},{"t":"Space"},{"t":"Str","c":"les"},{"t":"Space"},{"t":"Str","c":"sciences"},{"t":"Space"},{"t":"Str","c":"politiques,"},{"t":"Space"},{"t":"Str","c":"etc."},{"t":"Space"},{"t":"Str","c":"Cela"},{"t":"Space"},{"t":"Str","c":"n’est"},{"t":"Space"},{"t":"Str","c":"pas"},{"t":"Space"},{"t":"Str","c":"surprenant"},{"t":"Space"},{"t":"Str","c":"dès"},{"t":"Space"},{"t":"Str","c":"que"},{"t":"Space"},{"t":"Str","c":"l’on"},{"t":"Space"},{"t":"Str","c":"considère"},{"t":"Space"},{"t":"Str","c":"–"},{"t":"Space"},{"t":"Str","c":"avec"},{"t":"Space"},{"t":"Str","c":"Milad"},{"t":"Space"},{"t":"Str","c":"Doueihi"},{"t":"Space"},{"t":"Str","c":"–"},{"t":"Space"},{"t":"Str","c":"que"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"« numérique »"},{"t":"Space"},{"t":"Str","c":"peut"},{"t":"Space"},{"t":"Str","c":"être"},{"t":"Space"},{"t":"Str","c":"pensé"},{"t":"Space"},{"t":"Str","c":"comme"},{"t":"Space"},{"t":"Str","c":"un"},{"t":"Space"},{"t":"Str","c":"phénomène"},{"t":"Space"},{"t":"Str","c":"culturel"},{"t":"Space"},{"t":"Str","c":"au"},{"t":"Space"},{"t":"Str","c":"sens"},{"t":"Space"},{"t":"Str","c":"large,"},{"t":"Space"},{"t":"Str","c":"touchant"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"l’ensemble"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"nos"},{"t":"Space"},{"t":"Str","c":"vies"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"remettant"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"cause"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"totalité"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"nos"},{"t":"Space"},{"t":"Str","c":"catégories"},{"t":"Space"},{"t":"Str","c":"conceptuelles."},{"t":"Space"},{"t":"Str","c":"L’expression"},{"t":"Space"},{"t":"Str","c":"« humanités"},{"t":"Space"},{"t":"Str","c":"numériques »"},{"t":"Space"},{"t":"Str","c":"peut"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"quelque"},{"t":"Space"},{"t":"Str","c":"sorte"},{"t":"Space"},{"t":"Str","c":"servir"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"signifier"},{"t":"Space"},{"t":"Str","c":"cette"},{"t":"Space"},{"t":"Str","c":"universalité"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"fait"},{"t":"Space"},{"t":"Str","c":"numérique :"},{"t":"Space"},{"t":"Str","c":"il"},{"t":"Space"},{"t":"Str","c":"est"},{"t":"Space"},{"t":"Str","c":"question"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"ce"},{"t":"Space"},{"t":"Str","c":"que"},{"t":"Space"},{"t":"Str","c":"devient"},{"t":"Space"},{"t":"Str","c":"l’humanité"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"l’époque"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"numérique."},{"t":"Space"},{"t":"Str","c":"La"},{"t":"Space"},{"t":"Str","c":"même"},{"t":"Space"},{"t":"Str","c":"universalité"},{"t":"Space"},{"t":"Str","c":"est"},{"t":"Space"},{"t":"Str","c":"ce"},{"t":"Space"},{"t":"Str","c":"qu’aspire"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"prendre"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"compte"},{"t":"Space"},{"t":"Str","c":"une"},{"t":"Space"},{"t":"Str","c":"approche"},{"t":"Space"},{"t":"Str","c":"philosophique :"},{"t":"Space"},{"t":"Str","c":"au-delà"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"toute"},{"t":"Space"},{"t":"Str","c":"spécificité"},{"t":"Space"},{"t":"Str","c":"disciplinaire,"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"questionnement"},{"t":"Space"},{"t":"Str","c":"philosophique"},{"t":"Space"},{"t":"Str","c":"vise"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"comprendre"},{"t":"Space"},{"t":"Str","c":"un"},{"t":"Space"},{"t":"Str","c":"phénomène"},{"t":"Space"},{"t":"Str","c":"ou"},{"t":"Space"},{"t":"Str","c":"un"},{"t":"Space"},{"t":"Str","c":"fait"},{"t":"Space"},{"t":"Str","c":"dans"},{"t":"Space"},{"t":"Str","c":"l’ensemble"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"ses"},{"t":"Space"},{"t":"Str","c":"implications."},{"t":"Space"},{"t":"Str","c":"Cet"},{"t":"Space"},{"t":"Str","c":"article"},{"t":"Space"},{"t":"Str","c":"a"},{"t":"Space"},{"t":"Str","c":"l’ambition"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"partir"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"concept"},{"t":"Space"},{"t":"Str","c":"d’éditorialisation"},{"t":"Space"},{"t":"Str","c":"pour"},{"t":"Space"},{"t":"Str","c":"proposer"},{"t":"Space"},{"t":"Str","c":"une"},{"t":"Space"},{"t":"Str","c":"théorie"},{"t":"Space"},{"t":"Str","c":"philosophique"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"monde"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"l’époque"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"numérique."},{"t":"Space"},{"t":"Str","c":"Une"},{"t":"Space"},{"t":"Str","c":"philosophie,"},{"t":"Space"},{"t":"Str","c":"donc,"},{"t":"Space"},{"t":"Str","c":"non"},{"t":"Space"},{"t":"Str","c":"pas"},{"t":"Space"},{"t":"Str","c":"« du"},{"t":"Space"},{"t":"Str","c":"numérique »,"},{"t":"Space"},{"t":"Str","c":"car"},{"t":"Space"},{"t":"Str","c":"l’objet"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"philosophie"},{"t":"Space"},{"t":"Str","c":"ne"},{"t":"Space"},{"t":"Str","c":"peut"},{"t":"Space"},{"t":"Str","c":"qu’être"},{"t":"Space"},{"t":"Str","c":"universel,"},{"t":"Space"},{"t":"Str","c":"mais"},{"t":"Space"},{"t":"Str","c":"plutôt"},{"t":"Space"},{"t":"Str","c":"une"},{"t":"Space"},{"t":"Str","c":"philosophie"},{"t":"Space"},{"t":"Str","c":"« à"},{"t":"Space"},{"t":"Str","c":"l’époque"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"numérique »."}]},"accessed":{"t":"MetaString","c":"2023-06-11"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Vitali-Rosati"},"given":{"t":"MetaString","c":"Marcello"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Humanités"},{"t":"Space"},{"t":"Str","c":"numériques"}]},"id":{"t":"MetaString","c":"vitali-rosati_pour_2020"},"issn":{"t":"MetaString","c":"2736-2337"},"issue":{"t":"MetaInlines","c":[{"t":"Str","c":"1"}]},"issued":{"t":"MetaString","c":"2020"},"note":{"t":"MetaInlines","c":[{"t":"Str","c":"Number:"},{"t":"Space"},{"t":"Str","c":"1"},{"t":"Space"},{"t":"Str","c":"Publisher:"},{"t":"Space"},{"t":"Str","c":"Humanistica"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Pour"},{"t":"Space"},{"t":"Str","c":"une"},{"t":"Space"},{"t":"Str","c":"théorie"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’éditorialisation"}]},"type":{"t":"MetaString","c":"article-journal"},"url":{"t":"MetaString","c":"https://journals.openedition.org/revuehn/371"}}},{"t":"MetaMap","c":{"accessed":{"t":"MetaString","c":"2022-12-08"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Wineburg"},"given":{"t":"MetaString","c":"Samuel S."}}}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Critical"},{"t":"Space"},{"t":"Str","c":"perspectives"},{"t":"Space"},{"t":"Str","c":"on"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Str","c":"past"}]},"id":{"t":"MetaString","c":"wineburg_historical_2001"},"isbn":{"t":"MetaString","c":"978-1-56639-855-8 978-1-56639-856-5"},"issued":{"t":"MetaString","c":"2001"},"note":{"t":"MetaInlines","c":[{"t":"Str","c":"Section:"},{"t":"Space"},{"t":"Str","c":"xiv,"},{"t":"Space"},{"t":"Str","c":"255"},{"t":"Space"},{"t":"Str","c":"pages"},{"t":"Space"},{"t":"Str","c":":"},{"t":"Space"},{"t":"Str","c":"illustrations"},{"t":"Space"},{"t":"Str","c":";"},{"t":"Space"},{"t":"Str","c":"23"},{"t":"Space"},{"t":"Str","c":"cm"}]},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Temple"},{"t":"Space"},{"t":"Str","c":"University"},{"t":"Space"},{"t":"Str","c":"Press"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Philadelphia"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Historical"},{"t":"Space"},{"t":"Str","c":"thinking"},{"t":"Space"},{"t":"Str","c":"and"},{"t":"Space"},{"t":"Str","c":"other"},{"t":"Space"},{"t":"Str","c":"unnatural"},{"t":"Space"},{"t":"Str","c":"acts:"},{"t":"Space"},{"t":"Str","c":"Charting"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Str","c":"future"},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Str","c":"teaching"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Str","c":"past"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"Historical"},{"t":"Space"},{"t":"Str","c":"thinking"},{"t":"Space"},{"t":"Str","c":"and"},{"t":"Space"},{"t":"Str","c":"other"},{"t":"Space"},{"t":"Str","c":"unnatural"},{"t":"Space"},{"t":"Str","c":"acts"}]},"type":{"t":"MetaString","c":"book"},"url":{"t":"MetaString","c":"http://catalogue.bnf.fr/ark:/12148/cb38899200f"}}},{"t":"MetaMap","c":{"accessed":{"t":"MetaString","c":"2023-05-24"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Mély"},"given":{"t":"MetaString","c":"Fernand de"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Monuments"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"mémoires"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"Fondation"},{"t":"Space"},{"t":"Str","c":"Eugène"},{"t":"Space"},{"t":"Str","c":"Piot"}]},"doi":{"t":"MetaString","c":"10.3406/piot.1900.1179"},"id":{"t":"MetaString","c":"mely_coffret_1900"},"issue":{"t":"MetaInlines","c":[{"t":"Str","c":"1"}]},"issued":{"t":"MetaString","c":"1900"},"note":{"t":"MetaInlines","c":[{"t":"Str","c":"Publisher:"},{"t":"Space"},{"t":"Str","c":"Persée"},{"t":"Space"},{"t":"Str","c":"-"},{"t":"Space"},{"t":"Str","c":"Portail"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"revues"},{"t":"Space"},{"t":"Str","c":"scientifiques"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"SHS"}]},"page":{"t":"MetaInlines","c":[{"t":"Str","c":"65-78"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Le"},{"t":"Space"},{"t":"Str","c":"coffret"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Saint"}]]},{"t":"Str","c":"-"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Nazaire"}]]},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Milan"}]]},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Manuscrit"}]]},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Iliade"}]]},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Ambrosienne"}]]}]},"type":{"t":"MetaString","c":"article-journal"},"url":{"t":"MetaString","c":"https://www.persee.fr/doc/piot_1148-6023_1900_num_7_1_1179"},"volume":{"t":"MetaInlines","c":[{"t":"Str","c":"7"}]}}}]}},"blocks":[]}
+[
+  {
+    "DOI": "10.5334/bat.j",
+    "ISBN": "978-1-909188-46-4",
+    "URL": "http://www.ubiquitypress.com/site/chapters/10.5334/bat.j/",
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          1
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Almas",
+        "given": "Bridget"
+      },
+      {
+        "family": "Beaulieu",
+        "given": "Marie-Claire"
+      }
+    ],
+    "container-title": "Digital Classics Outside the Echo-Chamber: Teaching, Knowledge Exchange & Public Engagement",
+    "editor": [
+      {
+        "family": "Bodard",
+        "given": "Gabriel"
+      },
+      {
+        "family": "Romanello",
+        "given": "Matteo"
+      }
+    ],
+    "id": "bodard_perseids_2016",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "keyword": "Digital Philology, Encore en ligne, Méthodologies/Outils",
+    "page": "171-186",
+    "publisher": "Ubiquity Press",
+    "title": "The Perseids Platform: Scholarship for all!",
+    "title-short": "The Perseids Platform",
+    "type": "chapter"
+  },
+  {
+    "DOI": "10.11588/HEIDOK.00028583",
+    "URL": "http://archiv.ub.uni-heidelberg.de/volltextserver/id/eprint/28583",
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Fernández Riva",
+        "given": "Gustavo"
+      }
+    ],
+    "id": "fernandez_riva_guidelines_2020",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "title": "Guidelines for the Annotation of the Digital Facsimile of the <i>Anthologia Palatina</i> (Cod. Pal. Graec. 23)",
+    "type": ""
+  },
+  {
+    "DOI": "10.3917/soc.079.0105",
+    "ISSN": "0765-3697, 1782-155X",
+    "URL": "http://www.cairn.info/revue-societes-2003-1-page-105.htm",
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          11
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Lévy",
+        "given": "Pierre"
+      }
+    ],
+    "container-title": "Sociétés",
+    "id": "levy_jeu_2003",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "page": "105-122",
+    "title": "Le jeu de l’intelligence collective",
+    "type": "article-journal",
+    "volume": "79"
+  },
+  {
+    "URL": "https://pierrelevyblog.com/2016/03/30/cultiver-lintelligence-collective/",
+    "abstract": "Carte sémantique de l’intelligence collective La carte ci-dessus schématise les grandes structures de l’intelligence collective humaine telles que nous les appréhendons au début du XXIe…",
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          11
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Lévy",
+        "given": "Pierre"
+      }
+    ],
+    "container-title": "Pierre Levy’s Blog",
+    "id": "levy_cultiver_2016",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          3
+        ]
+      ]
+    },
+    "title": "Cultiver l’intelligence collective",
+    "type": ""
+  },
+  {
+    "URL": "https://hal.science/hal-03949846",
+    "abstract": "Si le passage des institutions patrimoniales dans l’ère numérique a d’abord été marqué par un paradigme de l’accès, un nouveau chantier s’ouvre désormais du côté des enjeux et des modalités de circulation des patrimoines en ligne. Là où l’usager était traditionnellement invité à venir profiter des fonds patrimoniaux dans les archives, les musées ou les bibliothèques, ce sont ces derniers qui, aujourd’hui, se rendent directement jusqu’à l’usager. Ce paradigme de la circulation déplace l’enjeu de l’accès vers un enjeu d’“ouverture”, et nous permet d’entrer dans l’ère de ce que Shanks (2008) et Giannachi (2016) ont qualifié d’“archive 3.0\", soit une archive qui se conçoit à la fois comme un objet et un processus : une archive performée et performative, en quelque sorte. Cette mutation nous engage à repenser le sens même des objets patrimoniaux, à travers la distinction entre “pratiques” et “usages” explicitée en introduction de cet ouvrage. Les politiques d’accès n’ont pas eu pour seule conséquence d’élargir le public, elles ont encouragé l’implication croissante de ce dernier dans l’entreprise de diffusion et d’interprétation des documents et des oeuvres. Mais un tel principe, évidemment louable, pose aussitôt de nombreux défis heuristiques : sur les usages imaginés et parfois prescrits par les institutions, des pratiques amateurs inédites émergent, pouvant modifier en profondeur les valeurs et le sens des collections patrimoniales et des disciplines qui s’y rattachent. La mise en ligne massive des patrimoines numérisés renvoie de fait au défi fondamental posé par le concept contemporain d’éditorialisation : œuvrer à la mise à disposition d’un contenu pour mieux en perdre le contrôle (ce que Louise Merzeau a notamment qualifié de “maîtrise de la déprise”). Dans ce chapitre, nous verrons comment l’éditorialisation conçue comme un acte de patrimonialisation vient redéfinir la mission des institutions en charge des contenus patrimoniaux et, avec elle, nos grands concepts culturels.",
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          8
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Monjour",
+        "given": "Servanne"
+      }
+    ],
+    "container-title": "Les devenirs numériques des patrimoines",
+    "editor": [
+      {
+        "family": "Bohet",
+        "given": "Baptiste"
+      },
+      {
+        "family": "Pringuet",
+        "given": "Pringuet"
+      }
+    ],
+    "id": "monjour_editorialisation_2022",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "publisher": "Editions de la Maison des sciences de l’homme, Paris",
+    "publisher-place": "Paris",
+    "title": "Editorialisation, rééditorialisation et patrimonialisation",
+    "type": "chapter"
+  },
+  {
+    "URL": "https://these.nicolassauret.net",
+    "abstract": "<p>Si l’on s’accorde à dire que les outils numériques ont modifié en profondeur nos pratiques d’écriture et de lecture, l’influence que ces nouvelles pratiques exercent sur les contenus d’une part, et sur la structuration de notre pensée d’autre part, reste encore à déterminer. C’est dans ce champ d’investigation que s’inscrit cette thèse, qui questionne la production des connaissances à l’époque numérique : le savoir scientifique aurait-il changé en même temps que ses modalités de production et de diffusion ? Je traiterai ce sujet à travers le prisme de la revue savante en lettres et sciences humaines, dont le modèle épistémologique, encore attaché au support papier, se voit profondément questionné par le numérique dans sa dimension technique aussi bien que culturelle. Je fais l’hypothèse que les modalités d’écriture en environnement numérique sont une opportunité pour renouer avec les idéaux de conversation scientifique qui présidaient l’invention des revues au 17^{\\textrm{eme}} siècle. La thèse propose une réflexion en trois temps, articulée autour de trois conceptions de la revue : la revue comme format, comme espace et, tel que je le propose et le conceptualise, comme collectif. La revue comme format, d’abord, émerge directement de la forme épistolaire au 17eme, favorisant alors la conversation au sein d’une communauté savante dispersée. Mais les limites conceptuelles du format nous invite à considérer la revue davantage comme un media. Pour penser alors sa remédiation, je montrerai que cette conversation trouve son incarnation contemporaine dans le concept d’éditorialisation. La revue comme espace, ensuite, où s’incarnait jusque-là l’autorité scientifique, fait émerger de nouvelles possibilités conversationnelles, en raison des glissements de la fonction éditoriale des revues et de leurs éditeurs dans l’espace numérique. Enfin, la revue comme collectif émerge d’une écriture processuelle, en mouvement, propre à l’environnement numérique. Un des enjeux de cette thèse réside dans la mise en évidence des dynamiques collectives d’appropriation et de légitimation. En ce sens, la finalité de la revue est peut-être moins la production de documents que l’éditorialisation d’une conversation faisant advenir le collectif. Au plan méthodologique, cette thèse a la particularité de s’appuyer sur une recherche-action ancrée dans une série de cas d’étude et d’expérimentations éditoriales que j’ai pu mener en tant que chercheur d’une part, et éditeur-praticien d’autre part. La présentation des résultats de cette recherche-action, ainsi que leur analyse critique, fournissent la matière des concepts travaillés dans la thèse.</p>",
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          8
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Sauret",
+        "given": "Nicolas"
+      }
+    ],
+    "genre": "Thèse de {Ph}.{D}",
+    "id": "sauret_revue_2020",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "publisher": "Université de Montréal",
+    "title": "De la revue au collectif : La conversation comme dispositif d’éditorialisation des communautés savantes en lettres et sciences",
+    "title-short": "De la revue au collectif",
+    "type": "thesis"
+  },
+  {
+    "DOI": "10.7202/1043383ar",
+    "ISSN": "2104-3272",
+    "URL": "https://www.erudit.org/fr/revues/sp/2016-sp063/1043383ar/",
+    "abstract": "Cet article présente les résultats de huit ans de travail sur le concept d’éditorialisation, réalisés dans le cadre du séminaire international « Écritures numériques et éditorialisation » que j’ai coorganisé avec Nicolas Sauret depuis 2008. Je propose de définir l’éditorialisation comme l’ensemble des dynamiques qui produisent l’espace numérique. Ces dynamiques peuvent être comprises comme les interactions d’actions individuelles et collectives avec un environnement numérique. À partir de cette définition, je propose de décrire le fonctionnement des instances d’autorité dans l’espace numérique.",
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          8
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Vitali-Rosati",
+        "given": "Marcello"
+      }
+    ],
+    "container-title": "Sens public",
+    "id": "vitali-rosati_quest-ce_2016",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "title": "Qu’est-ce que l’éditorialisation?",
+    "type": "article-journal"
+  },
+  {
+    "ISBN": "978-2-7071-2693-1",
+    "author": [
+      {
+        "family": "Lévy",
+        "given": "Pierre"
+      }
+    ],
+    "id": "levy_intelligence_1994",
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "publisher": "La Découverte",
+    "publisher-place": "Paris",
+    "title": "L’intelligence collective : Pour une anthropologie du cyberspace",
+    "title-short": "L’intelligence collective",
+    "type": "book"
+  },
+  {
+    "ISBN": "978-2-37687-307-5",
+    "URL": "https://www.cairn.info/le-switchlab--9782376873075-p-79.htm",
+    "abstract": "Face à un environnement de plus en plus changeant et complexe, les organisations doivent continûment adapter leurs modes de fonctionnement internes. S’appuyer sur l’intelligence collaborative est devenu, à cet égard, un enjeu majeur. En tant que nouvel actif stratégique, le collaboratif renforce, au niveau de l’organisation, le décloisonnement et l’agilisation et, au niveau individuel, la responsabilisation et le sentiment d’appartenance. Si de nombreux dispositifs collaboratifs existent déjà, peu encore permettent un traitement des programmes de transformation en mode interentreprises. Le SwitchLab, conçu en 2018 par deux spécialistes de l’innovation managériale, permet de façon originale de booster des projets d’organisation concrets. Cet ouvrage présente en détail les principes, modalités et apports de ce nouveau dispositif d’échange inter-organisationnel, tout en montrant de quelle façon il s’inscrit dans une logique « d’entreprise étendue », de « pair-à-pair » et de « collaboration ouverte ».",
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          4
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Guillain",
+        "given": "Jean-Yves"
+      },
+      {
+        "family": "Autissier",
+        "given": "David"
+      }
+    ],
+    "collection-title": "Académie des Sciences de Management de Paris",
+    "container-title": "Le SwitchLab. Accélérateur des projets interentreprises",
+    "id": "guillain_lintelligence_2019",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "79-94",
+    "publisher": "EMS Editions",
+    "publisher-place": "Caen",
+    "title": "De l’intelligence collective à l’intelligence collaborative.",
+    "type": "chapter"
+  },
+  {
+    "ISBN": "978-0-385-72170-7",
+    "author": [
+      {
+        "family": "Surowiecki",
+        "given": "James"
+      }
+    ],
+    "id": "surowiecki_wisdom_2005",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "note": "OCLC: 458759480",
+    "publisher": "Anchor Books",
+    "publisher-place": "New York",
+    "title": "The Wisdom of Crowds",
+    "type": "book"
+  },
+  {
+    "ISSN": "1938-4122",
+    "author": [
+      {
+        "family": "Vitali-Rosati",
+        "given": "Marcello"
+      },
+      {
+        "family": "Monjour",
+        "given": "Servanne"
+      },
+      {
+        "family": "Casenave",
+        "given": "Joana"
+      },
+      {
+        "family": "Bouchard",
+        "given": "Elsa"
+      },
+      {
+        "family": "Mellet",
+        "given": "Margot"
+      }
+    ],
+    "container-title": "Digital Humanities Quarterly",
+    "id": "vitali-rosati_editorializing_2020",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "title": "Editorializing the Greek Anthology: The palatin manuscript as a collective imaginary",
+    "title-short": "Editorializing the Greek Anthology",
+    "type": "article-journal",
+    "volume": "14"
+  },
+  {
+    "DOI": "10.7202/1073479ar",
+    "ISSN": "2371-1930",
+    "URL": "http://id.erudit.org/iderudit/1073479ar",
+    "abstract": "Le projet Anthologie Palatine de la Chaire de recherche du Canada sur les écritures numériques cherche à établir une visualisation de l’univers anthologique et de sa richesse. Dans le cadre de ce projet a été conçue la plateforme Anthologia, qui permet à l’utilisateur·trice de participer à la constitution d’un imaginaire collectif en associant le matériel anthologique à d’autres références. Cette édition collaborative numérique interroge les phénomènes de remédiation et la figure du palimpseste.,The Canada Research Chair on Digital Textualities’s Anthologie Palatine project aims to demonstrate the anthology universe and its richness. Within the framework of this project, the Anthologia platform was designed, which allows the user to participate in the constitution of a collective imaginary by associating anthological material with other references. This collaborative digital edition questions the phenomena of remediation and the figure of the palimpsest.",
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          4
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Mellet",
+        "given": "Margot"
+      }
+    ],
+    "container-title": "Captures",
+    "id": "mellet_penser_2020",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "title": "Penser le palimpseste numérique. Le projet d’édition numérique collaborative de l’Anthologie palatine",
+    "type": "article-journal",
+    "volume": "5"
+  },
+  {
+    "DOI": "10.7202/1089649ar",
+    "ISSN": "2104-3272",
+    "URL": "http://id.erudit.org/iderudit/1089649ar",
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          4
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Vitali-Rosati",
+        "given": "Marcello"
+      },
+      {
+        "family": "Mellet",
+        "given": "Margot"
+      },
+      {
+        "family": "Monjour",
+        "given": "Servanne"
+      },
+      {
+        "family": "Fauchié",
+        "given": "Antoine"
+      },
+      {
+        "family": "Guicherd",
+        "given": "Timothée"
+      },
+      {
+        "family": "Larlet",
+        "given": "David"
+      },
+      {
+        "family": "Agostini-Marchese",
+        "given": "Enrico"
+      }
+    ],
+    "container-title": "Sens public",
+    "id": "vitali-rosati_lepopee_2021",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "title": "L’épopée numérique de l’Anthologie grecque : Entre questions épistémologiques, modèles techniques et dynamiques collaboratives",
+    "title-short": "L’épopée numérique de l’Anthologie grecque ",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.1515/9783110599572-014",
+    "ISBN": "978-3-11-059957-2",
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          21
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Dué",
+        "given": "Casey"
+      },
+      {
+        "family": "Ebbott",
+        "given": "Mary"
+      }
+    ],
+    "container-title": "Digital Classical Philology",
+    "editor": [
+      {
+        "family": "Berti",
+        "given": "Monica"
+      }
+    ],
+    "id": "berti_homer_2019",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          8
+        ]
+      ]
+    },
+    "page": "239-256",
+    "publisher": "De Gruyter",
+    "title": "The Homer Multitext within the History of Access to Homeric Epic",
+    "type": "chapter"
+  },
+  {
+    "DOI": "10.24193/subbdigitalia.2018.2.01",
+    "ISSN": "25596721",
+    "URL": "http://digihubb.centre.ubbcluj.ro/journal/index.php/digitalia/article/view/47",
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          13
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Soldo",
+        "given": "Petar"
+      },
+      {
+        "family": "Šoštarić",
+        "given": "Petra"
+      }
+    ],
+    "container-title": "Studia Universitatis Babeș-Bolyai Digitalia",
+    "id": "soldo_treebanking_2019",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          3
+        ]
+      ]
+    },
+    "keyword": "Difficultés rencontrées, Digital Philology, Encore en ligne, Méthodologies/Outils",
+    "page": "7-18",
+    "title": "Treebanking Lucian in Arethusa: Experiences, Problems and Considerations",
+    "title-short": "Treebanking Lucian in Arethusa",
+    "type": "article-journal",
+    "volume": "63"
+  },
+  {
+    "URL": "https://wiki.digitalclassicist.org/index.php?title=Special:CiteThisPage&page=Treebanking&id=11067&wpFormIdentifier=titleform",
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          20
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "The Digital Classicist Wiki contributors"
+      }
+    ],
+    "container-title": "The Digital Classicist Wiki",
+    "id": "the_digital_classicist_wiki_contributors_treebanking_2024",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "title": "Treebanking",
+    "type": ""
+  },
+  {
+    "URL": "https://www.theatlantic.com/ideas/archive/2021/06/princeton-greek-latin-requirement/619136/",
+    "abstract": "And that might be the right way to save classics from oblivion.",
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          20
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Wood",
+        "given": "Graeme"
+      }
+    ],
+    "container-title": "The Atlantic",
+    "id": "wood_princeton_2021",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          6
+        ]
+      ]
+    },
+    "note": "Section: Ideas",
+    "title": "Princeton Dumbs Down Classics",
+    "type": "article-journal"
+  },
+  {
+    "URL": "https://greekreporter.com/2021/09/06/greek-latin-princeton-sparks-debate-classics/",
+    "abstract": "The recent decision by Princeton to remove Greek and Latin for Classics majors has sparked a lively debate among academic circles in the US.",
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          20
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Kokkinidis",
+        "given": "Tasos"
+      }
+    ],
+    "container-title": "GreekReporter.com",
+    "id": "kokkinidis_removal_2021",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          9
+        ]
+      ]
+    },
+    "title": "Removal of Greek, Latin at Princeton Sparks Debate on Classics in the US",
+    "type": "article-journal"
+  },
+  {
+    "URL": "https://www.theatlantic.com/ideas/archive/2021/06/princeton-classics-major-latin-greek/619110/",
+    "abstract": "By ending a requirement that classics majors learn Greek or Latin, Princeton risks amplifying racism instead of curing it.",
+    "accessed": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          20
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "McWhorter",
+        "given": "John"
+      }
+    ],
+    "container-title": "The Atlantic",
+    "id": "mcwhorter_problem_2021",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          6
+        ]
+      ]
+    },
+    "title": "The Problem With Dropping Standards in the Name of Racial Equity",
+    "type": "article-journal"
+  },
+  {
+    "URL": "https://hal.science/hal-03718774",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          13
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Joffredo",
+        "given": "Thierry"
+      }
+    ],
+    "container-title": "Digitizing Enlightenment V - Vers l’interopérabilité des bases de textes / Toward Interoperability of Textbases",
+    "id": "joffredo_usages_2022",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          7
+        ]
+      ]
+    },
+    "publisher-place": "Montpellier, France",
+    "title": "Usages pédagogiques de l’ENCCRE (édition Numérique Collaborative et CRititque de l’Enycyclopédie de Diderot et D’Alembert)",
+    "type": "paper-conference"
+  },
+  {
+    "ISBN": "978-3-11-059957-2",
+    "abstract": "Sustaining Linked Ancient World Data was published in Digital Classical Philology on page 35.",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          6,
+          14
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Cayless",
+        "given": "Hugh A."
+      }
+    ],
+    "container-title": "Digital Classical Philology. Ancient Greek and Latin in the Digital Revolution",
+    "editor": [
+      {
+        "family": "Berti",
+        "given": "Monica"
+      }
+    ],
+    "id": "cayless_sustaining_2019",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "note": "https://doi.org/10.1515/9783110599572-004",
+    "page": "35-50",
+    "publisher": "De Gruyter",
+    "title": "Sustaining Linked Ancient World Data",
+    "type": "chapter"
+  },
+  {
+    "URL": "https://www.philomag.com/articles/fin-de-lenseignement-obligatoire-du-grec-et-du-latin-princeton-peut-connaitre-lantiquite",
+    "abstract": "En avril, la prestigieuse université de Princeton, aux États-Unis, a décidé de ne plus exiger la connaissance du latin ou du grec pour suivre le cursus du ...",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          6,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Vesperini",
+        "given": "Pierre"
+      }
+    ],
+    "container-title": "Philosophie magazine",
+    "id": "vesperini_fin_2021",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          7
+        ]
+      ]
+    },
+    "title": "Fin de l’enseignement obligatoire du grec et du latin à Princeton : Peut-on connaître l’Antiquité en ignorant sa langue ?",
+    "title-short": "Fin de l’enseignement obligatoire du grec et du latin à Princeton",
+    "type": ""
+  },
+  {
+    "ISSN": "2736-2337",
+    "URL": "https://journals.openedition.org/revuehn/371",
+    "abstract": "Le fait numérique a été pensé et interprété pendant des dizaines d’années dans diverses perspectives disciplinaires : des media studies aux sciences de l’information et de la communication, en passant par la sociologie, la psychologie, les sciences politiques, etc. Cela n’est pas surprenant dès que l’on considère – avec Milad Doueihi – que le « numérique » peut être pensé comme un phénomène culturel au sens large, touchant à l’ensemble de nos vies et remettant en cause la totalité de nos catégories conceptuelles. L’expression « humanités numériques » peut en quelque sorte servir à signifier cette universalité du fait numérique : il est question de ce que devient l’humanité à l’époque du numérique. La même universalité est ce qu’aspire à prendre en compte une approche philosophique : au-delà de toute spécificité disciplinaire, le questionnement philosophique vise à comprendre un phénomène ou un fait dans l’ensemble de ses implications. Cet article a l’ambition de partir du concept d’éditorialisation pour proposer une théorie philosophique du monde à l’époque du numérique. Une philosophie, donc, non pas « du numérique », car l’objet de la philosophie ne peut qu’être universel, mais plutôt une philosophie « à l’époque du numérique ».",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          6,
+          11
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Vitali-Rosati",
+        "given": "Marcello"
+      }
+    ],
+    "container-title": "Humanités numériques",
+    "id": "vitali-rosati_pour_2020",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "note": "Number: 1 Publisher: Humanistica",
+    "title": "Pour une théorie de l’éditorialisation",
+    "type": "article-journal"
+  },
+  {
+    "ISBN": "978-1-56639-855-8 978-1-56639-856-5",
+    "URL": "http://catalogue.bnf.fr/ark:/12148/cb38899200f",
+    "accessed": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          8
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Wineburg",
+        "given": "Samuel S."
+      }
+    ],
+    "collection-title": "Critical perspectives on the past",
+    "id": "wineburg_historical_2001",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "note": "Section: xiv, 255 pages : illustrations ; 23 cm",
+    "publisher": "Temple University Press",
+    "publisher-place": "Philadelphia",
+    "title": "Historical thinking and other unnatural acts: Charting the future of teaching the past",
+    "title-short": "Historical thinking and other unnatural acts",
+    "type": "book"
+  },
+  {
+    "DOI": "10.3406/piot.1900.1179",
+    "URL": "https://www.persee.fr/doc/piot_1148-6023_1900_num_7_1_1179",
+    "accessed": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          24
+        ]
+      ]
+    },
+    "author": [
+      {
+        "dropping-particle": "de",
+        "family": "Mély",
+        "given": "Fernand"
+      }
+    ],
+    "container-title": "Monuments et mémoires de la Fondation Eugène Piot",
+    "id": "mely_coffret_1900",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          1900
+        ]
+      ]
+    },
+    "note": "Publisher: Persée - Portail des revues scientifiques en SHS",
+    "page": "65-78",
+    "title": "Le coffret de Saint-Nazaire de Milan et le Manuscrit de l’Iliade de l’Ambrosienne",
+    "type": "article-journal",
+    "volume": "7"
+  }
+]

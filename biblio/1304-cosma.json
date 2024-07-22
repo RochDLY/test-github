@@ -1,1 +1,1107 @@
-{"pandoc-api-version":[1,23],"meta":{"nocite":{"t":"MetaInlines","c":[{"t":"Cite","c":[[{"citationId":"*","citationPrefix":[],"citationSuffix":[],"citationMode":{"t":"NormalCitation"},"citationNoteNum":0,"citationHash":0}],[{"t":"Str","c":"[@*]"}]]}]},"references":{"t":"MetaList","c":[{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Adams"},"given":{"t":"MetaString","c":"Timothy Dow"}}}]},"id":{"t":"MetaString","c":"adams_light_2000"},"issued":{"t":"MetaString","c":"2000"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"University"},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Str","c":"North"},{"t":"Space"},{"t":"Str","c":"Carolina"},{"t":"Space"},{"t":"Str","c":"Press"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Chapel"},{"t":"Space"},{"t":"Str","c":"Hill"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Light"},{"t":"Space"},{"t":"Str","c":"writing"},{"t":"Space"},{"t":"Str","c":"&"},{"t":"Space"},{"t":"Str","c":"life"},{"t":"Space"},{"t":"Str","c":"writing:"},{"t":"Space"},{"t":"Str","c":"Photography"},{"t":"Space"},{"t":"Str","c":"in"},{"t":"Space"},{"t":"Str","c":"autobiography"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"Light"},{"t":"Space"},{"t":"Str","c":"writing"},{"t":"Space"},{"t":"Str","c":"&"},{"t":"Space"},{"t":"Str","c":"life"},{"t":"Space"},{"t":"Str","c":"writing"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Baetens"},"given":{"t":"MetaString","c":"Jan"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Streitberger"},"given":{"t":"MetaString","c":"Alexander"}}}]},"id":{"t":"MetaString","c":"baetens_autoportrait_2011"},"issued":{"t":"MetaString","c":"2011"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Lettres"},{"t":"Space"},{"t":"Str","c":"modernes"},{"t":"Space"},{"t":"Str","c":"Minard"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Caen"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"De"},{"t":"Space"},{"t":"Str","c":"l’autoportrait"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"l’autobiographie"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Beaudry"},"given":{"t":"MetaString","c":"Catherine A."}}}]},"id":{"t":"MetaString","c":"beaudry_role_1991"},"issued":{"t":"MetaString","c":"1991"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Peter"},{"t":"Space"},{"t":"Str","c":"Lang"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"New"},{"t":"Space"},{"t":"Str","c":"York"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"The"},{"t":"Space"},{"t":"Str","c":"role"},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Str","c":"reader"},{"t":"Space"},{"t":"Str","c":"in"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Rousseau"}]]},{"t":"Str","c":"’s"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Confessions"}]]},{"t":"Space"},{"t":"Str","c":"II,"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Str","c":"age"},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Str","c":"revolution"},{"t":"Space"},{"t":"Str","c":"and"},{"t":"Space"},{"t":"Str","c":"romanticism"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Beaujour"},"given":{"t":"MetaString","c":"Michel"}}}]},"id":{"t":"MetaString","c":"beaujour_miroirs_1980"},"issued":{"t":"MetaString","c":"1980"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Éditions"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"Seuil"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Miroirs"},{"t":"Space"},{"t":"Str","c":"d’encre"},{"t":"Space"},{"t":"Str","c":":"},{"t":"Space"},{"t":"Str","c":"Rhétorique"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’autoportrait"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"Miroirs"},{"t":"Space"},{"t":"Str","c":"d’encre"},{"t":"Space"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Mitchell"},"given":{"t":"MetaString","c":"W.J.T."}}}]},"id":{"t":"MetaString","c":"mitchell_que_2014"},"issued":{"t":"MetaString","c":"2014"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"les"},{"t":"Space"},{"t":"Str","c":"Presses"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"réel"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Dijon"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Que"},{"t":"Space"},{"t":"Str","c":"veulent"},{"t":"Space"},{"t":"Str","c":"les"},{"t":"Space"},{"t":"Str","c":"images"},{"t":"Space"},{"t":"Str","c":"?"},{"t":"Space"},{"t":"Str","c":":"},{"t":"Space"},{"t":"Str","c":"Une"},{"t":"Space"},{"t":"Str","c":"critique"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"culture"},{"t":"Space"},{"t":"Str","c":"visuelle"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"Que"},{"t":"Space"},{"t":"Str","c":"veulent"},{"t":"Space"},{"t":"Str","c":"les"},{"t":"Space"},{"t":"Str","c":"images"},{"t":"Space"},{"t":"Str","c":"?"},{"t":"Space"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Grønstad"},"given":{"t":"MetaString","c":"Asbjørn"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Vågnes"},"given":{"t":"MetaString","c":"Øyvind"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Image"},{"t":"Space"},{"t":"Str","c":"&"},{"t":"Space"},{"t":"Str","c":"Narrative,"}]},"id":{"t":"MetaString","c":"gronstad_w_2006"},"issued":{"t":"MetaString","c":"2006"},"title":{"t":"MetaInlines","c":[{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"W.J.T."}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Mitchell"}]]},{"t":"Str","c":":"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"What"}]]},{"t":"Space"},{"t":"Str","c":"do"},{"t":"Space"},{"t":"Str","c":"pictures"},{"t":"Space"},{"t":"Str","c":"want?"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"W.J.T."}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Mitchell"}]]}]},"type":{"t":"MetaString","c":"article-journal"},"volume":{"t":"MetaInlines","c":[{"t":"Str","c":"novembre"},{"t":"Space"},{"t":"Str","c":"2006"}]}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Berchtold"},"given":{"t":"MetaString","c":"Jacques"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Lectures"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Jean"}]]},{"t":"Str","c":"-"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Jacques"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Rousseau"}]]},{"t":"Space"},{"t":"Str","c":":"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Les"}]]},{"t":"Space"},{"t":"Str","c":"confessions"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"I"}]]},{"t":"Str","c":"-"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"VI"}]]}]},"id":{"t":"MetaString","c":"berchtold_lectures_2012"},"issued":{"t":"MetaString","c":"2012"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Presses"},{"t":"Space"},{"t":"Str","c":"universitaires"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"Rennes"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Rennes"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Rédiger"},{"t":"Space"},{"t":"Str","c":"un"},{"t":"Space"},{"t":"Str","c":"portrait"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"soi"}]},"type":{"t":"MetaString","c":"chapter"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Folkenflik"},"given":{"t":"MetaString","c":"Robert"}}}]},"id":{"t":"MetaString","c":"folkenflik_culture_1993"},"issued":{"t":"MetaString","c":"1993"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Stanford"},{"t":"Space"},{"t":"Str","c":"University"},{"t":"Space"},{"t":"Str","c":"Press"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Stanford"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"The"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Culture"}]]},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Str","c":"autobiography:"},{"t":"Space"},{"t":"Str","c":"Constructions"},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Str","c":"self-representation"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"The"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Culture"}]]},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Str","c":"autobiography"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Foucault"},"given":{"t":"MetaString","c":"Michel"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Martin"},"given":{"t":"MetaString","c":"Luther H."}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Gutman"},"given":{"t":"MetaString","c":"Huck"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Hutton"},"given":{"t":"MetaString","c":"Patrick H."}}}]},"id":{"t":"MetaString","c":"foucault_technologies_1988"},"issued":{"t":"MetaString","c":"1988"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"University"},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Str","c":"Massachusetts"},{"t":"Space"},{"t":"Str","c":"Press"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Amherst"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Technologies"},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Str","c":"self:"},{"t":"Space"},{"t":"Str","c":"A"},{"t":"Space"},{"t":"Str","c":"seminar"},{"t":"Space"},{"t":"Str","c":"with"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Michel"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Foucault"}]]}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"Technologies"},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Str","c":"self"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Howarth"},"given":{"t":"MetaString","c":"William L."}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"New"},{"t":"Space"},{"t":"Str","c":"Literary"},{"t":"Space"},{"t":"Str","c":"History,"}]},"id":{"t":"MetaString","c":"howarth_principles_1974"},"issued":{"t":"MetaString","c":"1974"},"page":{"t":"MetaInlines","c":[{"t":"Str","c":"363-381"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Some"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Principles"}]]},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Autobiography"}]]}]},"type":{"t":"MetaString","c":"article-journal"},"volume":{"t":"MetaInlines","c":[{"t":"Str","c":"vol."},{"t":"Space"},{"t":"Str","c":"5,"},{"t":"Space"},{"t":"Str","c":"n"},{"t":"Superscript","c":[{"t":"Str","c":"o"}]},{"t":"Space"},{"t":"Str","c":"2"}]}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Grayson"},"given":{"t":"MetaString","c":"Susan"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Narcissism"},{"t":"Space"},{"t":"Str","c":"and"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Str","c":"text:"},{"t":"Space"},{"t":"Str","c":"Studies"},{"t":"Space"},{"t":"Str","c":"in"},{"t":"Space"},{"t":"Str","c":"literature"},{"t":"Space"},{"t":"Str","c":"and"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Str","c":"psychology"},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Str","c":"self"}]},"edition":{"t":"MetaInlines","c":[{"t":"Str","c":"Édition"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"Lynne"},{"t":"Space"},{"t":"Str","c":"Layton"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"Barbara"},{"t":"Space"},{"t":"Str","c":"A."},{"t":"Space"},{"t":"Str","c":"Schapiro"}]},"id":{"t":"MetaString","c":"grayson_narcissism_1986"},"issued":{"t":"MetaString","c":"1986"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"New"},{"t":"Space"},{"t":"Str","c":"York"},{"t":"Space"},{"t":"Str","c":"University"},{"t":"Space"},{"t":"Str","c":"Press"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"New"},{"t":"Space"},{"t":"Str","c":"York"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Rousseau"},{"t":"Space"},{"t":"Str","c":"and"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Str","c":"text"},{"t":"Space"},{"t":"Str","c":"as"},{"t":"Space"},{"t":"Str","c":"self"}]},"type":{"t":"MetaString","c":"chapter"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Lejeune"},"given":{"t":"MetaString","c":"Philippe"}}}]},"id":{"t":"MetaString","c":"lejeune_moi_1986"},"issued":{"t":"MetaString","c":"1986"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Éditions"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"Seuil"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Moi"},{"t":"Space"},{"t":"Str","c":"aussi"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Maddox"},"given":{"t":"MetaString","c":"Jessica"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Critical"},{"t":"Space"},{"t":"Str","c":"Studies"},{"t":"Space"},{"t":"Str","c":"in"},{"t":"Space"},{"t":"Str","c":"Media"},{"t":"Space"},{"t":"Str","c":"Communication,"}]},"id":{"t":"MetaString","c":"maddox_guns_2017"},"issued":{"t":"MetaString","c":"2017"},"page":{"t":"MetaInlines","c":[{"t":"Str","c":"193-205"}]},"title":{"t":"MetaInlines","c":[{"t":"Quoted","c":[{"t":"DoubleQuote"},[{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Guns"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Don"}]]},{"t":"Str","c":"’t"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Kill"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"People"}]]},{"t":"Str","c":"…"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Selfies"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Do"}]]}]]},{"t":"Str","c":":"},{"t":"Space"},{"t":"Str","c":"Rethinking"},{"t":"Space"},{"t":"Str","c":"narcissism"},{"t":"Space"},{"t":"Str","c":"as"},{"t":"Space"},{"t":"Str","c":"exhibitionism"},{"t":"Space"},{"t":"Str","c":"in"},{"t":"Space"},{"t":"Str","c":"selfie-related"},{"t":"Space"},{"t":"Str","c":"deaths"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Quoted","c":[{"t":"DoubleQuote"},[{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Guns"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Don"}]]},{"t":"Str","c":"’t"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Kill"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"People"}]]},{"t":"Str","c":"…"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Selfies"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Do"}]]}]]}]},"type":{"t":"MetaString","c":"article-journal"},"volume":{"t":"MetaInlines","c":[{"t":"Str","c":"vol."},{"t":"Space"},{"t":"Str","c":"34,"},{"t":"Space"},{"t":"Str","c":"n"},{"t":"Superscript","c":[{"t":"Str","c":"o"}]},{"t":"Space"},{"t":"Str","c":"3"}]}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Martens"},"given":{"t":"MetaString","c":"David"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Montier"},"given":{"t":"MetaString","c":"Jea-Pierre"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Reverseau"},"given":{"t":"MetaString","c":"Anne"}}}]},"id":{"t":"MetaString","c":"martens_lecrivain_2017"},"issued":{"t":"MetaString","c":"2017"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Presses"},{"t":"Space"},{"t":"Str","c":"universitaires"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"Rennes"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Rennes"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"L’écrivain"},{"t":"Space"},{"t":"Str","c":"vu"},{"t":"Space"},{"t":"Str","c":"par"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"photographie:"},{"t":"Space"},{"t":"Str","c":"Formes,"},{"t":"Space"},{"t":"Str","c":"usages,"},{"t":"Space"},{"t":"Str","c":"enjeux"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"L’écrivain"},{"t":"Space"},{"t":"Str","c":"vu"},{"t":"Space"},{"t":"Str","c":"par"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"photographie"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Nussbaum"},"given":{"t":"MetaString","c":"Felicity"}}}]},"id":{"t":"MetaString","c":"nussbaum_autobiographical_1989"},"issued":{"t":"MetaString","c":"1989"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Johns"},{"t":"Space"},{"t":"Str","c":"Hopkins"},{"t":"Space"},{"t":"Str","c":"University"},{"t":"Space"},{"t":"Str","c":"Press"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Baltimore"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"The"},{"t":"Space"},{"t":"Str","c":"autobiographical"},{"t":"Space"},{"t":"Str","c":"subject:"},{"t":"Space"},{"t":"Str","c":"Gender"},{"t":"Space"},{"t":"Str","c":"and"},{"t":"Space"},{"t":"Str","c":"ideology"},{"t":"Space"},{"t":"Str","c":"in"},{"t":"Space"},{"t":"Str","c":"eighteenth-century"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"England"}]]}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"The"},{"t":"Space"},{"t":"Str","c":"autobiographical"},{"t":"Space"},{"t":"Str","c":"subject"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Ortel"},"given":{"t":"MetaString","c":"Philippe"}}}]},"id":{"t":"MetaString","c":"ortel_litterature_2002"},"issued":{"t":"MetaString","c":"2002"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Éditions"},{"t":"Space"},{"t":"Str","c":"JChambon"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Nîmes"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"La"},{"t":"Space"},{"t":"Str","c":"littérature"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"l’ère"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"photographie:"},{"t":"Space"},{"t":"Str","c":"Enquête"},{"t":"Space"},{"t":"Str","c":"sur"},{"t":"Space"},{"t":"Str","c":"une"},{"t":"Space"},{"t":"Str","c":"révolution"},{"t":"Space"},{"t":"Str","c":"invisible"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"La"},{"t":"Space"},{"t":"Str","c":"littérature"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"l’ère"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"photographie"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Smith"},"given":{"t":"MetaString","c":"Sidonie"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Watson"},"given":{"t":"MetaString","c":"Julia"}}}]},"id":{"t":"MetaString","c":"smith_interfaces_2002"},"issued":{"t":"MetaString","c":"2002"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"University"},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Str","c":"Michigan"},{"t":"Space"},{"t":"Str","c":"Press"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Ann"},{"t":"Space"},{"t":"Str","c":"Arbor"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Interfaces:"},{"t":"Space"},{"t":"Str","c":"Women,"},{"t":"Space"},{"t":"Str","c":"autobiography,"},{"t":"Space"},{"t":"Str","c":"image,"},{"t":"Space"},{"t":"Str","c":"performance"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"Interfaces"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Smith"},"given":{"t":"MetaString","c":"Sidonie"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Watson"},"given":{"t":"MetaString","c":"Julia"}}}]},"id":{"t":"MetaString","c":"smith_reading_2010"},"issued":{"t":"MetaString","c":"2010"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"University"},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Str","c":"Minnesota"},{"t":"Space"},{"t":"Str","c":"Press"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Minneapolis"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Reading"},{"t":"Space"},{"t":"Str","c":"autobiography:"},{"t":"Space"},{"t":"Str","c":"A"},{"t":"Space"},{"t":"Str","c":"guide"},{"t":"Space"},{"t":"Str","c":"for"},{"t":"Space"},{"t":"Str","c":"interpreting"},{"t":"Space"},{"t":"Str","c":"life"},{"t":"Space"},{"t":"Str","c":"narratives"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"Reading"},{"t":"Space"},{"t":"Str","c":"autobiography"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Westley"},"given":{"t":"MetaString","c":"Hannah"}}}]},"id":{"t":"MetaString","c":"westley_body_2008"},"issued":{"t":"MetaString","c":"2008"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Rodopi"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Amsterdam"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"The"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Body"}]]},{"t":"Space"},{"t":"Str","c":"as"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Medium"}]]},{"t":"Space"},{"t":"Str","c":"and"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Metaphor"}]]}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Yang"},"given":{"t":"MetaString","c":"Guozheng"}}}]},"id":{"t":"MetaString","c":"yang_jean-jacques_2007"},"issued":{"t":"MetaString","c":"2007"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"L’Harmattan"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Jean-"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Jacques"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Rousseau"}]]},{"t":"Str","c":","},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"part"},{"t":"Space"},{"t":"Str","c":"autobiographique"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’œuvre"},{"t":"Space"},{"t":"Str","c":":"},{"t":"Space"},{"t":"Str","c":"Un"},{"t":"Space"},{"t":"Str","c":"exercice"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"style"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"Jean-"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Jacques"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Rousseau"}]]},{"t":"Str","c":","},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"part"},{"t":"Space"},{"t":"Str","c":"autobiographique"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’œuvre"},{"t":"Space"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"id":{"t":"MetaString","c":"noauthor_selfie_nodate"},"issued":{"t":"MetaString","c":"2017"},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Selfie:"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Definition"}]]},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Str","c":"selfie"},{"t":"Space"},{"t":"Str","c":"in"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"English"}]]},{"t":"Space"},{"t":"Str","c":"by"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Oxford"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Dictionaries"}]]}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"Selfie"}]},"type":{"t":"MetaString","c":"article-journal"},"url":{"t":"MetaString","c":"https://en.oxforddictionaries.com/definition/selfie"}}},{"t":"MetaMap","c":{"id":{"t":"MetaString","c":"noauthor_egoportrait_nodate"},"issued":{"t":"MetaString","c":"2017"},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Égoportrait"}]},"type":{"t":"MetaString","c":"article-journal"},"url":{"t":"MetaString","c":"http://gdt.oqlf.gouv.qc.ca/ficheOqlf.aspx?Id_Fiche=26527058"}}},{"t":"MetaMap","c":{"accessed":{"t":"MetaString","c":"2017-09-11"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Williams"},"given":{"t":"MetaString","c":"Lee"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"The"},{"t":"Space"},{"t":"Str","c":"Communication"},{"t":"Space"},{"t":"Str","c":"Activist"}]},"id":{"t":"MetaString","c":"williams_growing_2013"},"issued":{"t":"MetaString","c":"2013"},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"The"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Growing"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Narcissism"}]]},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Selfies"}]]}]},"type":{"t":"MetaString","c":""},"url":{"t":"MetaString","c":"https://commactivist.com/2013/11/07/the-growing-narcissism-of-selfies/"}}},{"t":"MetaMap","c":{"accessed":{"t":"MetaString","c":"2017-09-11"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Chartier"},"given":{"t":"MetaString","c":"Claire"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Bousenna"},"given":{"t":"MetaString","c":"Youness"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"L’Express.fr"}]},"id":{"t":"MetaString","c":"chartier_bienvenue_2014"},"issued":{"t":"MetaString","c":"2014"},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Bienvenue"},{"t":"Space"},{"t":"Str","c":"dans"},{"t":"Space"},{"t":"Str","c":"l’ère"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"hyper-narcissiques"}]},"type":{"t":"MetaString","c":""},"url":{"t":"MetaString","c":"http://www.lexpress.fr/actualite/societe/bienvenue-dans-l-ere-des-hyper-narcissiques_1608940.html"}}},{"t":"MetaMap","c":{"accessed":{"t":"MetaString","c":"2017-09-11"},"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Chamarro-Premuzic"},"given":{"t":"MetaString","c":"Tomas"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"The"},{"t":"Space"},{"t":"Str","c":"Guardian"}]},"id":{"t":"MetaString","c":"chamarro-premuzic_sharing_2014"},"issued":{"t":"MetaString","c":"2014"},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Sharing"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Str","c":"(self)"},{"t":"Space"},{"t":"Str","c":"love:"},{"t":"Space"},{"t":"Str","c":"The"},{"t":"Space"},{"t":"Str","c":"rise"},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Str","c":"selfie"},{"t":"Space"},{"t":"Str","c":"and"},{"t":"Space"},{"t":"Str","c":"digital"},{"t":"Space"},{"t":"Str","c":"narcissism"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"Sharing"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Str","c":"(self)"},{"t":"Space"},{"t":"Str","c":"love"}]},"type":{"t":"MetaString","c":""},"url":{"t":"MetaString","c":"https://www.theguardian.com/media-network/media-network-blog/2014/mar/13/selfie-social-media-love-digital-narcassism"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Mavrikakis"},"given":{"t":"MetaString","c":"Nicolas"}}}]},"id":{"t":"MetaString","c":"mavrikakis_peur_2015"},"issued":{"t":"MetaString","c":"2015"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Varia"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Montréal"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"La"},{"t":"Space"},{"t":"Str","c":"peur"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’image"},{"t":"Space"},{"t":"Str","c":":"},{"t":"Space"},{"t":"Str","c":"D’hier"},{"t":"Space"},{"t":"Str","c":"à"},{"t":"Space"},{"t":"Str","c":"aujourd’hui"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"La"},{"t":"Space"},{"t":"Str","c":"peur"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’image"},{"t":"Space"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Robier"},"given":{"t":"MetaString","c":"Martine"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Maurel"},"given":{"t":"MetaString","c":"Anne"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"L’écriture"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"soi:"},{"t":"Space"},{"t":"Str","c":"Un"},{"t":"Space"},{"t":"Str","c":"thème,"},{"t":"Space"},{"t":"Str","c":"trois"},{"t":"Space"},{"t":"Str","c":"œuvres"}]},"id":{"t":"MetaString","c":"robier_lecriture_1996"},"issued":{"t":"MetaString","c":"1996"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Belin"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Les"},{"t":"Space"},{"t":"Str","c":"confessions,"},{"t":"Space"},{"t":"Str","c":"jean-jacques"},{"t":"Space"},{"t":"Str","c":"rousseau"}]},"type":{"t":"MetaString","c":"chapter"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Casetti"},"given":{"t":"MetaString","c":"Francesco"}}}]},"id":{"t":"MetaString","c":"francesco_inside_1998"},"issued":{"t":"MetaString","c":"1998"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Indiana"},{"t":"Space"},{"t":"Str","c":"University"},{"t":"Space"},{"t":"Str","c":"Press"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Bloomington"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Inside"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Str","c":"gaze:"},{"t":"Space"},{"t":"Str","c":"The"},{"t":"Space"},{"t":"Str","c":"fiction"},{"t":"Space"},{"t":"Str","c":"film"},{"t":"Space"},{"t":"Str","c":"and"},{"t":"Space"},{"t":"Str","c":"its"},{"t":"Space"},{"t":"Str","c":"spectator"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"Inside"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Str","c":"gaze"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Lejeune"},"given":{"t":"MetaString","c":"Philippe"}}}]},"id":{"t":"MetaString","c":"lejeune_pacte_1996"},"issued":{"t":"MetaString","c":"1996"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Éditions"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"Seuil"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Le"},{"t":"Space"},{"t":"Str","c":"pacte"},{"t":"Space"},{"t":"Str","c":"autobiographique"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Mitchell"},"given":{"t":"MetaString","c":"W.J.T."}}}]},"id":{"t":"MetaString","c":"mitchell_image_2015"},"issued":{"t":"MetaString","c":"2015"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"University"},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Str","c":"Chicago"},{"t":"Space"},{"t":"Str","c":"Press"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Chicago"},{"t":"Space"},{"t":"Str","c":";"},{"t":"Space"},{"t":"Str","c":"London"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Image"},{"t":"Space"},{"t":"Str","c":"science:"},{"t":"Space"},{"t":"Str","c":"Iconology,"},{"t":"Space"},{"t":"Str","c":"visual"},{"t":"Space"},{"t":"Str","c":"culture,"},{"t":"Space"},{"t":"Str","c":"and"},{"t":"Space"},{"t":"Str","c":"media"},{"t":"Space"},{"t":"Str","c":"aesthetics"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"Image"},{"t":"Space"},{"t":"Str","c":"science"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Brown"},"given":{"t":"MetaString","c":"Tom"}}}]},"id":{"t":"MetaString","c":"brown_breaking_2012"},"issued":{"t":"MetaString","c":"2012"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Edinburgh"},{"t":"Space"},{"t":"Str","c":"University"},{"t":"Space"},{"t":"Str","c":"Press"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Edinburgh"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Breaking"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Fourth"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Wall"}]]},{"t":"Str","c":":"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Direct"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Address"}]]},{"t":"Space"},{"t":"Str","c":"in"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Cinema"}]]}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"Breaking"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Fourth"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Wall"}]]}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Kardashian"},"given":{"t":"MetaString","c":"Kim"}}}]},"id":{"t":"MetaString","c":"kardashian_selfish_2015"},"issued":{"t":"MetaString","c":"2015"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Marsilio"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Padoue"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Selfish"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"DiBattista"},"given":{"t":"MetaString","c":"Maria"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Wittman"},"given":{"t":"MetaString","c":"Emily O."}}}]},"id":{"t":"MetaString","c":"dibattista_cambridge_2014"},"issued":{"t":"MetaString","c":"2014"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Cambridge"},{"t":"Space"},{"t":"Str","c":"University"},{"t":"Space"},{"t":"Str","c":"Press"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Cambridge"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"The"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Cambridge"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Companion"}]]},{"t":"Space"},{"t":"Str","c":"to"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Autobiography"}]]}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Darnton"},"given":{"t":"MetaString","c":"Robert"}}}]},"id":{"t":"MetaString","c":"darnton_great_2009"},"issued":{"t":"MetaString","c":"2009"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Basic"},{"t":"Space"},{"t":"Str","c":"Books"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"New"},{"t":"Space"},{"t":"Str","c":"York"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"The"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Great"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Cat"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Massacre"}]]},{"t":"Str","c":":"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"And"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Other"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Episodes"}]]},{"t":"Space"},{"t":"Str","c":"in"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"French"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Cultural"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"History"}]]}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"The"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Great"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Cat"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Massacre"}]]}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Grosrichard"},"given":{"t":"MetaString","c":"Alain"}}}]},"id":{"t":"MetaString","c":"grosrichard_les_2002"},"issued":{"t":"MetaString","c":"2002"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Flammarion"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Les"},{"t":"Space"},{"t":"Str","c":"confessions"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Baumbach"},"given":{"t":"MetaString","c":"Sibylle"}}}]},"id":{"t":"MetaString","c":"baumbach_literature_2015"},"issued":{"t":"MetaString","c":"2015"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Palgrave"},{"t":"Space"},{"t":"Str","c":"Macmillan"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Basingstoke"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Literature"},{"t":"Space"},{"t":"Str","c":"and"},{"t":"Space"},{"t":"Str","c":"fascination"}]},"type":{"t":"MetaString","c":"book"},"url":{"t":"MetaString","c":"http://www.palgraveconnect.com/doifinder/10.1057/9781137538017"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Rousseau"},"given":{"t":"MetaString","c":"Jean-Jacques"}}}]},"edition":{"t":"MetaInlines","c":[{"t":"Str","c":"Bernard"},{"t":"Space"},{"t":"Str","c":"Gagnebin"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"Marcel"},{"t":"Space"},{"t":"Str","c":"Raymond"},{"t":"Space"},{"t":"Str","c":"(dir.)"}]},"id":{"t":"MetaString","c":"rousseau_oeuvres_1959"},"issued":{"t":"MetaString","c":"1959"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Gallimard"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Œuvres"},{"t":"Space"},{"t":"Str","c":"complètes"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"DeArmitt"},"given":{"t":"MetaString","c":"Pleshette"}}}]},"id":{"t":"MetaString","c":"dearmitt_right_2013"},"issued":{"t":"MetaString","c":"2013"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Fordham"},{"t":"Space"},{"t":"Str","c":"University"},{"t":"Space"},{"t":"Str","c":"Press"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"New"},{"t":"Space"},{"t":"Str","c":"York"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"The"},{"t":"Space"},{"t":"Str","c":"right"},{"t":"Space"},{"t":"Str","c":"to"},{"t":"Space"},{"t":"Str","c":"narcissism:"},{"t":"Space"},{"t":"Str","c":"A"},{"t":"Space"},{"t":"Str","c":"case"},{"t":"Space"},{"t":"Str","c":"for"},{"t":"Space"},{"t":"Str","c":"an"},{"t":"Space"},{"t":"Str","c":"im-possible"},{"t":"Space"},{"t":"Str","c":"self-love"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"The"},{"t":"Space"},{"t":"Str","c":"right"},{"t":"Space"},{"t":"Str","c":"to"},{"t":"Space"},{"t":"Str","c":"narcissism"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Walsh"},"given":{"t":"MetaString","c":"Julie"}}}]},"id":{"t":"MetaString","c":"walsh_narcissism_2014"},"issued":{"t":"MetaString","c":"2014"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Palgrave"},{"t":"Space"},{"t":"Str","c":"Macmillan"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Basingstoke"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Narcissism"},{"t":"Space"},{"t":"Str","c":"and"},{"t":"Space"},{"t":"Str","c":"its"},{"t":"Space"},{"t":"Str","c":"discontents"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Krauss"},"given":{"t":"MetaString","c":"Rosalind"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"October,"}]},"id":{"t":"MetaString","c":"krauss_video_1976"},"issued":{"t":"MetaString","c":"1976"},"page":{"t":"MetaInlines","c":[{"t":"Str","c":"51-64"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Video:"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"The"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Aesthetics"}]]},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Narcissism"}]]}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"Video"}]},"type":{"t":"MetaString","c":"article-journal"},"volume":{"t":"MetaInlines","c":[{"t":"Str","c":"vol."},{"t":"Space"},{"t":"Str","c":"1"}]}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Rousseau"},"given":{"t":"MetaString","c":"Jean-Jacques"}}}]},"id":{"t":"MetaString","c":"rousseau_les_2014"},"issued":{"t":"MetaString","c":"2014"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Groupe"},{"t":"Space"},{"t":"Str","c":"Ebooks"},{"t":"Space"},{"t":"Str","c":"Libres"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"Gratuits"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Les"},{"t":"Space"},{"t":"Str","c":"confessions"}]},"type":{"t":"MetaString","c":"book"},"url":{"t":"MetaString","c":"https://ebooks-bnr.com/ebooks/pdf4/rousseau_les_confessions.pdf"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Casetti"},"given":{"t":"MetaString","c":"Francesco"}}}]},"id":{"t":"MetaString","c":"casetti_inside_1998"},"issued":{"t":"MetaString","c":"1998"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Indiana"},{"t":"Space"},{"t":"Str","c":"University"},{"t":"Space"},{"t":"Str","c":"Press"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Bloomington"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Inside"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Str","c":"gaze:"},{"t":"Space"},{"t":"Str","c":"The"},{"t":"Space"},{"t":"Str","c":"fiction"},{"t":"Space"},{"t":"Str","c":"film"},{"t":"Space"},{"t":"Str","c":"and"},{"t":"Space"},{"t":"Str","c":"its"},{"t":"Space"},{"t":"Str","c":"spectator"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"Inside"},{"t":"Space"},{"t":"Str","c":"the"},{"t":"Space"},{"t":"Str","c":"gaze"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Perrin"},"given":{"t":"MetaString","c":"Jean-François"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Citton"},"given":{"t":"MetaString","c":"Yves"}}}]},"id":{"t":"MetaString","c":"perrincitton_jjrousseau_2014"},"issued":{"t":"MetaString","c":"2014"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Garnier"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Jean-jacques"},{"t":"Space"},{"t":"Str","c":"rousseau"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"l’exigence"},{"t":"Space"},{"t":"Str","c":"d’authenticité"},{"t":"Space"},{"t":"Str","c":":"},{"t":"Space"},{"t":"Str","c":"Une"},{"t":"Space"},{"t":"Str","c":"question"},{"t":"Space"},{"t":"Str","c":"pour"},{"t":"Space"},{"t":"Str","c":"notre"},{"t":"Space"},{"t":"Str","c":"temps"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"Jean-jacques"},{"t":"Space"},{"t":"Str","c":"rousseau"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"l’exigence"},{"t":"Space"},{"t":"Str","c":"d’authenticité"},{"t":"Space"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Fridlander"},"given":{"t":"MetaString","c":"Eli"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"The"},{"t":"Space"},{"t":"Str","c":"cambridge"},{"t":"Space"},{"t":"Str","c":"companion"},{"t":"Space"},{"t":"Str","c":"to"},{"t":"Space"},{"t":"Str","c":"autobiography"}]},"id":{"t":"MetaString","c":"fridlander_rouss_2014"},"issued":{"t":"MetaString","c":"2014"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Cambridge"},{"t":"Space"},{"t":"Str","c":"University"},{"t":"Space"},{"t":"Str","c":"Press"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Cambridge"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Rousseau’s"},{"t":"Space"},{"t":"Str","c":"autobiographies"}]},"type":{"t":"MetaString","c":"chapter"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Tisseron"},"given":{"t":"MetaString","c":"Serge"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Communications,"}]},"id":{"t":"MetaString","c":"tisseron_inti_2011"},"issued":{"t":"MetaString","c":"2011"},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Intimité"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"extimité"}]},"type":{"t":"MetaString","c":"article-journal"},"volume":{"t":"MetaInlines","c":[{"t":"Str","c":"vol."},{"t":"Space"},{"t":"Str","c":"88,"},{"t":"Space"},{"t":"Str","c":"n"},{"t":"Superscript","c":[{"t":"Str","c":"o"}]},{"t":"Space"},{"t":"Str","c":"1"}]}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Eco"},"given":{"t":"MetaString","c":"Umberto"}}}]},"id":{"t":"MetaString","c":"umberto_lector_1985"},"issued":{"t":"MetaString","c":"1985"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Grasset"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Lector"},{"t":"Space"},{"t":"Str","c":"in"},{"t":"Space"},{"t":"Str","c":"fabula"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Lasch"},"given":{"t":"MetaString","c":"Christopher"}}}]},"id":{"t":"MetaString","c":"lasch_theculture_1979"},"issued":{"t":"MetaString","c":"1979"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"W.W."},{"t":"Space"},{"t":"Str","c":"Norton"},{"t":"Str","c":";"},{"t":"Space"},{"t":"Str","c":"Company"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Londres"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"The"},{"t":"Space"},{"t":"Str","c":"culture"},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Str","c":"narcissism."},{"t":"Space"},{"t":"Str","c":"American"},{"t":"Space"},{"t":"Str","c":"life"},{"t":"Space"},{"t":"Str","c":"in"},{"t":"Space"},{"t":"Str","c":"an"},{"t":"Space"},{"t":"Str","c":"age"},{"t":"Space"},{"t":"Str","c":"of"},{"t":"Space"},{"t":"Str","c":"diminishing"},{"t":"Space"},{"t":"Str","c":"expectations"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Sennett"},"given":{"t":"MetaString","c":"Richard"}}}]},"id":{"t":"MetaString","c":"sennett_tyra_1979"},"issued":{"t":"MetaString","c":"1979"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Éditions"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"Seuil"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Les"},{"t":"Space"},{"t":"Str","c":"tyrannies"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’intimité"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Gunthert"},"given":{"t":"MetaString","c":"André"}}}]},"id":{"t":"MetaString","c":"gunthert_ima_2015"},"issued":{"t":"MetaString","c":"2015"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Éditions"},{"t":"Space"},{"t":"Str","c":"Textuels"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"L’image"},{"t":"Space"},{"t":"Str","c":"partagée"},{"t":"Space"},{"t":"Str","c":":"},{"t":"Space"},{"t":"Str","c":"La"},{"t":"Space"},{"t":"Str","c":"photographie"},{"t":"Space"},{"t":"Str","c":"numérique"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"L’image"},{"t":"Space"},{"t":"Str","c":"partagée"},{"t":"Space"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Bolter"},"given":{"t":"MetaString","c":"Jay David"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Grusin"},"given":{"t":"MetaString","c":"Richard"}}}]},"id":{"t":"MetaString","c":"bolter_rem_1999"},"issued":{"t":"MetaString","c":"1999"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"MIT"},{"t":"Space"},{"t":"Str","c":"Press"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Cambridge"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Remediation:"},{"t":"Space"},{"t":"Str","c":"Understanding"},{"t":"Space"},{"t":"Str","c":"new"},{"t":"Space"},{"t":"Str","c":"media"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"Remediation"}]},"type":{"t":"MetaString","c":"book"}}}]}},"blocks":[]}
+[
+  {
+    "author": [
+      {
+        "family": "Adams",
+        "given": "Timothy Dow"
+      }
+    ],
+    "id": "adams_light_2000",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "publisher": "University of North Carolina Press",
+    "publisher-place": "Chapel Hill",
+    "title": "Light writing & life writing: Photography in autobiography",
+    "title-short": "Light writing & life writing",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Baetens",
+        "given": "Jan"
+      },
+      {
+        "family": "Streitberger",
+        "given": "Alexander"
+      }
+    ],
+    "id": "baetens_autoportrait_2011",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "publisher": "Lettres modernes Minard",
+    "publisher-place": "Caen",
+    "title": "De l’autoportrait à l’autobiographie",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Beaudry",
+        "given": "Catherine A."
+      }
+    ],
+    "id": "beaudry_role_1991",
+    "issued": {
+      "date-parts": [
+        [
+          1991
+        ]
+      ]
+    },
+    "publisher": "Peter Lang",
+    "publisher-place": "New York",
+    "title": "The role of the reader in Rousseau’s Confessions II, the age of revolution and romanticism",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Beaujour",
+        "given": "Michel"
+      }
+    ],
+    "id": "beaujour_miroirs_1980",
+    "issued": {
+      "date-parts": [
+        [
+          1980
+        ]
+      ]
+    },
+    "publisher": "Éditions du Seuil",
+    "publisher-place": "Paris",
+    "title": "Miroirs d’encre : Rhétorique de l’autoportrait",
+    "title-short": "Miroirs d’encre ",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mitchell",
+        "given": "W.J.T."
+      }
+    ],
+    "id": "mitchell_que_2014",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "publisher": "les Presses du réel",
+    "publisher-place": "Dijon",
+    "title": "Que veulent les images ? : Une critique de la culture visuelle",
+    "title-short": "Que veulent les images ? ",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Grønstad",
+        "given": "Asbjørn"
+      },
+      {
+        "family": "Vågnes",
+        "given": "Øyvind"
+      }
+    ],
+    "container-title": "Image & Narrative,",
+    "id": "gronstad_w_2006",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "title": "W.J.T. Mitchell: What do pictures want?",
+    "title-short": "W.J.T. Mitchell",
+    "type": "article-journal",
+    "volume": "novembre 2006"
+  },
+  {
+    "author": [
+      {
+        "family": "Berchtold",
+        "given": "Jacques"
+      }
+    ],
+    "container-title": "Lectures de Jean-Jacques Rousseau : Les confessions I-VI",
+    "id": "berchtold_lectures_2012",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "publisher": "Presses universitaires de Rennes",
+    "publisher-place": "Rennes",
+    "title": "Rédiger un portrait de soi",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Folkenflik",
+        "given": "Robert"
+      }
+    ],
+    "id": "folkenflik_culture_1993",
+    "issued": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    },
+    "publisher": "Stanford University Press",
+    "publisher-place": "Stanford",
+    "title": "The Culture of autobiography: Constructions of self-representation",
+    "title-short": "The Culture of autobiography",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Foucault",
+        "given": "Michel"
+      },
+      {
+        "family": "Martin",
+        "given": "Luther H."
+      },
+      {
+        "family": "Gutman",
+        "given": "Huck"
+      },
+      {
+        "family": "Hutton",
+        "given": "Patrick H."
+      }
+    ],
+    "id": "foucault_technologies_1988",
+    "issued": {
+      "date-parts": [
+        [
+          1988
+        ]
+      ]
+    },
+    "publisher": "University of Massachusetts Press",
+    "publisher-place": "Amherst",
+    "title": "Technologies of the self: A seminar with Michel Foucault",
+    "title-short": "Technologies of the self",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Howarth",
+        "given": "William L."
+      }
+    ],
+    "container-title": "New Literary History,",
+    "id": "howarth_principles_1974",
+    "issued": {
+      "date-parts": [
+        [
+          1974
+        ]
+      ]
+    },
+    "page": "363-381",
+    "title": "Some Principles of Autobiography",
+    "type": "article-journal",
+    "volume": "vol. 5, n<sup>o</sup> 2"
+  },
+  {
+    "author": [
+      {
+        "family": "Grayson",
+        "given": "Susan"
+      }
+    ],
+    "container-title": "Narcissism and the text: Studies in literature and the psychology of self",
+    "edition": "Édition de Lynne Layton et Barbara A. Schapiro",
+    "id": "grayson_narcissism_1986",
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "publisher": "New York University Press",
+    "publisher-place": "New York",
+    "title": "Rousseau and the text as self",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Lejeune",
+        "given": "Philippe"
+      }
+    ],
+    "id": "lejeune_moi_1986",
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "publisher": "Éditions du Seuil",
+    "publisher-place": "Paris",
+    "title": "Moi aussi",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Maddox",
+        "given": "Jessica"
+      }
+    ],
+    "container-title": "Critical Studies in Media Communication,",
+    "id": "maddox_guns_2017",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "193-205",
+    "title": "“Guns Don’t Kill People… Selfies Do”: Rethinking narcissism as exhibitionism in selfie-related deaths",
+    "title-short": "“Guns Don’t Kill People… Selfies Do”",
+    "type": "article-journal",
+    "volume": "vol. 34, n<sup>o</sup> 3"
+  },
+  {
+    "author": [
+      {
+        "family": "Martens",
+        "given": "David"
+      },
+      {
+        "family": "Montier",
+        "given": "Jea-Pierre"
+      },
+      {
+        "family": "Reverseau",
+        "given": "Anne"
+      }
+    ],
+    "id": "martens_lecrivain_2017",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "publisher": "Presses universitaires de Rennes",
+    "publisher-place": "Rennes",
+    "title": "L’écrivain vu par la photographie: Formes, usages, enjeux",
+    "title-short": "L’écrivain vu par la photographie",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Nussbaum",
+        "given": "Felicity"
+      }
+    ],
+    "id": "nussbaum_autobiographical_1989",
+    "issued": {
+      "date-parts": [
+        [
+          1989
+        ]
+      ]
+    },
+    "publisher": "Johns Hopkins University Press",
+    "publisher-place": "Baltimore",
+    "title": "The autobiographical subject: Gender and ideology in eighteenth-century England",
+    "title-short": "The autobiographical subject",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ortel",
+        "given": "Philippe"
+      }
+    ],
+    "id": "ortel_litterature_2002",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "publisher": "Éditions JChambon",
+    "publisher-place": "Nîmes",
+    "title": "La littérature à l’ère de la photographie: Enquête sur une révolution invisible",
+    "title-short": "La littérature à l’ère de la photographie",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "Sidonie"
+      },
+      {
+        "family": "Watson",
+        "given": "Julia"
+      }
+    ],
+    "id": "smith_interfaces_2002",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "publisher": "University of Michigan Press",
+    "publisher-place": "Ann Arbor",
+    "title": "Interfaces: Women, autobiography, image, performance",
+    "title-short": "Interfaces",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "Sidonie"
+      },
+      {
+        "family": "Watson",
+        "given": "Julia"
+      }
+    ],
+    "id": "smith_reading_2010",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "publisher": "University of Minnesota Press",
+    "publisher-place": "Minneapolis",
+    "title": "Reading autobiography: A guide for interpreting life narratives",
+    "title-short": "Reading autobiography",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Westley",
+        "given": "Hannah"
+      }
+    ],
+    "id": "westley_body_2008",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "publisher": "Rodopi",
+    "publisher-place": "Amsterdam",
+    "title": "The Body as Medium and Metaphor",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Yang",
+        "given": "Guozheng"
+      }
+    ],
+    "id": "yang_jean-jacques_2007",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "publisher": "L’Harmattan",
+    "publisher-place": "Paris",
+    "title": "Jean-Jacques Rousseau, la part autobiographique de l’œuvre : Un exercice de style",
+    "title-short": "Jean-Jacques Rousseau, la part autobiographique de l’œuvre ",
+    "type": "book"
+  },
+  {
+    "URL": "https://en.oxforddictionaries.com/definition/selfie",
+    "id": "noauthor_selfie_nodate",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "Selfie: Definition of selfie in English by Oxford Dictionaries",
+    "title-short": "Selfie",
+    "type": "article-journal"
+  },
+  {
+    "URL": "http://gdt.oqlf.gouv.qc.ca/ficheOqlf.aspx?Id_Fiche=26527058",
+    "id": "noauthor_egoportrait_nodate",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "Égoportrait",
+    "type": "article-journal"
+  },
+  {
+    "URL": "https://commactivist.com/2013/11/07/the-growing-narcissism-of-selfies/",
+    "accessed": {
+      "date-parts": [
+        [
+          2017,
+          9,
+          11
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Williams",
+        "given": "Lee"
+      }
+    ],
+    "container-title": "The Communication Activist",
+    "id": "williams_growing_2013",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "title": "The Growing Narcissism of Selfies",
+    "type": ""
+  },
+  {
+    "URL": "http://www.lexpress.fr/actualite/societe/bienvenue-dans-l-ere-des-hyper-narcissiques_1608940.html",
+    "accessed": {
+      "date-parts": [
+        [
+          2017,
+          9,
+          11
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Chartier",
+        "given": "Claire"
+      },
+      {
+        "family": "Bousenna",
+        "given": "Youness"
+      }
+    ],
+    "container-title": "L’Express.fr",
+    "id": "chartier_bienvenue_2014",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "title": "Bienvenue dans l’ère des hyper-narcissiques",
+    "type": ""
+  },
+  {
+    "URL": "https://www.theguardian.com/media-network/media-network-blog/2014/mar/13/selfie-social-media-love-digital-narcassism",
+    "accessed": {
+      "date-parts": [
+        [
+          2017,
+          9,
+          11
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Chamarro-Premuzic",
+        "given": "Tomas"
+      }
+    ],
+    "container-title": "The Guardian",
+    "id": "chamarro-premuzic_sharing_2014",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "title": "Sharing the (self) love: The rise of the selfie and digital narcissism",
+    "title-short": "Sharing the (self) love",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Mavrikakis",
+        "given": "Nicolas"
+      }
+    ],
+    "id": "mavrikakis_peur_2015",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "publisher": "Varia",
+    "publisher-place": "Montréal",
+    "title": "La peur de l’image : D’hier à aujourd’hui",
+    "title-short": "La peur de l’image ",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Robier",
+        "given": "Martine"
+      },
+      {
+        "family": "Maurel",
+        "given": "Anne"
+      }
+    ],
+    "container-title": "L’écriture de soi: Un thème, trois œuvres",
+    "id": "robier_lecriture_1996",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "publisher": "Belin",
+    "publisher-place": "Paris",
+    "title": "Les confessions, jean-jacques rousseau",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Casetti",
+        "given": "Francesco"
+      }
+    ],
+    "id": "francesco_inside_1998",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "publisher": "Indiana University Press",
+    "publisher-place": "Bloomington",
+    "title": "Inside the gaze: The fiction film and its spectator",
+    "title-short": "Inside the gaze",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lejeune",
+        "given": "Philippe"
+      }
+    ],
+    "id": "lejeune_pacte_1996",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "publisher": "Éditions du Seuil",
+    "publisher-place": "Paris",
+    "title": "Le pacte autobiographique",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mitchell",
+        "given": "W.J.T."
+      }
+    ],
+    "id": "mitchell_image_2015",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "publisher": "University of Chicago Press",
+    "publisher-place": "Chicago ; London",
+    "title": "Image science: Iconology, visual culture, and media aesthetics",
+    "title-short": "Image science",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "Tom"
+      }
+    ],
+    "id": "brown_breaking_2012",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "publisher": "Edinburgh University Press",
+    "publisher-place": "Edinburgh",
+    "title": "Breaking the Fourth Wall: Direct Address in the Cinema",
+    "title-short": "Breaking the Fourth Wall",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kardashian",
+        "given": "Kim"
+      }
+    ],
+    "id": "kardashian_selfish_2015",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "publisher": "Marsilio",
+    "publisher-place": "Padoue",
+    "title": "Selfish",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "DiBattista",
+        "given": "Maria"
+      },
+      {
+        "family": "Wittman",
+        "given": "Emily O."
+      }
+    ],
+    "id": "dibattista_cambridge_2014",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "publisher": "Cambridge University Press",
+    "publisher-place": "Cambridge",
+    "title": "The Cambridge Companion to Autobiography",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Darnton",
+        "given": "Robert"
+      }
+    ],
+    "id": "darnton_great_2009",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "publisher": "Basic Books",
+    "publisher-place": "New York",
+    "title": "The Great Cat Massacre: And Other Episodes in French Cultural History",
+    "title-short": "The Great Cat Massacre",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Grosrichard",
+        "given": "Alain"
+      }
+    ],
+    "id": "grosrichard_les_2002",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "publisher": "Flammarion",
+    "publisher-place": "Paris",
+    "title": "Les confessions",
+    "type": "book"
+  },
+  {
+    "URL": "http://www.palgraveconnect.com/doifinder/10.1057/9781137538017",
+    "author": [
+      {
+        "family": "Baumbach",
+        "given": "Sibylle"
+      }
+    ],
+    "id": "baumbach_literature_2015",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "publisher": "Palgrave Macmillan",
+    "publisher-place": "Basingstoke",
+    "title": "Literature and fascination",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rousseau",
+        "given": "Jean-Jacques"
+      }
+    ],
+    "edition": "Bernard Gagnebin et Marcel Raymond (dir.)",
+    "id": "rousseau_oeuvres_1959",
+    "issued": {
+      "date-parts": [
+        [
+          1959
+        ]
+      ]
+    },
+    "publisher": "Gallimard",
+    "publisher-place": "Paris",
+    "title": "Œuvres complètes",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "DeArmitt",
+        "given": "Pleshette"
+      }
+    ],
+    "id": "dearmitt_right_2013",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "publisher": "Fordham University Press",
+    "publisher-place": "New York",
+    "title": "The right to narcissism: A case for an im-possible self-love",
+    "title-short": "The right to narcissism",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Walsh",
+        "given": "Julie"
+      }
+    ],
+    "id": "walsh_narcissism_2014",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "publisher": "Palgrave Macmillan",
+    "publisher-place": "Basingstoke",
+    "title": "Narcissism and its discontents",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Krauss",
+        "given": "Rosalind"
+      }
+    ],
+    "container-title": "October,",
+    "id": "krauss_video_1976",
+    "issued": {
+      "date-parts": [
+        [
+          1976
+        ]
+      ]
+    },
+    "page": "51-64",
+    "title": "Video: The Aesthetics of Narcissism",
+    "title-short": "Video",
+    "type": "article-journal",
+    "volume": "vol. 1"
+  },
+  {
+    "URL": "https://ebooks-bnr.com/ebooks/pdf4/rousseau_les_confessions.pdf",
+    "author": [
+      {
+        "family": "Rousseau",
+        "given": "Jean-Jacques"
+      }
+    ],
+    "id": "rousseau_les_2014",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "publisher": "Groupe Ebooks Libres et Gratuits",
+    "title": "Les confessions",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Casetti",
+        "given": "Francesco"
+      }
+    ],
+    "id": "casetti_inside_1998",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "publisher": "Indiana University Press",
+    "publisher-place": "Bloomington",
+    "title": "Inside the gaze: The fiction film and its spectator",
+    "title-short": "Inside the gaze",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Perrin",
+        "given": "Jean-François"
+      },
+      {
+        "family": "Citton",
+        "given": "Yves"
+      }
+    ],
+    "id": "perrincitton_jjrousseau_2014",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "publisher": "Garnier",
+    "publisher-place": "Paris",
+    "title": "Jean-jacques rousseau et l’exigence d’authenticité : Une question pour notre temps",
+    "title-short": "Jean-jacques rousseau et l’exigence d’authenticité ",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fridlander",
+        "given": "Eli"
+      }
+    ],
+    "container-title": "The cambridge companion to autobiography",
+    "id": "fridlander_rouss_2014",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "publisher": "Cambridge University Press",
+    "publisher-place": "Cambridge",
+    "title": "Rousseau’s autobiographies",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Tisseron",
+        "given": "Serge"
+      }
+    ],
+    "container-title": "Communications,",
+    "id": "tisseron_inti_2011",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "title": "Intimité et extimité",
+    "type": "article-journal",
+    "volume": "vol. 88, n<sup>o</sup> 1"
+  },
+  {
+    "author": [
+      {
+        "family": "Eco",
+        "given": "Umberto"
+      }
+    ],
+    "id": "umberto_lector_1985",
+    "issued": {
+      "date-parts": [
+        [
+          1985
+        ]
+      ]
+    },
+    "publisher": "Grasset",
+    "publisher-place": "Paris",
+    "title": "Lector in fabula",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lasch",
+        "given": "Christopher"
+      }
+    ],
+    "id": "lasch_theculture_1979",
+    "issued": {
+      "date-parts": [
+        [
+          1979
+        ]
+      ]
+    },
+    "publisher": "W.W. Norton and Company",
+    "publisher-place": "Londres",
+    "title": "The culture of narcissism. American life in an age of diminishing expectations",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sennett",
+        "given": "Richard"
+      }
+    ],
+    "id": "sennett_tyra_1979",
+    "issued": {
+      "date-parts": [
+        [
+          1979
+        ]
+      ]
+    },
+    "publisher": "Éditions du Seuil",
+    "publisher-place": "Paris",
+    "title": "Les tyrannies de l’intimité",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gunthert",
+        "given": "André"
+      }
+    ],
+    "id": "gunthert_ima_2015",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "publisher": "Éditions Textuels",
+    "publisher-place": "Paris",
+    "title": "L’image partagée : La photographie numérique",
+    "title-short": "L’image partagée ",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bolter",
+        "given": "Jay David"
+      },
+      {
+        "family": "Grusin",
+        "given": "Richard"
+      }
+    ],
+    "id": "bolter_rem_1999",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "publisher": "MIT Press",
+    "publisher-place": "Cambridge",
+    "title": "Remediation: Understanding new media",
+    "title-short": "Remediation",
+    "type": "book"
+  }
+]

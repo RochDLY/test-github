@@ -1,1 +1,892 @@
-{"pandoc-api-version":[1,23],"meta":{"nocite":{"t":"MetaInlines","c":[{"t":"Cite","c":[[{"citationId":"*","citationPrefix":[],"citationSuffix":[],"citationMode":{"t":"NormalCitation"},"citationNoteNum":0,"citationHash":0}],[{"t":"Str","c":"[@*]"}]]}]},"references":{"t":"MetaList","c":[{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Huret"},"given":{"t":"MetaString","c":"Jules"}}}]},"id":{"t":"MetaString","c":"huret_enquete_1891"},"issued":{"t":"MetaString","c":"1981"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Charpentier"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Enqu"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"ê"}]]},{"t":"Str","c":"te"},{"t":"Space"},{"t":"Str","c":"sur"},{"t":"Space"},{"t":"Str","c":"l’"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"volution"},{"t":"Space"},{"t":"Str","c":"litt"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"raire"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Zola"},"given":{"t":"MetaString","c":"Émile"}}}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"GF"}]},"id":{"t":"MetaString","c":"zola_roman_2006"},"issued":{"t":"MetaString","c":"2006"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Flammarion"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Le"},{"t":"Space"},{"t":"Str","c":"roman"},{"t":"Space"},{"t":"Str","c":"exp"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"rimental"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Émile-Zola"},"given":{"t":"MetaString","c":"François"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Massin"}}}]},"id":{"t":"MetaString","c":"emile-zola_zola_1979"},"issued":{"t":"MetaString","c":"1979"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Deno"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"ë"}]]},{"t":"Str","c":"l"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Zola"},{"t":"Space"},{"t":"Str","c":"photographe"},{"t":"Space"},{"t":"Str","c":":"},{"t":"Space"},{"t":"Str","c":"480"},{"t":"Space"},{"t":"Str","c":"documents"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"Zola"},{"t":"Space"},{"t":"Str","c":"photographe"},{"t":"Space"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Barthes"},"given":{"t":"MetaString","c":"Roland"}}}]},"id":{"t":"MetaString","c":"barthes_preparation_2015"},"issued":{"t":"MetaString","c":"2015"},"note":{"t":"MetaInlines","c":[{"t":"Str","c":"Texte"},{"t":"Space"},{"t":"Str","c":"annot"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Space"},{"t":"Str","c":"par"},{"t":"Space"},{"t":"Str","c":"Nathalie"},{"t":"Space"},{"t":"Str","c":"L"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"ger,"},{"t":"Space"},{"t":"Str","c":"transcription"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"enregistrements"},{"t":"Space"},{"t":"Str","c":"par"},{"t":"Space"},{"t":"Str","c":"Nathalie"},{"t":"Space"},{"t":"Str","c":"Lacroix,"},{"t":"Space"},{"t":"Str","c":"avant-propos"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"Bernard"},{"t":"Space"},{"t":"Str","c":"Comment."}]},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Seuil"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"La"},{"t":"Space"},{"t":"Str","c":"pr"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"paration"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"roman."},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Cours"}]]},{"t":"Space"},{"t":"Str","c":"au"},{"t":"Space"},{"t":"Span","c":[["",["nocase"],[]],[{"t":"Str","c":"Coll"},{"t":"Span","c":[["",["nocase"],[]],[{"t":"Str","c":"è"}]]},{"t":"Str","c":"ge"}]]},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"France"}]]},{"t":"Space"},{"t":"Str","c":"(1978-79"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"1979-80)"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Barthes"},"given":{"t":"MetaString","c":"Roland"}}}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Tel"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Quel"}]]}]},"id":{"t":"MetaString","c":"barthes_sade_1971"},"issued":{"t":"MetaString","c":"1971"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Seuil"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Sade,"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Fourier"}]]},{"t":"Str","c":","},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Loyola"}]]}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Berton"},"given":{"t":"MetaString","c":"Mireille"}}}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Histoire"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"esth"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"tique"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"cin"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"ma"}]},"id":{"t":"MetaString","c":"berton_corps_2015"},"issued":{"t":"MetaString","c":"2015"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"L’"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Â"}]]},{"t":"Str","c":"ge"},{"t":"Space"},{"t":"Str","c":"d’Homme"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Lausanne"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Le"},{"t":"Space"},{"t":"Str","c":"corps"},{"t":"Space"},{"t":"Str","c":"nerveux"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"spectateurs."},{"t":"Space"},{"t":"Span","c":[["",["nocase"],[]],[{"t":"Str","c":"Cin"},{"t":"Span","c":[["",["nocase"],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"ma"}]]},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"sciences"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"psychisme"},{"t":"Space"},{"t":"Str","c":"autour"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"1900"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Benjamin"},"given":{"t":"MetaString","c":"Walter"}}}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Folio"},{"t":"Space"},{"t":"Str","c":":"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Essai"}]]}]},"container-title":{"t":"MetaInlines","c":[{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Œ"}]]},{"t":"Str","c":"uvres"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"III"}]]}]},"id":{"t":"MetaString","c":"benjamin__2000"},"issued":{"t":"MetaString","c":"2000"},"page":{"t":"MetaInlines","c":[{"t":"Str","c":"269-316"}]},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Gallimard"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"L"}]]},{"t":"Str","c":"’"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"œ"}]]},{"t":"Str","c":"uvre"},{"t":"Space"},{"t":"Str","c":"d’art"},{"t":"Space"},{"t":"Span","c":[["",["nocase"],[]],[{"t":"Str","c":"à"}]]},{"t":"Space"},{"t":"Str","c":"l’"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"poque"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"sa"},{"t":"Space"},{"t":"Str","c":"reproductibilit"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Space"},{"t":"Str","c":"technique"}]},"translator":{"t":"MetaList","c":[{"t":"MetaMap","c":{"dropping-particle":{"t":"MetaString","c":"de"},"family":{"t":"MetaString","c":"Gandillac"},"given":{"t":"MetaString","c":"Maurice"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Rochlitz"},"given":{"t":"MetaString","c":"Rochlitz"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Rush"},"given":{"t":"MetaString","c":"Pierre"}}}]},"type":{"t":"MetaString","c":"chapter"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Gaudreault"},"given":{"t":"MetaString","c":"André"}}}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Cin"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"ma"}]},"id":{"t":"MetaString","c":"gaudreault_cinema_2008"},"isbn":{"t":"MetaString","c":"978-2-271-06547-6"},"issued":{"t":"MetaString","c":"2008"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"CNRS"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Cin"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"ma"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"attraction"},{"t":"Space"},{"t":"Str","c":":"},{"t":"Space"},{"t":"Str","c":"Pour"},{"t":"Space"},{"t":"Str","c":"une"},{"t":"Space"},{"t":"Str","c":"nouvelle"},{"t":"Space"},{"t":"Str","c":"histoire"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"cin"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"matographe"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"Cin"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"ma"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"attraction"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Berton"},"given":{"t":"MetaString","c":"Mireille"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"D"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"cadrages."},{"t":"Space"},{"t":"Str","c":"Cin"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"ma"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"à"}]]},{"t":"Space"},{"t":"Str","c":"travers"},{"t":"Space"},{"t":"Str","c":"champs"}]},"id":{"t":"MetaString","c":"berton__2005"},"issue":{"t":"MetaInlines","c":[{"t":"Str","c":"6"}]},"issued":{"t":"MetaString","c":"2005"},"page":{"t":"MetaInlines","c":[{"t":"Str","c":"8-21"}]},"title":{"t":"MetaInlines","c":[{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Train"}]]},{"t":"Str","c":","},{"t":"Space"},{"t":"Str","c":"cin"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"ma"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"modernit"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Space"},{"t":"Str","c":":"},{"t":"Space"},{"t":"Str","c":"Entre"},{"t":"Space"},{"t":"Str","c":"hyst"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"rie"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"hypnose"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Train"}]]},{"t":"Str","c":","},{"t":"Space"},{"t":"Str","c":"cin"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"ma"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"modernit"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Space"}]},"type":{"t":"MetaString","c":"article-journal"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Blood"},"given":{"t":"MetaString","c":"Susan"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Representations"}]},"id":{"t":"MetaString","c":"blood__2006"},"issue":{"t":"MetaInlines","c":[{"t":"Str","c":"1"}]},"issued":{"t":"MetaString","c":"2006"},"page":{"t":"MetaInlines","c":[{"t":"Str","c":"49-75"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"The"},{"t":"Space"},{"t":"Str","c":"precinematographic"},{"t":"Space"},{"t":"Str","c":"novel:"},{"t":"Space"},{"t":"Str","c":"Zola’s"},{"t":"Space"},{"t":"Emph","c":[{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"b"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"ê"}]]},{"t":"Str","c":"te"},{"t":"Space"},{"t":"Str","c":"humaine"}]}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"The"},{"t":"Space"},{"t":"Str","c":"precinematographic"},{"t":"Space"},{"t":"Str","c":"novel"}]},"type":{"t":"MetaString","c":"article-journal"},"volume":{"t":"MetaInlines","c":[{"t":"Str","c":"93"}]}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Borie"},"given":{"t":"MetaString","c":"Jean"}}}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Le"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Livre"}]]},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Poche"}]]},{"t":"Space"},{"t":"Str","c":":"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Biblio"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Essai"}]]}]},"id":{"t":"MetaString","c":"borie_zola_2003"},"issued":{"t":"MetaString","c":"2003"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Librairie"},{"t":"Space"},{"t":"Str","c":"G"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"n"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"rale"},{"t":"Space"},{"t":"Str","c":"Fran"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"ç"}]]},{"t":"Str","c":"aise"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Zola"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"les"},{"t":"Space"},{"t":"Str","c":"mythes"},{"t":"Space"},{"t":"Str","c":"ou"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"De"}]]},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"naus"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"e"},{"t":"Space"},{"t":"Str","c":"au"},{"t":"Space"},{"t":"Str","c":"salut"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Deleuze"},"given":{"t":"MetaString","c":"Gilles"}}}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Critique"}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Cin"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"ma"},{"t":"Space"},{"t":"Str","c":"1."},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"L"}]]},{"t":"Str","c":"’image-mouvement"}]},"id":{"t":"MetaString","c":"deleuze__1983"},"issued":{"t":"MetaString","c":"1983"},"page":{"t":"MetaInlines","c":[{"t":"Str","c":"173-195"}]},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Minuit"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"De"}]]},{"t":"Space"},{"t":"Str","c":"l’affect"},{"t":"Space"},{"t":"Span","c":[["",["nocase"],[]],[{"t":"Str","c":"à"}]]},{"t":"Space"},{"t":"Str","c":"l’action"},{"t":"Space"},{"t":"Str","c":":"},{"t":"Space"},{"t":"Str","c":"L’image-pulsion"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"De"}]]},{"t":"Space"},{"t":"Str","c":"l’affect"},{"t":"Space"},{"t":"Span","c":[["",["nocase"],[]],[{"t":"Str","c":"à"}]]},{"t":"Space"},{"t":"Str","c":"l’action"},{"t":"Space"}]},"type":{"t":"MetaString","c":"chapter"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Deleuze"},"given":{"t":"MetaString","c":"Gilles"}}}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Critique"}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Logique"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"sens"}]},"id":{"t":"MetaString","c":"deleuze__1969"},"issued":{"t":"MetaString","c":"1969"},"page":{"t":"MetaInlines","c":[{"t":"Str","c":"373-388"}]},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Minuit"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Zola"}]]},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"f"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"ê"}]]},{"t":"Str","c":"lure"}]},"type":{"t":"MetaString","c":"chapter"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Doré"},"given":{"t":"MetaString","c":"Sandrine"}}}]},"genre":{"t":"MetaString","c":"PhD thesis"},"id":{"t":"MetaString","c":"dore_albert_2014"},"issued":{"t":"MetaString","c":"2014"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Universit"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Space"},{"t":"Str","c":"Paris"},{"t":"Space"},{"t":"Str","c":"Ouest"},{"t":"Space"},{"t":"Str","c":"–"},{"t":"Space"},{"t":"Str","c":"Nanterre"},{"t":"Space"},{"t":"Str","c":"La"},{"t":"Space"},{"t":"Str","c":"D"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"fense"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Albert"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Robida"}]]},{"t":"Space"},{"t":"Str","c":"(1848-1926),"},{"t":"Space"},{"t":"Str","c":"un"},{"t":"Space"},{"t":"Str","c":"dessinateur"},{"t":"Space"},{"t":"Str","c":"fin"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"si"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"è"}]]},{"t":"Str","c":"cle"},{"t":"Space"},{"t":"Str","c":"dans"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"soci"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"t"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"images"}]},"type":{"t":"MetaString","c":"thesis"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Edwards"},"given":{"t":"MetaString","c":"Michael"}}}]},"id":{"t":"MetaString","c":"edwards_bonheur_2011"},"issued":{"t":"MetaString","c":"2011"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Fayard"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Le"},{"t":"Space"},{"t":"Str","c":"bonheur"},{"t":"Space"},{"t":"Str","c":"d’"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"ê"}]]},{"t":"Str","c":"tre"},{"t":"Space"},{"t":"Str","c":"ici"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Eisenstein"},"given":{"t":"MetaString","c":"Sergueı̈ M."}}}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"7e"},{"t":"Space"},{"t":"Str","c":"art"}]},"editor":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Albera"},"given":{"t":"MetaString","c":"François"}}}]},"id":{"t":"MetaString","c":"eisenstein_mouvement_1986"},"issued":{"t":"MetaString","c":"1986"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Les"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"É"}]]},{"t":"Str","c":"ditions"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"Cerf"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Le"},{"t":"Space"},{"t":"Str","c":"mouvement"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’art"}]},"translator":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Kleiman"},"given":{"t":"MetaString","c":"Naoum"}}}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Gaudreault"},"given":{"t":"MetaString","c":"André"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Gunning"},"given":{"t":"MetaString","c":"Tom"}}}]},"container-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Histoire"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"cin"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"ma."},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Nouvelles"}]]},{"t":"Space"},{"t":"Str","c":"approches"}]},"id":{"t":"MetaString","c":"gaudreault__1989"},"issued":{"t":"MetaString","c":"1989"},"page":{"t":"MetaInlines","c":[{"t":"Str","c":"49-63"}]},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Publications"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"Sorbonne"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Le"}]]},{"t":"Space"},{"t":"Str","c":"cin"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"ma"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"premiers"},{"t":"Space"},{"t":"Str","c":"temps"},{"t":"Space"},{"t":"Str","c":":"},{"t":"Space"},{"t":"Str","c":"Un"},{"t":"Space"},{"t":"Str","c":"d"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"fi"},{"t":"Space"},{"t":"Span","c":[["",["nocase"],[]],[{"t":"Str","c":"à"}]]},{"t":"Space"},{"t":"Str","c":"l’histoire"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"cin"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"ma?"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Le"}]]},{"t":"Space"},{"t":"Str","c":"cin"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"ma"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"premiers"},{"t":"Space"},{"t":"Str","c":"temps"},{"t":"Space"}]},"type":{"t":"MetaString","c":"chapter"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Gaudreault"},"given":{"t":"MetaString","c":"André"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Marion"},"given":{"t":"MetaString","c":"Philippe"}}}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Cin"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"ma/"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Arts"}]]},{"t":"Space"},{"t":"Str","c":"visuels"}]},"id":{"t":"MetaString","c":"gaudreault_fin_2013"},"issued":{"t":"MetaString","c":"2013"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Armand"},{"t":"Space"},{"t":"Str","c":"Colin"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"La"},{"t":"Space"},{"t":"Str","c":"fin"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"cin"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"ma"},{"t":"Space"},{"t":"Str","c":"?"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Un"}]]},{"t":"Space"},{"t":"Str","c":"m"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"dia"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"crise"},{"t":"Space"},{"t":"Span","c":[["",["nocase"],[]],[{"t":"Str","c":"à"}]]},{"t":"Space"},{"t":"Str","c":"l’"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"è"}]]},{"t":"Str","c":"re"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"num"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"rique"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Guermès"},"given":{"t":"MetaString","c":"Sophie"}}}]},"id":{"t":"MetaString","c":"guermes_religion_2003"},"issued":{"t":"MetaString","c":"2003"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Honor"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Space"},{"t":"Str","c":"Champion"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"La"},{"t":"Space"},{"t":"Str","c":"religion"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Zola"}]]},{"t":"Str","c":"."},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Naturalisme"}]]},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"d"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"christianisation"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Gural-Migdal"},"given":{"t":"MetaString","c":"Anna"}}}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Litt"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"ratures"}]},"id":{"t":"MetaString","c":"gural-migdal_lecrit-ecran_2012"},"issued":{"t":"MetaString","c":"2012"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Presses"},{"t":"Space"},{"t":"Str","c":"Universitaires"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"Septentrion"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Villeneuve-d’Ascq"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"L’"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"É"}]]},{"t":"Str","c":"crit-"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"É"}]]},{"t":"Str","c":"cran"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Rougon"}]]},{"t":"Str","c":"-"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Macquart"}]]},{"t":"Str","c":"."},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Conceptions"}]]},{"t":"Space"},{"t":"Str","c":"iconiques"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"filmiques"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"roman"},{"t":"Space"},{"t":"Str","c":"chez"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Zola"}]]}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Hamon"},"given":{"t":"MetaString","c":"Philippe"}}}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Les"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Essais"}]]}]},"id":{"t":"MetaString","c":"hamon_imageries.2001"},"issued":{"t":"MetaString","c":"2001"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Jos"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Space"},{"t":"Str","c":"Corti"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Imageries."},{"t":"Space"},{"t":"Span","c":[["",["nocase"],[]],[{"t":"Str","c":"Litt"},{"t":"Span","c":[["",["nocase"],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"rature"}]]},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"image"},{"t":"Space"},{"t":"Str","c":"au"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"XIXe"}]]},{"t":"Space"},{"t":"Str","c":"si"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"è"}]]},{"t":"Str","c":"cle"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Larrue"},"given":{"t":"MetaString","c":"Jean-Marc"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Pisano"},"given":{"t":"MetaString","c":"Giusy"}}}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Arts"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"spectacle."},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Images"}]]},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"sons"}]},"id":{"t":"MetaString","c":"pisano_les_2014"},"issued":{"t":"MetaString","c":"2014"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Presses"},{"t":"Space"},{"t":"Str","c":"Universitaires"},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"Septentrion"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Villeneuve-d’Ascq"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Les"},{"t":"Space"},{"t":"Str","c":"archives"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"mise"},{"t":"Space"},{"t":"Str","c":"en"},{"t":"Space"},{"t":"Str","c":"sc"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"è"}]]},{"t":"Str","c":"ne."},{"t":"Space"},{"t":"Span","c":[["",["nocase"],[]],[{"t":"Str","c":"Hyperm"},{"t":"Span","c":[["",["nocase"],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"dialit"},{"t":"Span","c":[["",["nocase"],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"s"}]]},{"t":"Space"},{"t":"Str","c":"du"},{"t":"Space"},{"t":"Str","c":"th"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"â"}]]},{"t":"Str","c":"tre"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"McLuhan"},"given":{"t":"MetaString","c":"Marshall"}}}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Points"},{"t":"Space"},{"t":"Str","c":":"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Essais"}]]}]},"id":{"t":"MetaString","c":"mcluhan_pour_2015"},"issued":{"t":"MetaString","c":"2015"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Seuil"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Pour"},{"t":"Space"},{"t":"Str","c":"comprendre"},{"t":"Space"},{"t":"Str","c":"les"},{"t":"Space"},{"t":"Str","c":"m"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"dias."},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Les"}]]},{"t":"Space"},{"t":"Str","c":"prolongements"},{"t":"Space"},{"t":"Str","c":"technologiques"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’homme"}]},"translator":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Paré"},"given":{"t":"MetaString","c":"Jean"}}}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Mitterand"},"given":{"t":"MetaString","c":"Henri"}}}]},"id":{"t":"MetaString","c":"mitterand_zola2002"},"issued":{"t":"MetaString","c":"2002"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Fayard"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Zola."},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"III"}]]},{"t":"Space"},{"t":"Str","c":":"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"L"}]]},{"t":"Str","c":"’honneur"},{"t":"Space"},{"t":"Str","c":"(1893-1902)"}]},"title-short":{"t":"MetaInlines","c":[{"t":"Str","c":"Zola."},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"III"}]]},{"t":"Space"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Muray"},"given":{"t":"MetaString","c":"Philippe"}}}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Tel"}]},"id":{"t":"MetaString","c":"murray_xixe_1999"},"issued":{"t":"MetaString","c":"1999"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Gallimard"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Le"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"XIXe"}]]},{"t":"Space"},{"t":"Str","c":"si"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"è"}]]},{"t":"Str","c":"cle"},{"t":"Space"},{"t":"Span","c":[["",["nocase"],[]],[{"t":"Str","c":"à"}]]},{"t":"Space"},{"t":"Str","c":"travers"},{"t":"Space"},{"t":"Str","c":"les"},{"t":"Space"},{"t":"Span","c":[["",["nocase"],[]],[{"t":"Str","c":"â"}]]},{"t":"Str","c":"ges"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Noiray"},"given":{"t":"MetaString","c":"Jacques"}}}]},"id":{"t":"MetaString","c":"noiray_romancier_1981"},"issued":{"t":"MetaString","c":"1981"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Jos"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Space"},{"t":"Str","c":"Corti"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Le"},{"t":"Space"},{"t":"Str","c":"romancier"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"machine."},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"L"}]]},{"t":"Str","c":"’image"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"machine"},{"t":"Space"},{"t":"Str","c":"dans"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"roman"},{"t":"Space"},{"t":"Str","c":"fran"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"ç"}]]},{"t":"Str","c":"ais"},{"t":"Space"},{"t":"Str","c":"(1850-1900)."},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"I"}]]},{"t":"Str","c":"."},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"L"}]]},{"t":"Str","c":"’univers"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Zola"}]]}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Rancière"},"given":{"t":"MetaString","c":"Jacques"}}}]},"id":{"t":"MetaString","c":"ranciere_destin_2003"},"issued":{"t":"MetaString","c":"2003"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"La"},{"t":"Space"},{"t":"Str","c":"Fabrique"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Le"},{"t":"Space"},{"t":"Str","c":"destin"},{"t":"Space"},{"t":"Str","c":"des"},{"t":"Space"},{"t":"Str","c":"images"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Serres"},"given":{"t":"MetaString","c":"Michel"}}}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Figures"}]},"id":{"t":"MetaString","c":"serres_feux_1975"},"issued":{"t":"MetaString","c":"1975"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Grasset"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Feux"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"signaux"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"brume."},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Zola"}]]}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Ternois"},"given":{"t":"MetaString","c":"René"}}}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Publications"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Universit"},{"t":"Span","c":[["",["nocase"],[]],[{"t":"Str","c":"é"}]]}]]},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Dijon"}]]}]},"id":{"t":"MetaString","c":"ternois_zola_1961"},"issued":{"t":"MetaString","c":"1961"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Les"},{"t":"Space"},{"t":"Str","c":"Belles"},{"t":"Space"},{"t":"Str","c":"Lettres"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Zola"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"son"},{"t":"Space"},{"t":"Str","c":"temps."},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Lourdes"}]]},{"t":"Str","c":","},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Rome"}]]},{"t":"Str","c":","},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Paris"}]]}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Valéry"},"given":{"t":"MetaString","c":"Paul"}}}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Biblioth"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"è"}]]},{"t":"Str","c":"que"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Span","c":[["",["nocase"],[]],[{"t":"Str","c":"Pl"},{"t":"Span","c":[["",["nocase"],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"iade"}]]}]},"editor":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Hytier"},"given":{"t":"MetaString","c":"Jean"}}}]},"id":{"t":"MetaString","c":"valery_oeuvres_1960"},"issued":{"t":"MetaString","c":"1960"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Gallimard"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Œ"}]]},{"t":"Str","c":"uvres"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"II"}]]}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Warren"},"given":{"t":"MetaString","c":"Paul"}}}]},"id":{"t":"MetaString","c":"warren_zola_1995"},"issued":{"t":"MetaString","c":"1995"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Presses"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Str","c":"Sorbonne"},{"t":"Space"},{"t":"Str","c":"Nouvelle/Presses"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"l’Universit"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Space"},{"t":"Str","c":"Laval"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris/Sainte-Foy"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Zola"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Str","c":"cin"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"ma"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Zola"},"given":{"t":"MetaString","c":"Émile"}}}]},"editor":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Mitterand"},"given":{"t":"MetaString","c":"Henri"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Pagès"},"given":{"t":"MetaString","c":"Alain"}}}]},"id":{"t":"MetaString","c":"zola_oeuvres_2008"},"issued":{"t":"MetaString","c":"2008"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Nouveau"},{"t":"Space"},{"t":"Str","c":"Monde"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Œ"}]]},{"t":"Str","c":"uvres"},{"t":"Space"},{"t":"Str","c":"compl"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"è"}]]},{"t":"Str","c":"tes"}]},"type":{"t":"MetaString","c":"book"},"volume":{"t":"MetaInlines","c":[{"t":"Str","c":"XVIII"}]}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Zola"},"given":{"t":"MetaString","c":"Émile"}}}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Biblioth"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"è"}]]},{"t":"Str","c":"que"},{"t":"Space"},{"t":"Str","c":"de"},{"t":"Space"},{"t":"Str","c":"la"},{"t":"Space"},{"t":"Span","c":[["",["nocase"],[]],[{"t":"Str","c":"Pl"},{"t":"Span","c":[["",["nocase"],[]],[{"t":"Str","c":"é"}]]},{"t":"Str","c":"iade"}]]}]},"editor":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Mitterand"},"given":{"t":"MetaString","c":"Henri"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Lanoux"},"given":{"t":"MetaString","c":"Armand"}}}]},"id":{"t":"MetaString","c":"zola_les_1964"},"issued":{"t":"MetaString","c":"1964"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Gallimard"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Les"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Rougon"}]]},{"t":"Str","c":"-"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Macquart"}]]},{"t":"Str","c":"."},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Histoire"}]]},{"t":"Space"},{"t":"Str","c":"naturelle"},{"t":"Space"},{"t":"Str","c":"et"},{"t":"Space"},{"t":"Str","c":"sociale"},{"t":"Space"},{"t":"Str","c":"d’une"},{"t":"Space"},{"t":"Str","c":"famille"},{"t":"Space"},{"t":"Str","c":"sous"},{"t":"Space"},{"t":"Str","c":"le"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Second"}]]},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Empire"}]]}]},"type":{"t":"MetaString","c":"book"},"volume":{"t":"MetaInlines","c":[{"t":"Str","c":"III"}]}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Zola"},"given":{"t":"MetaString","c":"Émile"}}}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Folio"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Classique"}]]}]},"editor":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Noiray"},"given":{"t":"MetaString","c":"Jacques"}}}]},"id":{"t":"MetaString","c":"zola_lourdes_1995"},"issued":{"t":"MetaString","c":"1995"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Gallimard"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Lourdes"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Zola"},"given":{"t":"MetaString","c":"Émile"}}}]},"editor":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Mitterand"},"given":{"t":"MetaString","c":"Henri"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Cabanès"},"given":{"t":"MetaString","c":"Jean-Louis"}}},{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Noiray"},"given":{"t":"MetaString","c":"Jacques"}}}]},"id":{"t":"MetaString","c":"zola_oeuvres_2007"},"issued":{"t":"MetaString","c":"2007"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Nouveau"},{"t":"Space"},{"t":"Str","c":"Monde"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Œ"}]]},{"t":"Str","c":"uvres"},{"t":"Space"},{"t":"Str","c":"compl"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"è"}]]},{"t":"Str","c":"tes"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Zola"},"given":{"t":"MetaString","c":"Émile"}}}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Folio"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Classique"}]]}]},"editor":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Noiray"},"given":{"t":"MetaString","c":"Jacques"}}}]},"id":{"t":"MetaString","c":"zola_paris_2002"},"issued":{"t":"MetaString","c":"2002"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Gallimard"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"type":{"t":"MetaString","c":"book"}}},{"t":"MetaMap","c":{"author":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Zola"},"given":{"t":"MetaString","c":"Émile"}}}]},"collection-title":{"t":"MetaInlines","c":[{"t":"Str","c":"Folio"},{"t":"Space"},{"t":"Span","c":[["",[],[]],[{"t":"Str","c":"Classique"}]]}]},"editor":{"t":"MetaList","c":[{"t":"MetaMap","c":{"family":{"t":"MetaString","c":"Noiray"},"given":{"t":"MetaString","c":"Jacques"}}}]},"id":{"t":"MetaString","c":"zola_rome_1999"},"issued":{"t":"MetaString","c":"1999"},"publisher":{"t":"MetaInlines","c":[{"t":"Str","c":"Gallimard"}]},"publisher-place":{"t":"MetaInlines","c":[{"t":"Str","c":"Paris"}]},"title":{"t":"MetaInlines","c":[{"t":"Str","c":"Rome"}]},"type":{"t":"MetaString","c":"book"}}}]}},"blocks":[]}
+[
+  {
+    "author": [
+      {
+        "family": "Huret",
+        "given": "Jules"
+      }
+    ],
+    "id": "huret_enquete_1891",
+    "issued": {
+      "date-parts": [
+        [
+          1981
+        ]
+      ]
+    },
+    "publisher": "Charpentier",
+    "publisher-place": "Paris",
+    "title": "Enquête sur l’évolution littéraire",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Zola",
+        "given": "Émile"
+      }
+    ],
+    "collection-title": "GF",
+    "id": "zola_roman_2006",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "publisher": "Flammarion",
+    "title": "Le roman expérimental",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Émile-Zola",
+        "given": "François"
+      },
+      {
+        "family": "Massin"
+      }
+    ],
+    "id": "emile-zola_zola_1979",
+    "issued": {
+      "date-parts": [
+        [
+          1979
+        ]
+      ]
+    },
+    "publisher": "Denoël",
+    "publisher-place": "Paris",
+    "title": "Zola photographe : 480 documents",
+    "title-short": "Zola photographe ",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Barthes",
+        "given": "Roland"
+      }
+    ],
+    "id": "barthes_preparation_2015",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "note": "Texte annoté par Nathalie Léger, transcription des enregistrements par Nathalie Lacroix, avant-propos de Bernard Comment.",
+    "publisher": "Seuil",
+    "publisher-place": "Paris",
+    "title": "La préparation du roman. Cours au Collège de France (1978-79 et 1979-80)",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Barthes",
+        "given": "Roland"
+      }
+    ],
+    "collection-title": "Tel Quel",
+    "id": "barthes_sade_1971",
+    "issued": {
+      "date-parts": [
+        [
+          1971
+        ]
+      ]
+    },
+    "publisher": "Seuil",
+    "publisher-place": "Paris",
+    "title": "Sade, Fourier, Loyola",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Berton",
+        "given": "Mireille"
+      }
+    ],
+    "collection-title": "Histoire et esthétique du cinéma",
+    "id": "berton_corps_2015",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "publisher": "L’Âge d’Homme",
+    "publisher-place": "Lausanne",
+    "title": "Le corps nerveux des spectateurs. Cinéma et sciences du psychisme autour de 1900",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Benjamin",
+        "given": "Walter"
+      }
+    ],
+    "collection-title": "Folio : Essai",
+    "container-title": "Œuvres III",
+    "id": "benjamin__2000",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "269-316",
+    "publisher": "Gallimard",
+    "publisher-place": "Paris",
+    "title": "L’œuvre d’art à l’époque de sa reproductibilité technique",
+    "translator": [
+      {
+        "dropping-particle": "de",
+        "family": "Gandillac",
+        "given": "Maurice"
+      },
+      {
+        "family": "Rochlitz",
+        "given": "Rochlitz"
+      },
+      {
+        "family": "Rush",
+        "given": "Pierre"
+      }
+    ],
+    "type": "chapter"
+  },
+  {
+    "ISBN": "978-2-271-06547-6",
+    "author": [
+      {
+        "family": "Gaudreault",
+        "given": "André"
+      }
+    ],
+    "collection-title": "Cinéma",
+    "id": "gaudreault_cinema_2008",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "publisher": "CNRS",
+    "publisher-place": "Paris",
+    "title": "Cinéma et attraction : Pour une nouvelle histoire du cinématographe",
+    "title-short": "Cinéma et attraction",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Berton",
+        "given": "Mireille"
+      }
+    ],
+    "container-title": "Décadrages. Cinéma à travers champs",
+    "id": "berton__2005",
+    "issue": "6",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "page": "8-21",
+    "title": "Train, cinéma et modernité : Entre hystérie et hypnose",
+    "title-short": "Train, cinéma et modernité ",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Blood",
+        "given": "Susan"
+      }
+    ],
+    "container-title": "Representations",
+    "id": "blood__2006",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "page": "49-75",
+    "title": "The precinematographic novel: Zola’s <i>la bête humaine</i>",
+    "title-short": "The precinematographic novel",
+    "type": "article-journal",
+    "volume": "93"
+  },
+  {
+    "author": [
+      {
+        "family": "Borie",
+        "given": "Jean"
+      }
+    ],
+    "collection-title": "Le Livre de Poche : Biblio Essai",
+    "id": "borie_zola_2003",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "publisher": "Librairie Générale Française",
+    "publisher-place": "Paris",
+    "title": "Zola et les mythes ou De la nausée au salut",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Deleuze",
+        "given": "Gilles"
+      }
+    ],
+    "collection-title": "Critique",
+    "container-title": "Cinéma 1. L’image-mouvement",
+    "id": "deleuze__1983",
+    "issued": {
+      "date-parts": [
+        [
+          1983
+        ]
+      ]
+    },
+    "page": "173-195",
+    "publisher": "Minuit",
+    "publisher-place": "Paris",
+    "title": "De l’affect à l’action : L’image-pulsion",
+    "title-short": "De l’affect à l’action ",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Deleuze",
+        "given": "Gilles"
+      }
+    ],
+    "collection-title": "Critique",
+    "container-title": "Logique du sens",
+    "id": "deleuze__1969",
+    "issued": {
+      "date-parts": [
+        [
+          1969
+        ]
+      ]
+    },
+    "page": "373-388",
+    "publisher": "Minuit",
+    "publisher-place": "Paris",
+    "title": "Zola et la fêlure",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Doré",
+        "given": "Sandrine"
+      }
+    ],
+    "genre": "PhD thesis",
+    "id": "dore_albert_2014",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "publisher": "Université Paris Ouest – Nanterre La Défense",
+    "publisher-place": "Paris",
+    "title": "Albert Robida (1848-1926), un dessinateur fin de siècle dans la société des images",
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Edwards",
+        "given": "Michael"
+      }
+    ],
+    "id": "edwards_bonheur_2011",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "publisher": "Fayard",
+    "publisher-place": "Paris",
+    "title": "Le bonheur d’être ici",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Eisenstein",
+        "given": "Sergueı̈ M."
+      }
+    ],
+    "collection-title": "7e art",
+    "editor": [
+      {
+        "family": "Albera",
+        "given": "François"
+      }
+    ],
+    "id": "eisenstein_mouvement_1986",
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "publisher": "Les Éditions du Cerf",
+    "publisher-place": "Paris",
+    "title": "Le mouvement de l’art",
+    "translator": [
+      {
+        "family": "Kleiman",
+        "given": "Naoum"
+      }
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gaudreault",
+        "given": "André"
+      },
+      {
+        "family": "Gunning",
+        "given": "Tom"
+      }
+    ],
+    "container-title": "Histoire du cinéma. Nouvelles approches",
+    "id": "gaudreault__1989",
+    "issued": {
+      "date-parts": [
+        [
+          1989
+        ]
+      ]
+    },
+    "page": "49-63",
+    "publisher": "Publications de la Sorbonne",
+    "publisher-place": "Paris",
+    "title": "Le cinéma des premiers temps : Un défi à l’histoire du cinéma?",
+    "title-short": "Le cinéma des premiers temps ",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Gaudreault",
+        "given": "André"
+      },
+      {
+        "family": "Marion",
+        "given": "Philippe"
+      }
+    ],
+    "collection-title": "Cinéma/Arts visuels",
+    "id": "gaudreault_fin_2013",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "publisher": "Armand Colin",
+    "publisher-place": "Paris",
+    "title": "La fin du cinéma ? Un média en crise à l’ère du numérique",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Guermès",
+        "given": "Sophie"
+      }
+    ],
+    "id": "guermes_religion_2003",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "publisher": "Honoré Champion",
+    "publisher-place": "Paris",
+    "title": "La religion de Zola. Naturalisme et déchristianisation",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gural-Migdal",
+        "given": "Anna"
+      }
+    ],
+    "collection-title": "Littératures",
+    "id": "gural-migdal_lecrit-ecran_2012",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "publisher": "Presses Universitaires du Septentrion",
+    "publisher-place": "Villeneuve-d’Ascq",
+    "title": "L’Écrit-Écran des Rougon-Macquart. Conceptions iconiques et filmiques du roman chez Zola",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hamon",
+        "given": "Philippe"
+      }
+    ],
+    "collection-title": "Les Essais",
+    "id": "hamon_imageries.2001",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "publisher": "José Corti",
+    "publisher-place": "Paris",
+    "title": "Imageries. Littérature et image au XIXe siècle",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Larrue",
+        "given": "Jean-Marc"
+      },
+      {
+        "family": "Pisano",
+        "given": "Giusy"
+      }
+    ],
+    "collection-title": "Arts du spectacle. Images et sons",
+    "id": "pisano_les_2014",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "publisher": "Presses Universitaires du Septentrion",
+    "publisher-place": "Villeneuve-d’Ascq",
+    "title": "Les archives de la mise en scène. Hypermédialités du théâtre",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "McLuhan",
+        "given": "Marshall"
+      }
+    ],
+    "collection-title": "Points : Essais",
+    "id": "mcluhan_pour_2015",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "publisher": "Seuil",
+    "publisher-place": "Paris",
+    "title": "Pour comprendre les médias. Les prolongements technologiques de l’homme",
+    "translator": [
+      {
+        "family": "Paré",
+        "given": "Jean"
+      }
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mitterand",
+        "given": "Henri"
+      }
+    ],
+    "id": "mitterand_zola2002",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "publisher": "Fayard",
+    "publisher-place": "Paris",
+    "title": "Zola. III : L’honneur (1893-1902)",
+    "title-short": "Zola. III ",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Muray",
+        "given": "Philippe"
+      }
+    ],
+    "collection-title": "Tel",
+    "id": "murray_xixe_1999",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "publisher": "Gallimard",
+    "publisher-place": "Paris",
+    "title": "Le XIXe siècle à travers les âges",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Noiray",
+        "given": "Jacques"
+      }
+    ],
+    "id": "noiray_romancier_1981",
+    "issued": {
+      "date-parts": [
+        [
+          1981
+        ]
+      ]
+    },
+    "publisher": "José Corti",
+    "publisher-place": "Paris",
+    "title": "Le romancier et la machine. L’image de la machine dans le roman français (1850-1900). I. L’univers de Zola",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rancière",
+        "given": "Jacques"
+      }
+    ],
+    "id": "ranciere_destin_2003",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "publisher": "La Fabrique",
+    "publisher-place": "Paris",
+    "title": "Le destin des images",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Serres",
+        "given": "Michel"
+      }
+    ],
+    "collection-title": "Figures",
+    "id": "serres_feux_1975",
+    "issued": {
+      "date-parts": [
+        [
+          1975
+        ]
+      ]
+    },
+    "publisher": "Grasset",
+    "publisher-place": "Paris",
+    "title": "Feux et signaux de brume. Zola",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ternois",
+        "given": "René"
+      }
+    ],
+    "collection-title": "Publications de l’Université de Dijon",
+    "id": "ternois_zola_1961",
+    "issued": {
+      "date-parts": [
+        [
+          1961
+        ]
+      ]
+    },
+    "publisher": "Les Belles Lettres",
+    "publisher-place": "Paris",
+    "title": "Zola et son temps. Lourdes, Rome, Paris",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Valéry",
+        "given": "Paul"
+      }
+    ],
+    "collection-title": "Bibliothèque de la Pléiade",
+    "editor": [
+      {
+        "family": "Hytier",
+        "given": "Jean"
+      }
+    ],
+    "id": "valery_oeuvres_1960",
+    "issued": {
+      "date-parts": [
+        [
+          1960
+        ]
+      ]
+    },
+    "publisher": "Gallimard",
+    "publisher-place": "Paris",
+    "title": "Œuvres II",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Warren",
+        "given": "Paul"
+      }
+    ],
+    "id": "warren_zola_1995",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "publisher": "Presses de la Sorbonne Nouvelle/Presses de l’Université Laval",
+    "publisher-place": "Paris/Sainte-Foy",
+    "title": "Zola et le cinéma",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Zola",
+        "given": "Émile"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Mitterand",
+        "given": "Henri"
+      },
+      {
+        "family": "Pagès",
+        "given": "Alain"
+      }
+    ],
+    "id": "zola_oeuvres_2008",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "publisher": "Nouveau Monde",
+    "publisher-place": "Paris",
+    "title": "Œuvres complètes",
+    "type": "book",
+    "volume": "XVIII"
+  },
+  {
+    "author": [
+      {
+        "family": "Zola",
+        "given": "Émile"
+      }
+    ],
+    "collection-title": "Bibliothèque de la Pléiade",
+    "editor": [
+      {
+        "family": "Mitterand",
+        "given": "Henri"
+      },
+      {
+        "family": "Lanoux",
+        "given": "Armand"
+      }
+    ],
+    "id": "zola_les_1964",
+    "issued": {
+      "date-parts": [
+        [
+          1964
+        ]
+      ]
+    },
+    "publisher": "Gallimard",
+    "publisher-place": "Paris",
+    "title": "Les Rougon-Macquart. Histoire naturelle et sociale d’une famille sous le Second Empire",
+    "type": "book",
+    "volume": "III"
+  },
+  {
+    "author": [
+      {
+        "family": "Zola",
+        "given": "Émile"
+      }
+    ],
+    "collection-title": "Folio Classique",
+    "editor": [
+      {
+        "family": "Noiray",
+        "given": "Jacques"
+      }
+    ],
+    "id": "zola_lourdes_1995",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "publisher": "Gallimard",
+    "publisher-place": "Paris",
+    "title": "Lourdes",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Zola",
+        "given": "Émile"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Mitterand",
+        "given": "Henri"
+      },
+      {
+        "family": "Cabanès",
+        "given": "Jean-Louis"
+      },
+      {
+        "family": "Noiray",
+        "given": "Jacques"
+      }
+    ],
+    "id": "zola_oeuvres_2007",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "publisher": "Nouveau Monde",
+    "publisher-place": "Paris",
+    "title": "Œuvres complètes",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Zola",
+        "given": "Émile"
+      }
+    ],
+    "collection-title": "Folio Classique",
+    "editor": [
+      {
+        "family": "Noiray",
+        "given": "Jacques"
+      }
+    ],
+    "id": "zola_paris_2002",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "publisher": "Gallimard",
+    "publisher-place": "Paris",
+    "title": "Paris",
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Zola",
+        "given": "Émile"
+      }
+    ],
+    "collection-title": "Folio Classique",
+    "editor": [
+      {
+        "family": "Noiray",
+        "given": "Jacques"
+      }
+    ],
+    "id": "zola_rome_1999",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "publisher": "Gallimard",
+    "publisher-place": "Paris",
+    "title": "Rome",
+    "type": "book"
+  }
+]
