@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100;0,300;0,400;0,500;0,700;1,400;1,500;1,700&family=Space+Mono:wght@400;700&display=swap');
+
+.record-title {
+    font-family: 'Space Mono', monospace;
+    font-size: 36px;
+    color: #1f77b4; /* Couleur de la catégorie "Média" */
+}
+
+p {
+    font-family: 'Bitter', serif;
+    font-size: 18px; /* Augmentation de la taille de la police pour une meilleure lisibilité */
+    line-height: 1.5; /* Espacement des lignes pour une lecture plus confortable */
+    color: #1b1c1b;
+    background-color: rgba(255, 255, 255, 0.8); /* Fond légèrement transparent pour mettre en évidence le texte */
+    padding: 10px; /* Espacement autour du texte pour le démarquer */
+    border-radius: 5px; /* Coins arrondis pour l'esthétique */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombre légère pour donner de la profondeur */
+}
+
+button {
+    background-color: #d62728; /* Couleur de la catégorie "État" */
+    color: white;
+    border-radius: 6px;
+    border: none;
+    padding: 5px 10px;
+    transition: all 0.1s ease;
+}
+
+button:hover {
+    animation-duration: .8s;
+    animation-name: clignoter;
+    animation-iteration-count: infinite;
+    transition: none;
+}
+
+h1.title {
+        font-family: 'Space Mono', monospace;
+      text-transform: uppercase;
+      font-size: 2.2 rem;
+      color:#086a85;
+      text-align: center;
+}
+
+aside.menu header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+aside.menu header:before {
+   display: inline-block;
+    height: 70px;
+    width: 100px;
+    content: "";
+    background-image: url("");
+    background-size: 100px 70px;
+    background-repeat: no-repeat;
+}

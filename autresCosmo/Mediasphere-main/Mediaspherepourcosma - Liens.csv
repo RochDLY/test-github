@@ -1,0 +1,324 @@
+from,to,label
+Claude Perdriel,Groupe Perdriel,valeur
+Claude Perdriel,,contrôle
+Sophia Publications,Historia,participe
+Sophia Publications,L’histoire,100
+Groupe Perdriel,Challenges,100
+Groupe Perdriel,Sciences & Avenir,100
+Prisa,Le Monde libre,100
+Xavier Niel,Groupe La Provence,20
+Xavier Niel,Le Monde libre,11
+Xavier Niel,Le Nouveau Magazine littéraire,26
+Xavier Niel,Fonds pour l'indépendance de la presse,participe
+Fonds pour l'indépendance de la presse,NJJ,contrôle
+Matthieu Pigasse,Combat Solutions,100
+Combat Solutions,HuffPost,78
+Combat Solutions,Le Nouveau Monde,11
+Combat Solutions,Les Inrockuptibles,51
+Combat Solutions,Radio Nova,100
+Le Nouveau Monde,Le Monde libre,100
+Le Monde libre,L’Obs,26
+Le Monde libre,Le Monde SA,99
+Le Monde SA,Courrier international,75
+Le Monde SA,HuffPost,100
+Le Monde SA,La Vie,34
+Le Monde SA,Le Monde,100
+Le Monde SA,Le Monde des religions,100
+Le Monde SA,Le Monde diplomatique,100
+Le Monde SA,"M, le magazine du Monde",51
+Le Monde SA,Manière de voir,100
+Le Monde SA,Prier,51
+Le Monde SA,Télérama,100
+AOL,Huffington Post,100
+Huffington Post,HuffPost,100
+Les Amis du Monde diplomatique,Le Monde diplomatique,51
+Les Amis du Monde diplomatique,Manière de voir,"24,5"
+Association Günter-Holzmann,Le Monde diplomatique,"24,5"
+Association Günter-Holzmann,Manière de voir,"24,5"
+Famille Dassault,Groupe Dassault,"24,5"
+Groupe Dassault,Groupe Figaro,100
+Groupe Figaro,Figaro Magazine,100
+Groupe Figaro,La Lettre de l’Expansion,100
+Groupe Figaro,Le Figaro,100
+Groupe Figaro,Le Particulier,100
+Bernard Arnault,LVMH,100
+Bernard Arnault,Lagardère Capital & Management,"46,6"
+LVMH,Groupe Perdriel,27
+LVMH,Aujourd’hui en France,40
+LVMH,Groupe Les Échos,100
+LVMH,Groupe L’Opinion,100
+LVMH,Le Parisien,participe
+LVMH,Le Parisien économie,100
+LVMH,Le Parisien Week-End,100
+Groupe Les Échos,Investir,100
+Groupe Les Échos,Investir Magazine,100
+Groupe Les Échos,Les Échos,100
+Groupe Les Échos,Les Échos Week-End,100
+Groupe Les Échos,Radio Classique,100
+Famille Bettencourt,Groupe L’Opinion,100
+Nicolas Beytout,Groupe L’Opinion,participe
+Patrick Drahi,Altice,participe
+Altice,Altice France,61
+Altice,i24 News,78
+Altice France,L’Express,100
+Altice France,Libération,49
+Altice France,Altice Média,100
+Altice,Fonds de Dotation pour une Presse Indépendante,100
+Altice,Fonds de Dotation pour une Presse Indépendante,contrôle
+Fonds de Dotation pour une Presse Indépendante,Libération,contrôle
+Altice Média,BFM Business,contrôle
+Altice Média,BFM TV,100
+Altice Média,RMC Story,100
+Altice Média,RMC,100
+Altice Média,RMC Découverte,100
+Arnaud Lagardère,Lagardère SA,100
+Arnaud Lagardère,Lagardère Capital & Management,"7,96"
+Qatar Investment Authority,Lagardère SA,73
+Lagardère SA,Lagardère News,"12,83"
+Vivendi,Lagardère SA,100
+Lagardère News,Europe 1,"27,6"
+Lagardère News,Le Journal du dimanche,100
+Lagardère News,Paris Match,100
+Lagardère News,RFM,100
+Lagardère News,Virgin Radio,100
+Vincent Bolloré,Financière de l’Odet,100
+Financière de l’Odet,Bolloré,"49,77"
+Bolloré,CNews matin,"64,4"
+Bolloré,Vivendi,100
+Bolloré,France Catholique,27
+Vivendi,C8,100
+Vivendi,Canal +,100
+Vivendi,CNews,100
+Vivendi,CStar,100
+Iskandar Safa,Privinvest,100
+Privinvest,Groupe Valmonde,100
+Groupe Valmonde,Mieux vivre votre argent,>50
+Groupe Valmonde,Valeurs actuelles,100
+Yves de Chaisemartin,Marianne,100
+Daniel Křetínský,Czech Media Invest,9
+Daniel Křetínský,Groupe TF1,50
+Czech Media Invest,Elle,5
+Czech Media Invest,Le Nouveau Monde,100
+Czech Media Invest,Marianne,49
+François Pinault,Artémis,91
+Artémis,Groupe Sebdo-Le Point,57
+Artémis,Point de vue,100
+Groupe Sebdo-Le Point,Le Point,100
+Famille Mohn,Bertelsmann,100
+Bertelsmann,Gruner + Jahr,contrôle
+Bertelsmann,RTL Group,100
+Gruner + Jahr,Prisma Media,75
+RTL Group,Groupe M6,0
+Prisma Media,Capital,48
+Prisma Media,Harvard Business Review,100
+Prisma Media,Management,100
+Prisma Media,Télé-Loisirs,100
+Prisma Media,Gala,100
+Prisma Media,Voici,100
+Prisma Media,Femme Actuelle,100
+Prisma Media,National Geographic,100
+Prisma Media,Geo,100
+Prisma Media,Néon,100
+Groupe M6,6ter,100
+Groupe M6,Fun Radio,100
+Groupe M6,Gulli,100
+Groupe M6,M6,100
+Groupe M6,RTL,100
+Groupe M6,RTL2,100
+Groupe M6,W9,100
+Georges Ghosn,Ghosn Capital,100
+Ghosn Capital,VSD,100
+Martin et Olivier Bouygues,Bouygues,100
+Bouygues,Groupe TF1,20
+Groupe TF1,LCI,44
+Groupe TF1,TF1,100
+Groupe TF1,TF1 Séries Films,100
+Groupe TF1,TFX,100
+Groupe TF1,TMC,100
+République française,Arte France,100
+République française,France Médias Monde,100
+République française,France Télévision,100
+République française,La Chaîne parlementaire,100
+République française,Public Sénat,100
+République française,Radio France,100
+République française,Renault,100
+République fédérale d’Allemagne,ARD / ZDF,15
+France Médias Monde,France 24,contrôle
+France Médias Monde,Monte Carlo Doualiya,100
+France Médias Monde,Radio France International,100
+France Médias Monde,TV5 Monde,100
+France Télévision,France 2,13
+France Télévision,La Première,100
+France Télévision,France 3,100
+France Télévision,France 4,100
+France Télévision,France 5,100
+France Télévision,France Info,100
+France Télévision,TV5 Monde,contrôle
+Radio France,FIP,49
+Radio France,France Bleu,100
+Radio France,France Culture,100
+Radio France,France Info,100
+Radio France,France Info,contrôle
+Radio France,France Inter,100
+Radio France,France Musique,100
+Radio France,Mouv’,100
+Arte France,Arte,100
+ARD / ZDF,Arte Deutschland TV GmbH,50
+Arte Deutschland TV GmbH,Arte,100
+Les Augustins de l’Assomption,Bayard,50
+Bayard,La Croix,100
+Bayard,Notre temps,100
+Bayard,Pèlerin,100
+Jean-Paul Baudecroux,NRJ Group,100
+NRJ Group,Chérie 25,"79,1"
+NRJ Group,Chérie FM,100
+NRJ Group,Nostalgie,100
+NRJ Group,NRJ,100
+NRJ Group,NRJ 12,100
+NRJ Group,Rire et Chansons,100
+Famille Hutin,Association pour le soutien des principes de la démocratie humaniste,100
+Famille Hurbain,Groupe Rossel,contrôle
+Crédit Agricole Nord de France,Groupe Rossel La Voix,contrôle
+Association pour le soutien des principes de la démocratie humaniste,Groupe SIPA - Ouest,25
+Groupe SIPA - Ouest,La Presse de la Manche,100
+Groupe SIPA - Ouest,Le Courrier de l’Ouest,100
+Groupe SIPA - Ouest,Le Maine libre,100
+Groupe SIPA - Ouest,Ouest France,100
+Groupe SIPA - Ouest,Presse-Océan,100
+Groupe SIPA - Ouest,Publi Hebdos,100
+Groupe SIPA - Ouest,Sofiouest,100
+Sofiouest,20 Minutes,40
+Groupe Rossel,Groupe Rossel La Voix,50
+Groupe Rossel La Voix,20 Minutes,73
+Groupe Rossel La Voix,La Voix du Nord SA,49
+La Voix du Nord SA,Courrier picard,96
+La Voix du Nord SA,L’aisne Nouvelle,100
+La Voix du Nord SA,L’Avenir de l’Artois,100
+La Voix du Nord SA,L’Echo de la Lys,100
+La Voix du Nord SA,L’Essor savoyard,100
+La Voix du Nord SA,L’Est-éclair - Libération Champagne,100
+La Voix du Nord SA,L’indicateur,100
+La Voix du Nord SA,L’Union - L’Ardennais,100
+La Voix du Nord SA,La Savoie,100
+La Voix du Nord SA,La Semaine dans le Boulonnais,100
+La Voix du Nord SA,La Tribune républicaine,100
+La Voix du Nord SA,La Voix du Nord,100
+La Voix du Nord SA,Le Journal de Montreuil,100
+La Voix du Nord SA,Le Journal des Flandres,100
+La Voix du Nord SA,Le Messager,100
+La Voix du Nord SA,Le Pays gessien,100
+La Voix du Nord SA,Le Phare Dunkerquois,100
+La Voix du Nord SA,Le Réveil de Berck,100
+La Voix du Nord SA,Les Echos du Touquet,100
+La Voix du Nord SA,Nord éclair,100
+La Voix du Nord SA,Nord Littoral,100
+Crédit Mutuel,Groupe EBRA,100
+Groupe EBRA,DNA,100
+Groupe EBRA,L’Alsace,100
+Groupe EBRA,L’Est républicain,100
+Groupe EBRA,Le Bien public,100
+Groupe EBRA,Le Dauphiné libéré,100
+Groupe EBRA,Le Journal de la Haute-Marne,100
+Groupe EBRA,Le Journal de Saône-et-Loire,50
+Groupe EBRA,Le Progrès,100
+Groupe EBRA,Le Républicain lorrain,100
+Groupe EBRA,Vaucluse Matin,100
+Groupe EBRA,Vosges Matin,100
+Fondation Varenne,Groupe La Montagne,100
+Famille Saint-Cricq,Groupe NRCO,>50
+Groupe La Montagne,Courrier du Loiret,15
+Groupe La Montagne,Groupe NRCO,100
+Groupe La Montagne,Journal de Gien,16
+Groupe La Montagne,L’Echo Charitois,100
+Groupe La Montagne,L’Echo Républicain,100
+Groupe La Montagne,L’Eclaireur du Gâtinais,100
+Groupe La Montagne,L’Yonne Républicaine,100
+Groupe La Montagne,La Liberté,100
+Groupe La Montagne,La Montagne,100
+Groupe La Montagne,La République du Centre,100
+Groupe La Montagne,Le Berry républicain,70
+Groupe La Montagne,Le Journal du centre,100
+Groupe La Montagne,Le Populaire du centre,100
+Groupe La Montagne,Pays Roannais,100
+Groupe La Montagne,Régional de Cosne,100
+Groupe NRCO,Centre Presse,100
+Groupe NRCO,La République du Centre,100
+Groupe NRCO,Nouvelle République du Centre,30
+Groupe NRCO,TV Tours,100
+Famille Baylet,Groupe La Dépêche,40
+Groupe La Dépêche,La Dépêche du midi,"82,5"
+Groupe La Dépêche,La Gazette du Comminges,100
+Groupe La Dépêche,La Nouvelle République des Pyrénées,100
+Groupe La Dépêche,Le Petit Bleu,100
+Groupe La Dépêche,Le Villefranchois,100
+Groupe La Dépêche,Les Journaux du midi,100
+Les Journaux du midi,Centre Presse Aveyron,100
+Les Journaux du midi,L’Indépendant,100
+Les Journaux du midi,Midi libre,100
+Famille Lemoine,Groupe Sud Ouest,100
+Groupe Sud Ouest,Charente Libre,80
+Groupe Sud Ouest,Dordogne Libre,100
+Groupe Sud Ouest,Haute Gironde,100
+Groupe Sud Ouest,Haute Saintonge,100
+Groupe Sud Ouest,L’Hebdo de Charente-Maritime,100
+Groupe Sud Ouest,La Dépêche du Bassin,100
+Groupe Sud Ouest,Le Journal du Médoc,100
+Groupe Sud Ouest,Le Résistant,100
+Groupe Sud Ouest,Pyrénées Presse,100
+Groupe Sud Ouest,Sud Ouest,100
+Pyrénées Presse,L’Eclair,100
+Pyrénées Presse,La République des Pyrénées,100
+Édouard Coudurier,Groupe Télégramme,100
+Groupe Télégramme,Bretagne magazine,contrôle
+Groupe Télégramme,Le Journal des entreprises,50
+Groupe Télégramme,Le Mensuel de Rennes,100
+Groupe Télégramme,Le Poher,100
+Groupe Télégramme,Le Télégramme,100
+Groupe Télégramme,Sept Jours à Brest,100
+Groupe Télégramme,Tébéo,100
+Groupe Télégramme,Tébésud,100
+Ayant droit de Bernard Tapie,Groupe La Provence,100
+Publifin,Nethys,89
+Province de Liège,Publifin,100
+Groupe La Provence,Corse Matin,54
+Groupe La Provence,La Provence,65
+Jean-Louis Louvel,Société Normande d’Information et de Communication,100
+Société Normande d’Information et de Communication,Havre Dimanche,90
+Société Normande d’Information et de Communication,Liberté Dimanche,100
+Groupe Rossel,Normandie Dimanche,100
+Groupe Rossel,Paris-Normandie,100
+Philippe Hersant,Éditions Suisses Holding,100
+Philippe Hersant,Groupe Hersant Média,100
+Éditions Suisses Holding,Groupe Filanosa,100
+Éditions Suisses Holding,Rhône Média,>50
+Groupe Filanosa,L’Express (Neuchâtel),>50
+Groupe Filanosa,L’Impartial (La Chaux-de-Fonds),100
+Groupe Filanosa,La Côte (Nyon),100
+Rhône Média,La Gazette de Martigny,100
+Rhône Média,Le Journal de Sierre,100
+Rhône Média,Le Nouvelliste,100
+Abdoul Cadjee,Le Journal de l’Île de la Réunion,100
+Benjamin et Ariane de Rothschild,Lampsane Investissement SA,>50
+Lampsane Investissement SA,Slate.fr,contrôle
+Franck Julien,Edi Invest,>50
+Edi Invest,Hima Groupe,contrôle
+Jean Christophe Tortora,Hima Groupe,"37,4"
+Laurent Alexandre,Hima Groupe,17
+Hima Groupe,La Tribune,28
+Madison Cox,Le Monde libre,contrôle
+Alain Weill,L’Express,28
+Groupe L’Opinion,L’Agefi hebdo,51
+Groupe L’Opinion,L’Opinion,100
+Ken Fisher,Groupe L’Opinion,100
+NJJ,Nice-Matin,participe
+Nice-Matin,Nice-Matin,100
+Nice-Matin,Var-Matin,100
+Nice-Matin,Monaco-Matin,100
+Nice-Matin,France-Antilles,100
+Nice-Matin,France-Guyane,100
+Amber Capital,Lagardère SA,100
+Vivendi,Prisma Media,20
+NJJ,Paris-Turf,100
+Czech Media Invest,Télé 7 Jours,100
+Czech Media Invest,Franc-Tireur,100
+,,100

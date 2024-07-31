@@ -1,0 +1,84 @@
+select_origin: online
+files_origin: ""
+nodes_origin: ""
+links_origin: ""
+nodes_online: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSgykqnbkhiwl42AQfTZ1SfekyRYyWxa7rglTIjr_NqBSe3skBbKlnmrgzLYJJ-oi_pNW6Z2y5yI_df/pub?gid=0&single=true&output=csv"
+links_online: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSgykqnbkhiwl42AQfTZ1SfekyRYyWxa7rglTIjr_NqBSe3skBbKlnmrgzLYJJ-oi_pNW6Z2y5yI_df/pub?gid=1233026049&single=true&output=csv"
+images_origin: ""
+export_target: ""
+history: true
+focus_max: 2
+record_types:
+  undefined:
+    fill: "#858585"
+    stroke: "#858585"
+  Média:
+    fill: "#1f77b4"
+    stroke: "#1f77b4"
+  Personne morale:
+    fill: "#ff7f0e"
+    stroke: "#ff7f0e"
+  Personne physique:
+    fill: "#2ca02c"
+    stroke: "#2ca02c"
+  État:
+    fill: "#d62728"
+    stroke: "#d62728"
+  Quotidien:
+    fill: "#9467bd"
+    stroke: "#9467bd"
+  Hebdomadaire:
+    fill: "#8c564b"
+    stroke: "#8c564b"
+  Bimensuel:
+    fill: "#e377c2"
+    stroke: "#e377c2"
+  Mensuel:
+    fill: "#7f7f7f"
+    stroke: "#7f7f7f"
+  Bimestriel:
+    fill: "#bcbd22"
+    stroke: "#bcbd22"
+  Radio:
+    fill: "#17becf"
+    stroke: "#17becf"
+  Télévision:
+    fill: "#9edae5"
+    stroke: "#9edae5"
+  Site:
+    fill: "#aec7e8"
+    stroke: "#aec7e8"
+link_types:
+  undefined:
+    stroke: simple
+    color: "#e1e1e1"
+record_filters: []
+graph_background_color: "##f0f0f0"
+graph_highlight_color: "#ff6a6a"
+graph_highlight_on_hover: true
+graph_text_size: 10
+graph_arrows: true
+node_size_method: degree
+node_size: 10
+node_size_max: 20
+node_size_min: 2
+attraction_force: 200
+attraction_distance_max: 250
+attraction_vertical: 0
+attraction_horizontal: 0
+views: {}
+chronological_record_meta: created
+record_metas:
+  - year
+title: "Médiasphère de la presse française"
+author: "Olivier Le Deuff"
+description: ""
+keywords:
+link_symbol: ""
+csl: ""
+bibliography: ""
+csl_locale: ""
+css_custom: "./media.css"
+devtools: false
+lang: en
+name: ""

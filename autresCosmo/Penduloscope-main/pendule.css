@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Source+Code+Pro:wght@400;700&display=swap');
+
+body, html {
+    background-color: #2b2a27; /* Fond rappelant le vieux papier de bibliothèque */
+    color: #e5e0d5; /* Couleur de texte rappelant l'encre ancienne */
+    font-family: 'Merriweather', serif; /* Police élégante pour le contenu */
+}
+
+.title {
+    text-transform: uppercase;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 2.2rem;
+    color: #bd6a2f;
+    text-align: center;
+}
+.graph-container {
+    background-color: #3c3a37; /* Fond rappelant les fiches anciennes */
+    border: 2px solid #d6c9b9; /* Bordure rappelant les fiches cartonnées */
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); /* Ombre plus prononcée pour le mystère */
+}
+
+.record-title, h1, h2, h3 {
+    font-family: 'Source Code Pro', monospace;
+    color: #9a8b70; /* Couleur rappelant les vieux manuscrits */
+}
+
+p, li, div {
+    font-size: 16px;
+    line-height: 1.6;
+    text-align: justify;
+    border-left: 4px double #d6c9b9; /* Bordure double pour évoquer des fiches anciennes */
+    padding-left: 10px;
+}
+
+button, .btn {
+    font-family: 'Source Code Pro', monospace;
+    background-color: #9a8b70;
+    color: white;
+    border-radius: 4px;
+    border: 2px solid #d6c9b9;
+    padding: 10px 15px;
+    transition: all 0.2s ease;
+}
+
+button:hover, .btn:hover {
+    background-color: #7a6b50;
+}
+
+.link {
+    color: #9a8b70;
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
+
+.node {
+    fill: #9a8b70;
+}
+
+.edge {
+    stroke: #e5e0d5;
+}
+
+@keyframes hoverEffect {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+}
+
+button:hover, .btn:hover, .link:hover {
+    animation: hoverEffect 0.5s ease-in-out;
+}

@@ -1,0 +1,80 @@
+select_origin: directory
+files_origin: ./fiches
+nodes_origin: ""
+links_origin: ""
+nodes_online: ""
+links_online: ""
+images_origin: ""
+export_target: ""
+history: true
+focus_max: 2
+record_types:
+  undefined:
+    fill: "#858585"
+    stroke: "#858585"
+  personnage:
+    fill: "#4B0082"
+    stroke: "#4B0082"
+  organisation:
+    fill: "#8B4513"
+    stroke: "#8B4513"
+  lieu:
+    fill: "#556B2F"
+    stroke: "#556B2F"
+  objet:
+    fill: "#8B0000"
+    stroke: "#8B0000"
+  symbole:
+    fill: "#FFD700"
+    stroke: "#FFD700"
+  société secrète:
+    fill: "#483D8B"
+    stroke: "#483D8B"
+  référence littéraire:
+    fill: "#2F4F4F"
+    stroke: "#2F4F4F"
+  référence ésotérique:
+    fill: "#9400D3"
+    stroke: "#9400D3"
+  référence religieuse:
+    fill: "#228B22"
+    stroke: "#228B22"
+  référence historique:
+    fill: "#A0522D"
+    stroke: "#A0522D"
+  référence érudite:
+    fill: "#6A5ACD"
+    stroke: "#6A5ACD"
+link_types:
+  undefined:
+    stroke: simple
+    color: "#e1e1e1"
+record_filters: []
+graph_background_color: "#ffffff"
+graph_highlight_color: "#ff6a6a"
+graph_highlight_on_hover: true
+graph_text_size: 10
+graph_arrows: true
+node_size_method: degree
+node_size: 10
+node_size_max: 20
+node_size_min: 2
+attraction_force: 200
+attraction_distance_max: 250
+attraction_vertical: 0
+attraction_horizontal: 0
+views: {}
+chronological_record_meta: created
+record_metas: []
+title: "Penduloscope"
+author: "Olivier Le Deuff"
+description: "Graphe du roman d'Umberto Eco, Le Pendule de Foucault"
+keywords: []
+link_symbol: "👉🏽"
+csl: ""
+bibliography: ""
+csl_locale: ""
+css_custom: "./pendule.css"
+devtools: false
+lang: en
+name: ""

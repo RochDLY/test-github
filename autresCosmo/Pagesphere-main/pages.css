@@ -1,0 +1,32 @@
+/* ... (styles précédents) ... */
+
+/* Titre principal */
+h1.title {
+    color: #6200ea; /* Couleur vive */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Ombre pour le faire ressortir */
+}
+
+/* Boutons */
+button, .btn {
+    background-color: #6200ea; /* Couleur vive */
+    color: white;
+    /* ... (autres styles) ... */
+}
+
+button:hover, .btn:hover {
+    background-color: #3700b3; /* Couleur plus foncée au survol */
+    /* ... (autres styles) ... */
+}
+
+/* Titre de la fiche */
+h1.record-title {
+    color: #3700b3; /* Couleur distincte */
+    /* ... (autres styles) ... */
+}
+
+/* Fond du graphe avec dégradé */
+.graph-wrapper {
+    background: linear-gradient(45deg, #e0dce0, #f3e5f5); /* Dégradé diagonal */
+}
+
+/* ... (styles suivants) ... */
