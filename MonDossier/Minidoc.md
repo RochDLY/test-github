@@ -12,21 +12,21 @@
   - Personnes, concepts, Wikidata.
   - Réseau de personnes.
 - Explorer l'idée de pouvoir visualiser différentes versions et différences, tel que mon rapport.
-- Citation.
+- Citations.
 
-## Besoin spécifique de Cosma
+## Besoins spécifiques de Cosma
 - Voir doc.
 - Possibilités avec Wikidata ?
 
 ## Soucis rencontrés
 ### Test 1
-Création de dossier avec les fiches, certaines avec un ID via Zetler. Cosma -c fonctionne mais pas Cosma m :
+Création de dossiers avec les fiches, certaines avec un ID via Zetler. Cosma -c fonctionne mais pas Cosma m :
 
 ```sh
 Last login: Tue Jul  9 13:58:59 on ttys000
 ~ /Users/gaelledufaut-knipping/Documents/test-github
 ➜ test-github git:(main) ✗ cosma c
-➜ Configuration file created : /Users/gaelledufaut-knipping/Documents/test-github/config.yml 
+➜ Configuration file created: /Users/gaelledufaut-knipping/Documents/test-github/config.yml 
 ➜ test-github git:(main) ✗ cosma m 
 [Cosma v.2.4.1]  /Users/gaelledufaut-knipping/Documents/test-github/config.yml
 Err. Cannot modelize from directory with this config.
@@ -34,10 +34,10 @@ Err. Cannot modelize from directory with this config.
 ```
 
 ### Test 2
-Refonte des fiches avec Zetler, toutes avec un ID et création de liens entre elles. Création de fausses métadonnées copiées d'un qui fonctionne. L'en-tête YAML.
+Refonte des fiches avec Zetler, toutes avec un ID et création de liens entre elles. Création de fausses métadonnées copiées d'un fichier qui fonctionne. L'en-tête YAML.
 
 - Le souci se trouve dans le dossier car j’ai testé de copier-coller les fiches du graphe qui fonctionne et dans le dossier test GitHub ça ne fonctionne pas.
-- Point sur toutes les fiches avec titre, ID, mots-clés, etc., toujours erreur.
+- Vérification sur toutes les fiches avec titre, ID, mots-clés, etc., toujours erreur.
 - Changer les noms, enlever les tirets = même problème.
 
 - J'ai tenté de le reproduire à partir de zéro, point par point de la doc, mais à partir du 4.1 plus rien ne fonctionne.
