@@ -12,7 +12,7 @@ tags:
   
 ---
 
-[[20240717153844]] [[20240717154815]]
+[[20240705154513]]
 [Un reproche bête qu'on nous fait, à nous autres écrivains naturalistes, c'est de vouloir être uniquement des photographes.<br/>Émile Zola, *Le roman expérimental*]{.epigraphe}
 
 [Toute l'œuvre positive du XIX^e^ siècle a été pour les artistes comme si elle n'était pas. Examinez combien peu ont été intéressés par le présent, sympathiques à ce qui changeait et se transformait sous leurs yeux, à ce qu'apportait avec lui de nouveau par exemple le chemin de fer.<br/>Paul Claudel, «&nbsp;Richard Wagner. Rêverie d'un poète français&nbsp;»]{.epigraphe}

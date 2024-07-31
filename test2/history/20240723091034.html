@@ -13,7 +13,7 @@
     
     <meta name="keywords" content="">
     
-    <meta name="date" content="July 17, 2024 at 12:20:08 PM">
+    <meta name="date" content="July 23, 2024 at 9:10:34 AM">
     <title>Cosma — </title>
 
     <link rel="icon" type="image/png" sizes="16x16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAIGaVRYdFhNTDpjb20uYWRvYmUueG1wAAAAAAA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJYTVAgQ29yZSA2LjAuMCI+CiAgIDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+CiAgICAgIDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiCiAgICAgICAgICAgIHhtbG5zOnRpZmY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vdGlmZi8xLjAvIgogICAgICAgICAgICB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyI+CiAgICAgICAgIDx0aWZmOk9yaWVudGF0aW9uPjE8L3RpZmY6T3JpZW50YXRpb24+CiAgICAgICAgIDxleGlmOlBpeGVsWERpbWVuc2lvbj4xMDI0PC9leGlmOlBpeGVsWERpbWVuc2lvbj4KICAgICAgICAgPGV4aWY6UGl4ZWxZRGltZW5zaW9uPjEwMjQ8L2V4aWY6UGl4ZWxZRGltZW5zaW9uPgogICAgICA8L3JkZjpEZXNjcmlwdGlvbj4KICAgPC9yZGY6UkRGPgo8L3g6eG1wbWV0YT4KokyVsAAAAAlwSFlzAAALEwAACxMBAJqcGAAAATtQTFRFR3BMDVJzDFx+GHSUAP//DVByCVd3AAAAAAD/AIKBCXKSBFJ0F1x/GFZ2EGCANmF8D2+QGHaXFG6NAFh8EnaXG3aWLHCOE2iIH3mZAEx4AFV6AG2QAXOUOn+dprG8AHGSGmuLGWmJfZqtUoahprrGD1V4CVV4FHeWFnWWLmeIAFp8FWaGAFh7LmeGF2OGUHWNfZapAF+HUHSNfZaoAF6H/////Pz87O7x4uLio6Oj3t7eFWaJE16DGGCEIWuOAFqAGoCiADxyAFyHRG+MHoGjAGeQE3GUEG6S1tvhAH2iRX+cAG2Y5OjrAGWMiqCxoa+7iqGyobXBB2KGCF6DCGGFCl2DE4CiEX2gGXqdEX2fFX+iJHmcGXqcInmbAEx3aIWa193jAE12Z4Sa5ensZ5CmaZCn1t3j5Ons3t7fp3RRZgAAADV0Uk5TAHRwQQFHRAEBAkJ4+3h0eHBudPpy+3V1cvv7+vpy+/v7+/v7+52dmZl1+nX6dXX7+/v7+/siYXfnAAAA2ElEQVQYGQXBy07CUBRA0X1OD9zCQAloS4Nj40ii/gG/7UdoSYwxjowCgo9EQxrpfdS1wA0AAGDgEHcgO8qshw/xN+IscnG9tp6SfCjqp2hheHXrMhO6EB8Wr43Rz/qX2fSe+TbW0m8MlepMdvBVxCJTDHv/vkNulqs3fnaGIpJmqnWnOksiKKVIAoAkcoLR+fEGMWK3OfYJ5SWsJ2XlfVVOtmGFso+tP53AaOzbuMewqt4+Tj9pP0aH0lrJ/87nG1Elpa5cPufiDvTCUJWUGvM4cDkAAOSOf+M3WO+ZgJOzAAAAAElFTkSuQmCC" />
@@ -21,7 +21,17 @@
     <style> 
         :root {
             
-            --n_undefined: #858585;
+            --n_undefined: #005C53;
+            
+            --n_litterature: #DBF227;
+            
+            --n_test: #D6D58E;
+            
+            --n_concept: #042940;
+            
+            --n_perso: #005C53;
+            
+            --n_references: #6C6C6C;
             
             
             --l_undefined: #e1e1e1;
@@ -1078,9 +1088,15 @@ article#credits h1.metas-title {
             <form id="types-form" class="menu-types-container">
                 
                 <label class="filter">
-                    <input type="checkbox" name="undefined">
-                    <span class="label" style="color: var(--n_undefined);">undefined</span>
-                    <span class="badge">10</span>
+                    <input type="checkbox" name="litterature">
+                    <span class="label" style="color: var(--n_litterature);">litterature</span>
+                    <span class="badge">8</span>
+                </label>
+                
+                <label class="filter">
+                    <input type="checkbox" name="test">
+                    <span class="label" style="color: var(--n_test);">test</span>
+                    <span class="badge">2</span>
                 </label>
                 
             </form>
@@ -1317,7 +1333,7 @@ article#credits h1.metas-title {
                     <a href="#20240707195111">
                         <span class="record-type-points">
                             
-                            <span style="color: var(--n_undefined);">⬤</span>
+                            <span style="color: var(--n_test);">⬤</span>
                             
                         </span>
                         <span>Allô, j’écoute? Les voix surnaturelles des nouveaux médias fin-de-siècle</span>
@@ -1328,7 +1344,7 @@ article#credits h1.metas-title {
                     <a href="#20240705154513">
                         <span class="record-type-points">
                             
-                            <span style="color: var(--n_undefined);">⬤</span>
+                            <span style="color: var(--n_test);">⬤</span>
                             
                         </span>
                         <span>De *Lourdes* à *Paris*, en train ou à bicyclette</span>
@@ -1339,7 +1355,7 @@ article#credits h1.metas-title {
                     <a href="#20240708094341">
                         <span class="record-type-points">
                             
-                            <span style="color: var(--n_undefined);">⬤</span>
+                            <span style="color: var(--n_litterature);">⬤</span>
                             
                         </span>
                         <span>Éditer la plateforme *Anthologia Graeca* :vecteur de changements dans la pratique des *classics*</span>
@@ -1350,7 +1366,7 @@ article#credits h1.metas-title {
                     <a href="#20240707195218">
                         <span class="record-type-points">
                             
-                            <span style="color: var(--n_undefined);">⬤</span>
+                            <span style="color: var(--n_litterature);">⬤</span>
                             
                         </span>
                         <span>L’art olfactif contemporain, ses médias et leurs inventions fin-de-siècle</span>
@@ -1361,7 +1377,7 @@ article#credits h1.metas-title {
                     <a href="#20240708094635">
                         <span class="record-type-points">
                             
-                            <span style="color: var(--n_undefined);">⬤</span>
+                            <span style="color: var(--n_litterature);">⬤</span>
                             
                         </span>
                         <span>L’écriture collaborative comme principe d’une identité de groupe</span>
@@ -1372,7 +1388,7 @@ article#credits h1.metas-title {
                     <a href="#20240708094431">
                         <span class="record-type-points">
                             
-                            <span style="color: var(--n_undefined);">⬤</span>
+                            <span style="color: var(--n_litterature);">⬤</span>
                             
                         </span>
                         <span>L’épopée numérique de l’Anthologie grecque :entre questions épistémologiques, modèles techniques et dynamiques collaboratives</span>
@@ -1383,7 +1399,7 @@ article#credits h1.metas-title {
                     <a href="#20240708094511">
                         <span class="record-type-points">
                             
-                            <span style="color: var(--n_undefined);">⬤</span>
+                            <span style="color: var(--n_litterature);">⬤</span>
                             
                         </span>
                         <span>L&#39;invention littéraire des médias</span>
@@ -1394,7 +1410,7 @@ article#credits h1.metas-title {
                     <a href="#20240707195118">
                         <span class="record-type-points">
                             
-                            <span style="color: var(--n_undefined);">⬤</span>
+                            <span style="color: var(--n_litterature);">⬤</span>
                             
                         </span>
                         <span>La littérature qui résiste:concurrence médiatique et intermédialité</span>
@@ -1405,7 +1421,7 @@ article#credits h1.metas-title {
                     <a href="#20240707195149">
                         <span class="record-type-points">
                             
-                            <span style="color: var(--n_undefined);">⬤</span>
+                            <span style="color: var(--n_litterature);">⬤</span>
                             
                         </span>
                         <span>La novellisation poétique, différenciation ou émulation ?</span>
@@ -1416,7 +1432,7 @@ article#credits h1.metas-title {
                     <a href="#20240707195235">
                         <span class="record-type-points">
                             
-                            <span style="color: var(--n_undefined);">⬤</span>
+                            <span style="color: var(--n_litterature);">⬤</span>
                             
                         </span>
                         <span>Les Confessions Facebook ou le selfie inventé par Jean-Jacques Rousseau</span>
@@ -1427,7 +1443,7 @@ article#credits h1.metas-title {
                     <a href="#20240708094431">
                         <span class="record-type-points">
                             
-                            <span style="color: var(--n_undefined);">⬤</span>
+                            <span style="color: var(--n_litterature);">⬤</span>
                             
                         </span>
                         <span>Présences de Josée Yvon dans la littérature québécoise contemporaine</span>
@@ -1472,7 +1488,7 @@ article#credits h1.metas-title {
                     <label>
                         <input type="checkbox" checked onchange="linksDisplayToggle(this.checked)">
                         Display links
-                        <span class="badge">10</span>
+                        <span class="badge">2</span>
                     </label>
                 </li>
                 <li>
@@ -1632,7 +1648,7 @@ article#credits h1.metas-title {
 
                 <div class="record-type">
                     <span>types :</span>
-                    <span>undefined</span>
+                    <span>test</span>
                 </div>
 
                 
@@ -1657,9 +1673,9 @@ article#credits h1.metas-title {
 
             <main class="record-content">
                 
-                <p>[—   C’est un rêve, cela, je crois, murmura Lord Ewald.<br/>—   Milord, il n’y a plus de rêve! répondit à voix basse le grand ingénieur.<br/>Villiers de L’Isle-Adam, <em>L’Ève future</em>]{.epigraphe}</p>
-<p><a href="#20240708094635" title="L’écriture collaborative comme principe d’une identité de groupe" class="record-link ">[[20240708094635]]</a><br>
-Dans <em>L’Ève future,</em> le narrateur s’étend sur les pouvoirs de Thomas<br>
+                <p>[[20240717153844]]<br>
+[—   C’est un rêve, cela, je crois, murmura Lord Ewald.<br/>—   Milord, il n’y a plus de rêve! répondit à voix basse le grand ingénieur.<br/>Villiers de L’Isle-Adam, <em>L’Ève future</em>]{.epigraphe}</p>
+<p>Dans <em>L’Ève future,</em> le narrateur s’étend sur les pouvoirs de Thomas<br>
 Edison au point de tenir sur celui-ci un véritable discours<br>
 hagiographique (bien qu’il faille tenir compte de l’ironie insistante<br>
 qui traverse l’ouvrage). Il va jusqu’à affirmer que « ses inventions de<br>
@@ -2253,49 +2269,6 @@ flasques. », @mouton_historioscope_1872, p. 228.</p>
 
             <footer class="list-content-container">
                 
-                <details class="record-links" open="open">
-                    <summary class="menu-title">
-                        links
-                        <span class="badge">1</span>
-                    </summary>
-
-                    <ul class="record-links-list">
-                        
-                        <li data-target-id="20240708094635">
-                            <a href="#20240708094635">
-                                <span class="record-type-points">
-                                    
-                                    <span style="color: var(--n_lit);">⬤</span>
-                                    
-                                </span>
-                                
-                                <span>L’écriture collaborative comme principe d’une identité de groupe</span>
-                                
-                                <div class="record-links-context hover">
-                                    <p><a href="#20240708094635" title="L’écriture collaborative comme principe d’une identité de groupe" class="record-link highlight">[[20240708094635]]</a><br>
-Dans <em>L’Ève future,</em> le narrateur s’étend sur les pouvoirs de Thomas<br>
-Edison au point de tenir sur celui-ci un véritable discours<br>
-hagiographique (bien qu’il faille tenir compte de l’ironie insistante<br>
-qui traverse l’ouvrage). Il va jusqu’à affirmer que « ses inventions de<br>
-tout genre, dont on ne connaît que les moins étranges, donnent en<br>
-général des impressions d’un positivisme énigmatique [@villiers_de_lisle-adam_leve_1992, p. 118]. » Posons<br>
-l’hypothèse que cet oxymore, « positivisme énigmatique », constitue une<br>
-formule clé de l’imaginaire fin-de-siècle en France. Villiers de<br>
-L’Isle-Adam, à l’instar de la plupart des membres des mouvements<br>
-d’avant-gardes, avait une forte répugnance à l’égard du progrès<br>
-qu’instaurait la société industrielle en plein développement. Je me<br>
-contenterai à ce sujet de citer un exemple célèbre. Il s’agit d’un<br>
-extrait d’un texte de Baudelaire publié dans <em>Le Pays</em> à propos de<br>
-l’exposition de 1855 :</p>
-
-                                </div>
-                                
-                            </a>
-                        </li>
-                        
-                    </ul>
-                </details>
-                
 
                 
             </footer>
@@ -2316,7 +2289,7 @@ l’exposition de 1855 :</p>
 
                 <div class="record-type">
                     <span>types :</span>
-                    <span>undefined</span>
+                    <span>test</span>
                 </div>
 
                 
@@ -2341,11 +2314,11 @@ l’exposition de 1855 :</p>
 
             <main class="record-content">
                 
-                <p>[Un reproche bête qu'on nous fait, à nous autres écrivains naturalistes, c'est de vouloir être uniquement des photographes.<br/>Émile Zola, <em>Le roman expérimental</em>]{.epigraphe}</p>
+                <p>[[20240717153844]] [[20240717154815]]<br>
+[Un reproche bête qu'on nous fait, à nous autres écrivains naturalistes, c'est de vouloir être uniquement des photographes.<br/>Émile Zola, <em>Le roman expérimental</em>]{.epigraphe}</p>
 <p>[Toute l'œuvre positive du XIX^e^ siècle a été pour les artistes comme si elle n'était pas. Examinez combien peu ont été intéressés par le présent, sympathiques à ce qui changeait et se transformait sous leurs yeux, à ce qu'apportait avec lui de nouveau par exemple le chemin de fer.<br/>Paul Claudel, « Richard Wagner. Rêverie d'un poète français »]{.epigraphe}</p>
 <h2>Première hybridation : de la machine au média[^1]</h2>
-<p>[[20240705162428]]<br>
-Comme le souligne la citation de Zola qui se trouve en exergue - aux<br>
+<p>Comme le souligne la citation de Zola qui se trouve en exergue - aux<br>
 côtés de celle de Claudel, que le présent article espère relativiser -,<br>
 il n'est pas rare que le romancier naturaliste soit comparé à un objet<br>
 technique, voire à un dispositif médiatique. Métaphoriquement féconde et<br>
@@ -3767,7 +3740,7 @@ cours au Collège de France. Voir <em>Le bonheur d'être ici</em> -@edwards_bonh
 
                 <div class="record-type">
                     <span>types :</span>
-                    <span>undefined</span>
+                    <span>litterature</span>
                 </div>
 
                 
@@ -3794,9 +3767,9 @@ cours au Collège de France. Voir <em>Le bonheur d'être ici</em> -@edwards_bonh
 
             <main class="record-content">
                 
-                <h2>Repenser le modèle traditionel</h2>
-<p><a href="#20240707195218" title="L’art olfactif contemporain, ses médias et leurs inventions fin-de-siècle" class="record-link ">[[20240707195218]]</a><br>
-Bien que les langues anciennes soient au cœur des programmes de formation des curriculums de <em>classics</em> (pour reprendre le terme américain décrivant le mieux l'ensemble de ce que sont les sciences de l'Antiquité), de plus en plus d'établissements universitaires reculent sur l'obligation d'apprendre le grec et le latin comme condition pour obtenir un diplôme en <em>classics</em>^[Puisque nous écrivons dans un contexte canado-américain, nous avons fait le choix d'utiliser le terme <em>classics</em> puisqu'il définit une discipline pluridisciplinaire centrée sur l'Antiquité. Ce terme nous permet d'éviter une confusion avec le système universitaire français où l'histoire ancienne et les lettres classiques sont généralement traitées dans deux facultés ou écoles différentes.]. Dans les dernières années, le cas de l'Université de Princeton au États-Unis qui a retiré l'apprentissage des langues anciennes comme préalable à l'obtention d'une majeure en <em>classics</em> a ébranlé la communauté antiquisante [@vesperini_fin_2021]. Plusieurs arguments ont été soulevés par la direction de l'établissement, notamment la nécessité de rendre l'Antiquité plus accessible et favoriser l'inclusion de groupes marginalisés au sein des facultés d'études anciennes^[Les réactions sur « l'abandon » des langues anciennes de Princeton ont été très variées : certain·e·s ont clamé la fin des <em>classics</em>, d'autres y ont vu une évolution drastique et nécessaire pour l'avenir de la discipline. Voir par exemple @wood_princeton_2021; @kokkinidis_removal_2021; @mcwhorter_problem_2021.]. Or, malgré les explications fournies par Princeton, cette annonce a également eu pour effet de plonger les études anciennes dans une crise de la nostalgie où les défenseurs du renouveau de la discipline -- qui jugent nécéssaire de revisiter le concept de « <em>classics</em> » -- affrontent les « traditionnalistes » qui voient l'enseignement des langues gréco-latines comme la fondation de la discipline [@wood_princeton_2021].</p>
+                <p>[[20240717154815]] [[20240717153844]]</p>
+<h2>Repenser le modèle traditionel</h2>
+<p>Bien que les langues anciennes soient au cœur des programmes de formation des curriculums de <em>classics</em> (pour reprendre le terme américain décrivant le mieux l'ensemble de ce que sont les sciences de l'Antiquité), de plus en plus d'établissements universitaires reculent sur l'obligation d'apprendre le grec et le latin comme condition pour obtenir un diplôme en <em>classics</em>^[Puisque nous écrivons dans un contexte canado-américain, nous avons fait le choix d'utiliser le terme <em>classics</em> puisqu'il définit une discipline pluridisciplinaire centrée sur l'Antiquité. Ce terme nous permet d'éviter une confusion avec le système universitaire français où l'histoire ancienne et les lettres classiques sont généralement traitées dans deux facultés ou écoles différentes.]. Dans les dernières années, le cas de l'Université de Princeton au États-Unis qui a retiré l'apprentissage des langues anciennes comme préalable à l'obtention d'une majeure en <em>classics</em> a ébranlé la communauté antiquisante [@vesperini_fin_2021]. Plusieurs arguments ont été soulevés par la direction de l'établissement, notamment la nécessité de rendre l'Antiquité plus accessible et favoriser l'inclusion de groupes marginalisés au sein des facultés d'études anciennes^[Les réactions sur « l'abandon » des langues anciennes de Princeton ont été très variées : certain·e·s ont clamé la fin des <em>classics</em>, d'autres y ont vu une évolution drastique et nécessaire pour l'avenir de la discipline. Voir par exemple @wood_princeton_2021; @kokkinidis_removal_2021; @mcwhorter_problem_2021.]. Or, malgré les explications fournies par Princeton, cette annonce a également eu pour effet de plonger les études anciennes dans une crise de la nostalgie où les défenseurs du renouveau de la discipline -- qui jugent nécéssaire de revisiter le concept de « <em>classics</em> » -- affrontent les « traditionnalistes » qui voient l'enseignement des langues gréco-latines comme la fondation de la discipline [@wood_princeton_2021].</p>
 <p>Ce cas, loin d'être isolé, montre que les sciences de l'Antiquité sont actuellement en métamorphose. La littérature récente qui porte sur ces changements tente souvent de préserver certains aspects considérés comme fondamentaux pour la discipline : par exemple, les bienfaits de l'apprentissage du latin pour la compréhension de la grammaire française sont grandement vantés. Nous examinerons dans ce texte une alternative à cette tendance, en envisageant l'avenir à travers l'analyse d'un projet d'édition numérique et collaborative tel que celui portant sur l'Anthologie grecque (AG), initié par la Chaire de recherche du Canada sur les écritures numériques (CRCEN). Nous démontrerons comment ce projet peut être bénéfique pour l'apprentissage et l'acquisition des langues anciennes, ainsi que pour le développement de compétences techniques essentielles chez les étudiant·e·s et les humanistes de demain^[Pour la suite de cet article nous ferons référence au projet d'édition numérique et collaborative de l'Anthologie grecque mené à la CRCEN par : projet d'édition numérique collaborative de l'AG.]. Le cas du Canada, où est basée l'équipe de recherche du projet, est un terreau fertile à ce genre de réflexions puisque le latin et le grec ne sont presque plus enseignés au niveau pré-universitaire.</p>
 <p>Nous proposons d'explorer le projet d'édition collaborative de l'AG à travers le prisme de deux regards complémentaires. D'une part, nous présentons le témoignage de Maxime Guénette, étudiant au doctorat en histoire à l'Université de Montréal, qui souligne le rôle crucial que peuvent jouer les jeunes chercheur·euse·s dans le processus d'édition. D'autre part, Émile Caron, étudiant au doctorat en sciences de l'éducation à l'Université de Montréal, propose d'intérroger la pertinence du projet sous sa forme pédagogique pour la formation des étudiant·e·s et des élèves^[Malgré la pertinence des projets d'éditions collaboratives en milieu scolaire, il en existe encore peu en <em>classics</em>. Notons cependant leur popularité grandissante dans divers projets, notamment <a href="https://www.perseids.org/">Perseids</a>, <a href="https://www.homermultitext.org/">Homer Multitext</a> et <a href="https://homer.oc.newalexandria.info/">The New Alexandria Project</a>. Sur le potentiel des plateformes collaboratives en études classiques, voir [@bodard_perseids_2016].].</p>
 <p>Cet article sert de point de départ d'une réflexion sur la façon dont la plateforme <a href="https://anthologiagraeca.org/"><em>Anthologia Graeca</em></a> peut permettre à des communautés aux intérêts divers de travailler au sein d'un espace commun, favorisant ainsi l'échange d'expertises, de compétences et de ressources. Les chercheur·euse·s peuvent partager leur expertise en littérature et en histoire par l'entremise des textes, tandis que les étudiant·e·s bénéficient d'un accompagnement dans leur apprentissage des langues anciennes. En parallèle, les programmeur·euse·s contribuent en abordant les défis liés à la modélisation de contenus littéraires ou culturels. Cette collaboration entre différents acteur·trice·s permet de créer un environnement d'apprentissage et de recherche enrichissant, où les connaissances spécifiques de chacun sont mises en valeur pour le bénéfice de tous. Notons cependant ici que ce texte ne se prétend pas être un article (au sens d'une recherche scientifique mobilisant des données), mais plutôt d'un état des lieux programmatique visant à engager une réflexion pour la suite du projet de l'AG.</p>
@@ -3833,37 +3806,6 @@ Bien que les langues anciennes soient au cœur des programmes de formation des c
 
             <footer class="list-content-container">
                 
-                <details class="record-links" open="open">
-                    <summary class="menu-title">
-                        links
-                        <span class="badge">1</span>
-                    </summary>
-
-                    <ul class="record-links-list">
-                        
-                        <li data-target-id="20240707195218">
-                            <a href="#20240707195218">
-                                <span class="record-type-points">
-                                    
-                                    <span style="color: var(--n_livre);">⬤</span>
-                                    
-                                </span>
-                                
-                                <span>L’art olfactif contemporain, ses médias et leurs inventions fin-de-siècle</span>
-                                
-                                <div class="record-links-context hover">
-                                    <h2>Repenser le modèle traditionel</h2>
-<p><a href="#20240707195218" title="L’art olfactif contemporain, ses médias et leurs inventions fin-de-siècle" class="record-link highlight">[[20240707195218]]</a><br>
-Bien que les langues anciennes soient au cœur des programmes de formation des curriculums de <em>classics</em> (pour reprendre le terme américain décrivant le mieux l'ensemble de ce que sont les sciences de l'Antiquité), de plus en plus d'établissements universitaires reculent sur l'obligation d'apprendre le grec et le latin comme condition pour obtenir un diplôme en <em>classics</em>^[Puisque nous écrivons dans un contexte canado-américain, nous avons fait le choix d'utiliser le terme <em>classics</em> puisqu'il définit une discipline pluridisciplinaire centrée sur l'Antiquité. Ce terme nous permet d'éviter une confusion avec le système universitaire français où l'histoire ancienne et les lettres classiques sont généralement traitées dans deux facultés ou écoles différentes.]. Dans les dernières années, le cas de l'Université de Princeton au États-Unis qui a retiré l'apprentissage des langues anciennes comme préalable à l'obtention d'une majeure en <em>classics</em> a ébranlé la communauté antiquisante [@vesperini_fin_2021]. Plusieurs arguments ont été soulevés par la direction de l'établissement, notamment la nécessité de rendre l'Antiquité plus accessible et favoriser l'inclusion de groupes marginalisés au sein des facultés d'études anciennes^[Les réactions sur « l'abandon » des langues anciennes de Princeton ont été très variées : certain·e·s ont clamé la fin des <em>classics</em>, d'autres y ont vu une évolution drastique et nécessaire pour l'avenir de la discipline. Voir par exemple @wood_princeton_2021; @kokkinidis_removal_2021; @mcwhorter_problem_2021.]. Or, malgré les explications fournies par Princeton, cette annonce a également eu pour effet de plonger les études anciennes dans une crise de la nostalgie où les défenseurs du renouveau de la discipline -- qui jugent nécéssaire de revisiter le concept de « <em>classics</em> » -- affrontent les « traditionnalistes » qui voient l'enseignement des langues gréco-latines comme la fondation de la discipline [@wood_princeton_2021].</p>
-
-                                </div>
-                                
-                            </a>
-                        </li>
-                        
-                    </ul>
-                </details>
-                
 
                 
             </footer>
@@ -3884,7 +3826,7 @@ Bien que les langues anciennes soient au cœur des programmes de formation des c
 
                 <div class="record-type">
                     <span>types :</span>
-                    <span>undefined</span>
+                    <span>litterature</span>
                 </div>
 
                 
@@ -3909,8 +3851,7 @@ Bien que les langues anciennes soient au cœur des programmes de formation des c
 
             <main class="record-content">
                 
-                <p><a href="#20240707195218" title="L’art olfactif contemporain, ses médias et leurs inventions fin-de-siècle" class="record-link ">[[20240707195218]]</a><br>
-[Certes, la tentative à laquelle j’ai assisté est loin d’être parfaite<br>
+                <p>[Certes, la tentative à laquelle j’ai assisté est loin d’être parfaite<br>
 encore, il y a des améliorations nombreuses à introduire dans l’appareil<br>
 à disséminer les parfums ; c’est encore un art bien confus, et il faut<br>
 s’exercer un peu pour distinguer des nuances parfois subtiles.<br/>Mais je dois dire que j’étais arrivé très incrédule et que je suis<br>
@@ -4402,77 +4343,21 @@ volume des œuvres complètes réunies par Augustin Théry [@condillac_oeuvres_1
 
             <footer class="list-content-container">
                 
-                <details class="record-links" open="open">
-                    <summary class="menu-title">
-                        links
-                        <span class="badge">1</span>
-                    </summary>
-
-                    <ul class="record-links-list">
-                        
-                        <li data-target-id="20240707195218">
-                            <a href="#20240707195218">
-                                <span class="record-type-points">
-                                    
-                                    <span style="color: var(--n_livre);">⬤</span>
-                                    
-                                </span>
-                                
-                                <span>L’art olfactif contemporain, ses médias et leurs inventions fin-de-siècle</span>
-                                
-                                <div class="record-links-context hover">
-                                    <p><a href="#20240707195218" title="L’art olfactif contemporain, ses médias et leurs inventions fin-de-siècle" class="record-link highlight">[[20240707195218]]</a><br>
-[Certes, la tentative à laquelle j’ai assisté est loin d’être parfaite<br>
-encore, il y a des améliorations nombreuses à introduire dans l’appareil<br>
-à disséminer les parfums ; c’est encore un art bien confus, et il faut<br>
-s’exercer un peu pour distinguer des nuances parfois subtiles.<br/>Mais je dois dire que j’étais arrivé très incrédule et que je suis<br>
-parti convaincu, qu’il y a là quelque chose de vraiment nouveau, de<br>
-vraiment curieux, capable d’intéresser vivement les blasés, peut-être<br>
-même le public.<br/>Maurice de Fleury, « Le Paris des Parisiens : L’Art des parfums II », <em>Le Figaro : supplément littéraire du dimanche</em>, 22 mars 1890. [@de_fleury_paris_1890]]{.epigraphe}</p>
-
-                                </div>
-                                
-                            </a>
-                        </li>
-                        
-                    </ul>
-                </details>
-                
 
                 
                 <details class="record-backlinks" open="open">
                     <summary class="menu-title">
                         backlinks
-                        <span class="badge">4</span>
+                        <span class="badge">1</span>
                     </summary>
 
                     <ul class="record-backlinks-list">
-                        
-                        <li data-target-id="20240708094341">
-                            <a href="#20240708094341">
-                                <span class="record-type-points">
-                                    
-                                    <span style="color: var(--n_grec);">⬤</span>
-                                    
-                                </span>
-                                
-                                <span>Éditer la plateforme *Anthologia Graeca* :vecteur de changements dans la pratique des *classics*</span>
-                                
-                                <div class="record-links-context hover">
-                                    <h2>Repenser le modèle traditionel</h2>
-<p><a href="#20240707195218" title="L’art olfactif contemporain, ses médias et leurs inventions fin-de-siècle" class="record-link highlight">[[20240707195218]]</a><br>
-Bien que les langues anciennes soient au cœur des programmes de formation des curriculums de <em>classics</em> (pour reprendre le terme américain décrivant le mieux l'ensemble de ce que sont les sciences de l'Antiquité), de plus en plus d'établissements universitaires reculent sur l'obligation d'apprendre le grec et le latin comme condition pour obtenir un diplôme en <em>classics</em>^[Puisque nous écrivons dans un contexte canado-américain, nous avons fait le choix d'utiliser le terme <em>classics</em> puisqu'il définit une discipline pluridisciplinaire centrée sur l'Antiquité. Ce terme nous permet d'éviter une confusion avec le système universitaire français où l'histoire ancienne et les lettres classiques sont généralement traitées dans deux facultés ou écoles différentes.]. Dans les dernières années, le cas de l'Université de Princeton au États-Unis qui a retiré l'apprentissage des langues anciennes comme préalable à l'obtention d'une majeure en <em>classics</em> a ébranlé la communauté antiquisante [@vesperini_fin_2021]. Plusieurs arguments ont été soulevés par la direction de l'établissement, notamment la nécessité de rendre l'Antiquité plus accessible et favoriser l'inclusion de groupes marginalisés au sein des facultés d'études anciennes^[Les réactions sur « l'abandon » des langues anciennes de Princeton ont été très variées : certain·e·s ont clamé la fin des <em>classics</em>, d'autres y ont vu une évolution drastique et nécessaire pour l'avenir de la discipline. Voir par exemple @wood_princeton_2021; @kokkinidis_removal_2021; @mcwhorter_problem_2021.]. Or, malgré les explications fournies par Princeton, cette annonce a également eu pour effet de plonger les études anciennes dans une crise de la nostalgie où les défenseurs du renouveau de la discipline -- qui jugent nécéssaire de revisiter le concept de « <em>classics</em> » -- affrontent les « traditionnalistes » qui voient l'enseignement des langues gréco-latines comme la fondation de la discipline [@wood_princeton_2021].</p>
-
-                                </div>
-                                
-                            </a>
-                        </li>
                         
                         <li data-target-id="20240707195235">
                             <a href="#20240707195235">
                                 <span class="record-type-points">
                                     
-                                    <span style="color: var(--n_enseignant);">⬤</span>
+                                    <span style="color: var(--n_litterature);">⬤</span>
                                     
                                 </span>
                                 
@@ -4517,70 +4402,6 @@ d’association entre selfie et égocentrisme.</p>
                             </a>
                         </li>
                         
-                        <li data-target-id="20240707195218">
-                            <a href="#20240707195218">
-                                <span class="record-type-points">
-                                    
-                                    <span style="color: var(--n_livre);">⬤</span>
-                                    
-                                </span>
-                                
-                                <span>L’art olfactif contemporain, ses médias et leurs inventions fin-de-siècle</span>
-                                
-                                <div class="record-links-context hover">
-                                    <p><a href="#20240707195218" title="L’art olfactif contemporain, ses médias et leurs inventions fin-de-siècle" class="record-link highlight">[[20240707195218]]</a><br>
-[Certes, la tentative à laquelle j’ai assisté est loin d’être parfaite<br>
-encore, il y a des améliorations nombreuses à introduire dans l’appareil<br>
-à disséminer les parfums ; c’est encore un art bien confus, et il faut<br>
-s’exercer un peu pour distinguer des nuances parfois subtiles.<br/>Mais je dois dire que j’étais arrivé très incrédule et que je suis<br>
-parti convaincu, qu’il y a là quelque chose de vraiment nouveau, de<br>
-vraiment curieux, capable d’intéresser vivement les blasés, peut-être<br>
-même le public.<br/>Maurice de Fleury, « Le Paris des Parisiens : L’Art des parfums II », <em>Le Figaro : supplément littéraire du dimanche</em>, 22 mars 1890. [@de_fleury_paris_1890]]{.epigraphe}</p>
-
-                                </div>
-                                
-                            </a>
-                        </li>
-                        
-                        <li data-target-id="20240707195149">
-                            <a href="#20240707195149">
-                                <span class="record-type-points">
-                                    
-                                    <span style="color: var(--n_articles);">⬤</span>
-                                    
-                                </span>
-                                
-                                <span>La novellisation poétique, différenciation ou émulation ?</span>
-                                
-                                <div class="record-links-context hover">
-                                    <h2>La novellisation poétique : une forme oxymorique ?</h2>
-<p><a href="#20240707195218" title="L’art olfactif contemporain, ses médias et leurs inventions fin-de-siècle" class="record-link highlight">[[20240707195218]]</a><br>
-Raconter un film. Telle est l’ambition, apparemment modeste, de ce que<br>
-l’on appelle, en décalquant le terme anglais, une novellisation. Un tel<br>
-processus place l’écriture non plus en amont mais en aval du film en<br>
-inversant les rôles habituellement dévolus à ces deux instances dans le<br>
-cadre de l’adaptation filmique d’une œuvre littéraire. Cette<br>
-irrévérencieuse antécédence de l’image sur l’écrit est une des raisons<br>
-pour lesquelles la novellisation a longtemps été considérée avec<br>
-suspicion, avant qu’un chercheur en études culturelles comme Jan Baetens<br>
-ne la tire des oubliettes en lui consacrant plusieurs études de qualité<br>
-mettant en lumière les mécanismes, plus complexes qu’on ne pourrait le<br>
-croire, à l’œuvre dans ces œuvres décriées. Je me propose ici<br>
-d’envisager le cas de la novellisation poétique, rarement abordé dans le<br>
-cadre des études sur l’adaptation, qui se consacrent, dans leur immense<br>
-majorité au passage du livre à l’écran [@clerc_adaptation_2004 ;<br>
-@elliott_rethinking_2003 ; Vanoye, 2011], même si certaines études récentes<br>
-[@cleder_analyser_2017] mentionnent aussi le processus inverse[^1]. Le<br>
-cas des novellisations poétiques reste toutefois très largement ignoré,<br>
-à de rares exceptions près [@baetens_novellisation_2008 ; @grignon_novellisation_2014]. De fait, une<br>
-telle étiquette générique peut sembler curieuse, voire oxymorique pour<br>
-plusieurs raisons.</p>
-
-                                </div>
-                                
-                            </a>
-                        </li>
-                        
                     </ul>
                 </details>
                 
@@ -4602,7 +4423,7 @@ plusieurs raisons.</p>
 
                 <div class="record-type">
                     <span>types :</span>
-                    <span>undefined</span>
+                    <span>litterature</span>
                 </div>
 
                 
@@ -4627,8 +4448,7 @@ plusieurs raisons.</p>
 
             <main class="record-content">
                 
-                <p><a href="#20240708094511" title="L&apos;invention littéraire des médias" class="record-link ">[[20240708094511]]</a><br>
-Il arrive que « l’<em>homo digitalis</em> » devienne un « <em>homo fabulator</em>[^1] » : aux antipodes de l’opinion commune, qui considère le jeu vidéo comme un concurrent de la littérature traditionnelle, certains MMORPG tendent en effet à créer des vocations d’écrivains, en encourageant l’expression littéraire de fictions au sein de leurs communautés.  Ces jeux deviennent ainsi l’occasion et le lieu d’émergence de pratiques d’écriture collaboratives dont l’une des fonctions essentielles est d’assurer la cohésion du groupe, en lui fournissant des récits fondateurs, des mythes étiologiques, des normes et des valeurs. Cette culture littéraire participative[^2] apparaît ainsi comme un des lieux d’élaboration de ces « croyances et pratiques communes » qui définissent les communautés virtuelles [@stone_will_2001] ; elle contribue à souder voire à fonder des identités collectives, en construisant des « imaginaires de communauté » [@leroux_lidentite_2013], et en créant par là un sentiment d’appartenance pour les joueurs au sein de ces « communautés imaginées[^5] ». Ce sont ces pratiques scripturaires fictionnelles, envisagées dans leur dimension identitaire, que nous nous proposons d’étudier. Nous nous appuierons sur le MMORPG <em>Elite Dangerous</em>[^6] pour tenter de définir, à partir de cette étude, la notion d’<em>effet de communauté</em>, entendue comme production d'un sentiment réel d'appartenance reposant sur une pure fiction partagée. La prolifération fictionnelle auquel donne lieu <em>Elite Dangerous</em>, l'esprit de corps auquel se prête ce jeu de niche, enfin son caractère de « bac à sable » (<em>sandbox</em>) offrant une grande agentivité aux joueurs, libres de choisir leur carrière et d’orienter le parcours de leur personnage au fil des mois et des années : tels sont les éléments qui expliquent le choix de ce MMORPG dans le cadre de la présente démonstration.</p>
+                <p>Il arrive que « l’<em>homo digitalis</em> » devienne un « <em>homo fabulator</em>[^1] » : aux antipodes de l’opinion commune, qui considère le jeu vidéo comme un concurrent de la littérature traditionnelle, certains MMORPG tendent en effet à créer des vocations d’écrivains, en encourageant l’expression littéraire de fictions au sein de leurs communautés.  Ces jeux deviennent ainsi l’occasion et le lieu d’émergence de pratiques d’écriture collaboratives dont l’une des fonctions essentielles est d’assurer la cohésion du groupe, en lui fournissant des récits fondateurs, des mythes étiologiques, des normes et des valeurs. Cette culture littéraire participative[^2] apparaît ainsi comme un des lieux d’élaboration de ces « croyances et pratiques communes » qui définissent les communautés virtuelles [@stone_will_2001] ; elle contribue à souder voire à fonder des identités collectives, en construisant des « imaginaires de communauté » [@leroux_lidentite_2013], et en créant par là un sentiment d’appartenance pour les joueurs au sein de ces « communautés imaginées[^5] ». Ce sont ces pratiques scripturaires fictionnelles, envisagées dans leur dimension identitaire, que nous nous proposons d’étudier. Nous nous appuierons sur le MMORPG <em>Elite Dangerous</em>[^6] pour tenter de définir, à partir de cette étude, la notion d’<em>effet de communauté</em>, entendue comme production d'un sentiment réel d'appartenance reposant sur une pure fiction partagée. La prolifération fictionnelle auquel donne lieu <em>Elite Dangerous</em>, l'esprit de corps auquel se prête ce jeu de niche, enfin son caractère de « bac à sable » (<em>sandbox</em>) offrant une grande agentivité aux joueurs, libres de choisir leur carrière et d’orienter le parcours de leur personnage au fil des mois et des années : tels sont les éléments qui expliquent le choix de ce MMORPG dans le cadre de la présente démonstration.</p>
 <p>À quelles conditions un groupe peut-il être défini comme une communauté ? Une telle question n’est pas de celles auxquelles il est aisé de répondre. « Les psychologues, les sociologues, les historiens ont développé des outils d'analyse des mécanismes d'interaction au sein des groupes. Tous ne sont pas d'accord sur ce qui, à partir d'un groupe, est constitutif d'une communauté » écrivait déjà en 1993 Howard Rheingold au seuil de son ouvrage pionnier sur <em>Les Communautés virtuelles</em> [-@Rheingold_1995].  Plus radical, Frans Mäyrä demandait en 2016  : « Are games capable of supporting true communities ? » [-@mayra_exploring_2015]. Et en effet, on est en droit de s’interroger : en quoi des regroupements de joueurs anonymes, dispersés géographiquement, réunis de façon plus ou moins provisoire autour d’un monde virtuel également fragile, peuvent-ils constituer des <em>communautés</em> au sens fort que Ferdinand Tönnies donnait à ce mot voici près d’un siècle et demi, c’est-à-dire « de sang, de lieu et d’esprit, de voisinage, d’amitié » ?</p>
 <blockquote>
 <p>La communauté de sang comme unité d’essence se développe et se différencie en une communauté de lieu, qui a son expression immédiate dans la vie commune, et la communauté de lieu se développe en communauté d’esprit[^9].</p>
@@ -4729,80 +4549,7 @@ Après avoir montré que le jeu de simulation spatiale <em>Elite Dangerous</em> 
 
             <footer class="list-content-container">
                 
-                <details class="record-links" open="open">
-                    <summary class="menu-title">
-                        links
-                        <span class="badge">1</span>
-                    </summary>
 
-                    <ul class="record-links-list">
-                        
-                        <li data-target-id="20240708094511">
-                            <a href="#20240708094511">
-                                <span class="record-type-points">
-                                    
-                                    <span style="color: var(--n_lit);">⬤</span>
-                                    
-                                </span>
-                                
-                                <span>L&#39;invention littéraire des médias</span>
-                                
-                                <div class="record-links-context hover">
-                                    <p><a href="#20240708094511" title="L&apos;invention littéraire des médias" class="record-link highlight">[[20240708094511]]</a><br>
-Il arrive que « l’<em>homo digitalis</em> » devienne un « <em>homo fabulator</em>[^1] » : aux antipodes de l’opinion commune, qui considère le jeu vidéo comme un concurrent de la littérature traditionnelle, certains MMORPG tendent en effet à créer des vocations d’écrivains, en encourageant l’expression littéraire de fictions au sein de leurs communautés.  Ces jeux deviennent ainsi l’occasion et le lieu d’émergence de pratiques d’écriture collaboratives dont l’une des fonctions essentielles est d’assurer la cohésion du groupe, en lui fournissant des récits fondateurs, des mythes étiologiques, des normes et des valeurs. Cette culture littéraire participative[^2] apparaît ainsi comme un des lieux d’élaboration de ces « croyances et pratiques communes » qui définissent les communautés virtuelles [@stone_will_2001] ; elle contribue à souder voire à fonder des identités collectives, en construisant des « imaginaires de communauté » [@leroux_lidentite_2013], et en créant par là un sentiment d’appartenance pour les joueurs au sein de ces « communautés imaginées[^5] ». Ce sont ces pratiques scripturaires fictionnelles, envisagées dans leur dimension identitaire, que nous nous proposons d’étudier. Nous nous appuierons sur le MMORPG <em>Elite Dangerous</em>[^6] pour tenter de définir, à partir de cette étude, la notion d’<em>effet de communauté</em>, entendue comme production d'un sentiment réel d'appartenance reposant sur une pure fiction partagée. La prolifération fictionnelle auquel donne lieu <em>Elite Dangerous</em>, l'esprit de corps auquel se prête ce jeu de niche, enfin son caractère de « bac à sable » (<em>sandbox</em>) offrant une grande agentivité aux joueurs, libres de choisir leur carrière et d’orienter le parcours de leur personnage au fil des mois et des années : tels sont les éléments qui expliquent le choix de ce MMORPG dans le cadre de la présente démonstration.</p>
-
-                                </div>
-                                
-                            </a>
-                        </li>
-                        
-                    </ul>
-                </details>
-                
-
-                
-                <details class="record-backlinks" open="open">
-                    <summary class="menu-title">
-                        backlinks
-                        <span class="badge">1</span>
-                    </summary>
-
-                    <ul class="record-backlinks-list">
-                        
-                        <li data-target-id="20240707195111">
-                            <a href="#20240707195111">
-                                <span class="record-type-points">
-                                    
-                                    <span style="color: var(--n_lit);">⬤</span>
-                                    
-                                </span>
-                                
-                                <span>Allô, j’écoute? Les voix surnaturelles des nouveaux médias fin-de-siècle</span>
-                                
-                                <div class="record-links-context hover">
-                                    <p><a href="#20240708094635" title="L’écriture collaborative comme principe d’une identité de groupe" class="record-link highlight">[[20240708094635]]</a><br>
-Dans <em>L’Ève future,</em> le narrateur s’étend sur les pouvoirs de Thomas<br>
-Edison au point de tenir sur celui-ci un véritable discours<br>
-hagiographique (bien qu’il faille tenir compte de l’ironie insistante<br>
-qui traverse l’ouvrage). Il va jusqu’à affirmer que « ses inventions de<br>
-tout genre, dont on ne connaît que les moins étranges, donnent en<br>
-général des impressions d’un positivisme énigmatique [@villiers_de_lisle-adam_leve_1992, p. 118]. » Posons<br>
-l’hypothèse que cet oxymore, « positivisme énigmatique », constitue une<br>
-formule clé de l’imaginaire fin-de-siècle en France. Villiers de<br>
-L’Isle-Adam, à l’instar de la plupart des membres des mouvements<br>
-d’avant-gardes, avait une forte répugnance à l’égard du progrès<br>
-qu’instaurait la société industrielle en plein développement. Je me<br>
-contenterai à ce sujet de citer un exemple célèbre. Il s’agit d’un<br>
-extrait d’un texte de Baudelaire publié dans <em>Le Pays</em> à propos de<br>
-l’exposition de 1855 :</p>
-
-                                </div>
-                                
-                            </a>
-                        </li>
-                        
-                    </ul>
-                </details>
                 
             </footer>
         </article>
@@ -4822,7 +4569,7 @@ l’exposition de 1855 :</p>
 
                 <div class="record-type">
                     <span>types :</span>
-                    <span>undefined</span>
+                    <span>litterature</span>
                 </div>
 
                 
@@ -4846,8 +4593,7 @@ l’exposition de 1855 :</p>
             <main class="record-content">
                 
                 <h2>D'où nous viennent nos projets de recherche ?</h2>
-<p><a href="#20240707195118" title="La littérature qui résiste:concurrence médiatique et intermédialité" class="record-link ">[[20240707195118]]</a><br>
-« D'où nous viennent nos idées ? » se demandait en 2010 Éric Méchoulan, dans un ouvrage où il démontrait que loin d'être abstraites et immatérielles, les idées sont le résultat de conditions matérielles précises et déterminées. Les techniques et les supports de transmission, les aléas de l'histoire produisent autant d'idées qu'un prétendu sujet cartésien [-@mechoulan_ou_2010]. Cette question, <em>d'où nous viennent nos idées ?</em>, apparaît tout aussi essentielle dans le cadre de la recherche universitaire : d'où viennent les hypothèses de recherche, les méthodologies, les modèles épistémologiques, les solutions brillantes (ou moins brillantes) à des problèmes complexes ? Et plus fondamentalement, d'où nous viennent nos projets de recherche ? Comment adviennent-ils et comment évoluent-ils, plus en particulier, dans le contexte spécifique de ce que l'on appelle les « humanités numériques » ? La thèse que nous souhaitons défendre ici s'appuie sur les mêmes conclusions que celles formulées par Éric Méchoulan : loin d'être le fruit d'un·e seul·e chercheur·e, la pensée est le fruit d'un ensemble complexe de conjonctures médiatrices [@larrue_media_2019] qui comprennent un ensemble de forces hétérogènes dont émergent ensuite des personnes, des techniques, des textes, des plateformes, des méthodes, des collectifs…</p>
+<p>« D'où nous viennent nos idées ? » se demandait en 2010 Éric Méchoulan, dans un ouvrage où il démontrait que loin d'être abstraites et immatérielles, les idées sont le résultat de conditions matérielles précises et déterminées. Les techniques et les supports de transmission, les aléas de l'histoire produisent autant d'idées qu'un prétendu sujet cartésien [-@mechoulan_ou_2010]. Cette question, <em>d'où nous viennent nos idées ?</em>, apparaît tout aussi essentielle dans le cadre de la recherche universitaire : d'où viennent les hypothèses de recherche, les méthodologies, les modèles épistémologiques, les solutions brillantes (ou moins brillantes) à des problèmes complexes ? Et plus fondamentalement, d'où nous viennent nos projets de recherche ? Comment adviennent-ils et comment évoluent-ils, plus en particulier, dans le contexte spécifique de ce que l'on appelle les « humanités numériques » ? La thèse que nous souhaitons défendre ici s'appuie sur les mêmes conclusions que celles formulées par Éric Méchoulan : loin d'être le fruit d'un·e seul·e chercheur·e, la pensée est le fruit d'un ensemble complexe de conjonctures médiatrices [@larrue_media_2019] qui comprennent un ensemble de forces hétérogènes dont émergent ensuite des personnes, des techniques, des textes, des plateformes, des méthodes, des collectifs…</p>
 <p>Le domaine des humanités numériques avec ses approches et ses méthodologies a toujours été caractérisé par la conscience du fait que la pensée n'est pas la production d'un individu, mais plutôt le résultat de conjonctures dynamiques et complexes où sont en jeu des forces diverses. Dans cet article, nous avons l'intention d'illustrer cette émergence de la pensée dans le cadre d'un projet particulier portant sur l'Anthologie grecque. Recherche collective fortement outillée -- disséminée pourrait-on dire, dans le sens où il est très difficile de délimiter strictement les acteurs qui y ont participé --, ce projet nous semble rendre compte de façon convaincante des conjonctures médiatrices d'émergence de la pensée.</p>
 <p>Depuis 2014, la Chaire de recherche du Canada sur les écritures numériques (la <a href="https://ecrituresnumeriques.ca/fr/">CRCEN</a>) dirigée par Marcello Vitali-Rosati travaille à la réalisation d'un projet de recherche consacré à l'édition collaborative et l'enrichissement de l'Anthologie grecque[^biblio]. Cette recherche a été initiée avec la collaboration d'Elsa Bouchard, professeure au Département de philosophie de l'Université de Montréal et la collaboration de Chistian Raschle, professeur au Département d'histoire de l'Université de Montréal. Plusieurs contributeurs et contributrices ont eu un impact important dans l'histoire du projet : notamment les étudiant·e·s du lycée classique d'État « Samuele Cagnazzi » d'Altamura en Italie, sous la supervision de la professeure Annalisa di Vincenzo, et du lycée classique d'État « Ettore Majorana - Elena Corner », sous la supervision de la professeure Karine Baldan. Dans cet article, nous souhaitons revenir sur les origines du projet et ses récents développements pour formuler et explorer les problématiques théoriques et techniques rencontrées.</p>
 <p>[^biblio]: Ce projet a déjà fait l'objet de plusieurs publications dont il sera fait mention dans l'article : “Editorializing the Greek Anthology: The palatin manuscript as a collective imaginary” [@vitali-rosati_editorializing_nodate] détaille le projet au prisme du concept d'éditorialisation ; « Penser le palimpseste numérique. Le projet d’édition numérique collaborative de l’Anthologie palatine » [@mellet_penser_2020] analyse la structure du projet par le principe de palimpseste ; le chapitre « Éditorialisation, rééditorialisation et patrimonialisation » de l'ouvrage <em>Usages des Patrimoines Numérisés</em> (UDPN) revient sur le projet dans le contexte de la fabrique et du traitement des patrimoines numérisés [@monjour_iii-c-1_2021].</p>
@@ -4997,37 +4743,6 @@ dans les bois, l'autre dans les airs, l'autre sur les eaux, leur logis ne les a 
 
             <footer class="list-content-container">
                 
-                <details class="record-links" open="open">
-                    <summary class="menu-title">
-                        links
-                        <span class="badge">1</span>
-                    </summary>
-
-                    <ul class="record-links-list">
-                        
-                        <li data-target-id="20240707195118">
-                            <a href="#20240707195118">
-                                <span class="record-type-points">
-                                    
-                                    <span style="color: var(--n_lit);">⬤</span>
-                                    
-                                </span>
-                                
-                                <span>La littérature qui résiste:concurrence médiatique et intermédialité</span>
-                                
-                                <div class="record-links-context hover">
-                                    <h2>D'où nous viennent nos projets de recherche ?</h2>
-<p><a href="#20240707195118" title="La littérature qui résiste:concurrence médiatique et intermédialité" class="record-link highlight">[[20240707195118]]</a><br>
-« D'où nous viennent nos idées ? » se demandait en 2010 Éric Méchoulan, dans un ouvrage où il démontrait que loin d'être abstraites et immatérielles, les idées sont le résultat de conditions matérielles précises et déterminées. Les techniques et les supports de transmission, les aléas de l'histoire produisent autant d'idées qu'un prétendu sujet cartésien [-@mechoulan_ou_2010]. Cette question, <em>d'où nous viennent nos idées ?</em>, apparaît tout aussi essentielle dans le cadre de la recherche universitaire : d'où viennent les hypothèses de recherche, les méthodologies, les modèles épistémologiques, les solutions brillantes (ou moins brillantes) à des problèmes complexes ? Et plus fondamentalement, d'où nous viennent nos projets de recherche ? Comment adviennent-ils et comment évoluent-ils, plus en particulier, dans le contexte spécifique de ce que l'on appelle les « humanités numériques » ? La thèse que nous souhaitons défendre ici s'appuie sur les mêmes conclusions que celles formulées par Éric Méchoulan : loin d'être le fruit d'un·e seul·e chercheur·e, la pensée est le fruit d'un ensemble complexe de conjonctures médiatrices [@larrue_media_2019] qui comprennent un ensemble de forces hétérogènes dont émergent ensuite des personnes, des techniques, des textes, des plateformes, des méthodes, des collectifs…</p>
-
-                                </div>
-                                
-                            </a>
-                        </li>
-                        
-                    </ul>
-                </details>
-                
 
                 
             </footer>
@@ -5048,7 +4763,7 @@ dans les bois, l'autre dans les airs, l'autre sur les eaux, leur logis ne les a 
 
                 <div class="record-type">
                     <span>types :</span>
-                    <span>undefined</span>
+                    <span>litterature</span>
                 </div>
 
                 
@@ -5075,9 +4790,9 @@ dans les bois, l'autre dans les airs, l'autre sur les eaux, leur logis ne les a 
 
             <main class="record-content">
                 
-                <p>[Le rôle de l'inexistant existe ; la fonction de l'imaginaire est réelle ; et la logique pure nous enseigne que <em>le faux implique le vrai</em>.<br/>Paul Valéry, « Au sujet d'<em>Eurêka</em> »]{.epigraphe}<br>
-<a href="#20240708094511" title="L&apos;invention littéraire des médias" class="record-link ">[[20240708094511]]</a><br>
-Les médias existeraient-ils sans la littérature ? Pourrait-on parler de<br>
+                <p><a href="#20240708094511" title="L&apos;invention littéraire des médias" class="record-link ">[[20240708094511]]</a><br>
+[Le rôle de l'inexistant existe ; la fonction de l'imaginaire est réelle ; et la logique pure nous enseigne que <em>le faux implique le vrai</em>.<br/>Paul Valéry, « Au sujet d'<em>Eurêka</em> »]{.epigraphe}</p>
+<p>Les médias existeraient-ils sans la littérature ? Pourrait-on parler de<br>
 « télévision », de « photographie », de « cinéma » ou du « numérique »<br>
 sans que ces dispositifs aient aussi été construits, institutionnalisés<br>
 et même parfois déconstruits dans l'imaginaire collectif par la<br>
@@ -5401,31 +5116,15 @@ des médias », <em>Dix-Huitième Siècle</em>, n^°^ 44).</p>
                             <a href="#20240708094511">
                                 <span class="record-type-points">
                                     
-                                    <span style="color: var(--n_lit);">⬤</span>
+                                    <span style="color: var(--n_litterature);">⬤</span>
                                     
                                 </span>
                                 
                                 <span>L&#39;invention littéraire des médias</span>
                                 
                                 <div class="record-links-context hover">
-                                    <p>[Le rôle de l'inexistant existe ; la fonction de l'imaginaire est réelle ; et la logique pure nous enseigne que <em>le faux implique le vrai</em>.<br/>Paul Valéry, « Au sujet d'<em>Eurêka</em> »]{.epigraphe}<br>
-<a href="#20240708094511" title="L&apos;invention littéraire des médias" class="record-link highlight">[[20240708094511]]</a><br>
-Les médias existeraient-ils sans la littérature ? Pourrait-on parler de<br>
-« télévision », de « photographie », de « cinéma » ou du « numérique »<br>
-sans que ces dispositifs aient aussi été construits, institutionnalisés<br>
-et même parfois déconstruits dans l'imaginaire collectif par la<br>
-littérature et son discours ? À l'heure où le numérique semble encore<br>
-s'inventer, le présent dossier vise à souligner le rôle du fait<br>
-littéraire dans la construction de nos médias, qu'ils soient désormais<br>
-définivement sécularisés (c'est notamment le cas de la photographie, du<br>
-cinéma, de la télévision ou du téléphone), totalement oubliés (comme la<br>
-lanterne magique ou le théâtrophone) ou même entièrement fantasmés (à l'instar du<br>
-téléphonoscope). Il nous invite également à ne pas placer la littérature<br>
-dans une tour d'ivoire, mais, au contraire, à la considérer comme un<br>
-média parmi les autres, variable comme eux, fait de chemins qui,<br>
-toujours, nous amènent à explorer les frontières entre les mots et les<br>
-choses, ainsi que celles qui séparent l'invention de la répétition,<br>
-l'anticipation de la métamorphose.</p>
+                                    <p><a href="#20240708094511" title="L&apos;invention littéraire des médias" class="record-link highlight">[[20240708094511]]</a><br>
+[Le rôle de l'inexistant existe ; la fonction de l'imaginaire est réelle ; et la logique pure nous enseigne que <em>le faux implique le vrai</em>.<br/>Paul Valéry, « Au sujet d'<em>Eurêka</em> »]{.epigraphe}</p>
 
                                 </div>
                                 
@@ -5440,59 +5139,24 @@ l'anticipation de la métamorphose.</p>
                 <details class="record-backlinks" open="open">
                     <summary class="menu-title">
                         backlinks
-                        <span class="badge">2</span>
+                        <span class="badge">1</span>
                     </summary>
 
                     <ul class="record-backlinks-list">
-                        
-                        <li data-target-id="20240708094635">
-                            <a href="#20240708094635">
-                                <span class="record-type-points">
-                                    
-                                    <span style="color: var(--n_lit);">⬤</span>
-                                    
-                                </span>
-                                
-                                <span>L’écriture collaborative comme principe d’une identité de groupe</span>
-                                
-                                <div class="record-links-context hover">
-                                    <p><a href="#20240708094511" title="L&apos;invention littéraire des médias" class="record-link highlight">[[20240708094511]]</a><br>
-Il arrive que « l’<em>homo digitalis</em> » devienne un « <em>homo fabulator</em>[^1] » : aux antipodes de l’opinion commune, qui considère le jeu vidéo comme un concurrent de la littérature traditionnelle, certains MMORPG tendent en effet à créer des vocations d’écrivains, en encourageant l’expression littéraire de fictions au sein de leurs communautés.  Ces jeux deviennent ainsi l’occasion et le lieu d’émergence de pratiques d’écriture collaboratives dont l’une des fonctions essentielles est d’assurer la cohésion du groupe, en lui fournissant des récits fondateurs, des mythes étiologiques, des normes et des valeurs. Cette culture littéraire participative[^2] apparaît ainsi comme un des lieux d’élaboration de ces « croyances et pratiques communes » qui définissent les communautés virtuelles [@stone_will_2001] ; elle contribue à souder voire à fonder des identités collectives, en construisant des « imaginaires de communauté » [@leroux_lidentite_2013], et en créant par là un sentiment d’appartenance pour les joueurs au sein de ces « communautés imaginées[^5] ». Ce sont ces pratiques scripturaires fictionnelles, envisagées dans leur dimension identitaire, que nous nous proposons d’étudier. Nous nous appuierons sur le MMORPG <em>Elite Dangerous</em>[^6] pour tenter de définir, à partir de cette étude, la notion d’<em>effet de communauté</em>, entendue comme production d'un sentiment réel d'appartenance reposant sur une pure fiction partagée. La prolifération fictionnelle auquel donne lieu <em>Elite Dangerous</em>, l'esprit de corps auquel se prête ce jeu de niche, enfin son caractère de « bac à sable » (<em>sandbox</em>) offrant une grande agentivité aux joueurs, libres de choisir leur carrière et d’orienter le parcours de leur personnage au fil des mois et des années : tels sont les éléments qui expliquent le choix de ce MMORPG dans le cadre de la présente démonstration.</p>
-
-                                </div>
-                                
-                            </a>
-                        </li>
                         
                         <li data-target-id="20240708094511">
                             <a href="#20240708094511">
                                 <span class="record-type-points">
                                     
-                                    <span style="color: var(--n_lit);">⬤</span>
+                                    <span style="color: var(--n_litterature);">⬤</span>
                                     
                                 </span>
                                 
                                 <span>L&#39;invention littéraire des médias</span>
                                 
                                 <div class="record-links-context hover">
-                                    <p>[Le rôle de l'inexistant existe ; la fonction de l'imaginaire est réelle ; et la logique pure nous enseigne que <em>le faux implique le vrai</em>.<br/>Paul Valéry, « Au sujet d'<em>Eurêka</em> »]{.epigraphe}<br>
-<a href="#20240708094511" title="L&apos;invention littéraire des médias" class="record-link highlight">[[20240708094511]]</a><br>
-Les médias existeraient-ils sans la littérature ? Pourrait-on parler de<br>
-« télévision », de « photographie », de « cinéma » ou du « numérique »<br>
-sans que ces dispositifs aient aussi été construits, institutionnalisés<br>
-et même parfois déconstruits dans l'imaginaire collectif par la<br>
-littérature et son discours ? À l'heure où le numérique semble encore<br>
-s'inventer, le présent dossier vise à souligner le rôle du fait<br>
-littéraire dans la construction de nos médias, qu'ils soient désormais<br>
-définivement sécularisés (c'est notamment le cas de la photographie, du<br>
-cinéma, de la télévision ou du téléphone), totalement oubliés (comme la<br>
-lanterne magique ou le théâtrophone) ou même entièrement fantasmés (à l'instar du<br>
-téléphonoscope). Il nous invite également à ne pas placer la littérature<br>
-dans une tour d'ivoire, mais, au contraire, à la considérer comme un<br>
-média parmi les autres, variable comme eux, fait de chemins qui,<br>
-toujours, nous amènent à explorer les frontières entre les mots et les<br>
-choses, ainsi que celles qui séparent l'invention de la répétition,<br>
-l'anticipation de la métamorphose.</p>
+                                    <p><a href="#20240708094511" title="L&apos;invention littéraire des médias" class="record-link highlight">[[20240708094511]]</a><br>
+[Le rôle de l'inexistant existe ; la fonction de l'imaginaire est réelle ; et la logique pure nous enseigne que <em>le faux implique le vrai</em>.<br/>Paul Valéry, « Au sujet d'<em>Eurêka</em> »]{.epigraphe}</p>
 
                                 </div>
                                 
@@ -5520,7 +5184,7 @@ l'anticipation de la métamorphose.</p>
 
                 <div class="record-type">
                     <span>types :</span>
-                    <span>undefined</span>
+                    <span>litterature</span>
                 </div>
 
                 
@@ -5545,7 +5209,7 @@ l'anticipation de la métamorphose.</p>
 
             <main class="record-content">
                 
-                <p><a href="#20240707195235" title="Les Confessions Facebook ou le selfie inventé par Jean-Jacques Rousseau" class="record-link ">[[20240707195235]]</a><br>
+                <p>[[20240717153844]]<br>
 [Les modernes s'intéressaient à ce qui pouvait résulter [des] changements et à leur tendance générale : ils réfléchissaient à la chose elle-même, substantivement, de manière utopique ou essentielle. Le postmodernisme est plus formel en ce sens, et plus « distrait » comme aurait pu le dire Benjamin : il ne fait que mesurer les variations et ne sait que trop bien que les contenus ne sont que des images de plus.<br/>Fredric Jameson, <em>Le Postmodernisme</em>]{.epigraphe}</p>
 <p>Lorsque la <em>littérature</em> – le mot est souligné à dessein – convie un<br>
 autre média, en fait le cœur même de son écriture, se pose la question<br>
@@ -6261,68 +5925,7 @@ québécois – Cahier Figura</em> vol. 16, 2006.</p>
 
             <footer class="list-content-container">
                 
-                <details class="record-links" open="open">
-                    <summary class="menu-title">
-                        links
-                        <span class="badge">1</span>
-                    </summary>
 
-                    <ul class="record-links-list">
-                        
-                        <li data-target-id="20240707195235">
-                            <a href="#20240707195235">
-                                <span class="record-type-points">
-                                    
-                                    <span style="color: var(--n_enseignant);">⬤</span>
-                                    
-                                </span>
-                                
-                                <span>Les Confessions Facebook ou le selfie inventé par Jean-Jacques Rousseau</span>
-                                
-                                <div class="record-links-context hover">
-                                    <p><a href="#20240707195235" title="Les Confessions Facebook ou le selfie inventé par Jean-Jacques Rousseau" class="record-link highlight">[[20240707195235]]</a><br>
-[Les modernes s'intéressaient à ce qui pouvait résulter [des] changements et à leur tendance générale : ils réfléchissaient à la chose elle-même, substantivement, de manière utopique ou essentielle. Le postmodernisme est plus formel en ce sens, et plus « distrait » comme aurait pu le dire Benjamin : il ne fait que mesurer les variations et ne sait que trop bien que les contenus ne sont que des images de plus.<br/>Fredric Jameson, <em>Le Postmodernisme</em>]{.epigraphe}</p>
-
-                                </div>
-                                
-                            </a>
-                        </li>
-                        
-                    </ul>
-                </details>
-                
-
-                
-                <details class="record-backlinks" open="open">
-                    <summary class="menu-title">
-                        backlinks
-                        <span class="badge">1</span>
-                    </summary>
-
-                    <ul class="record-backlinks-list">
-                        
-                        <li data-target-id="20240708094431">
-                            <a href="#20240708094431">
-                                <span class="record-type-points">
-                                    
-                                    <span style="color: var(--n_shhhh);">⬤</span>
-                                    
-                                </span>
-                                
-                                <span>L’épopée numérique de l’Anthologie grecque :entre questions épistémologiques, modèles techniques et dynamiques collaboratives</span>
-                                
-                                <div class="record-links-context hover">
-                                    <h2>D'où nous viennent nos projets de recherche ?</h2>
-<p><a href="#20240707195118" title="La littérature qui résiste:concurrence médiatique et intermédialité" class="record-link highlight">[[20240707195118]]</a><br>
-« D'où nous viennent nos idées ? » se demandait en 2010 Éric Méchoulan, dans un ouvrage où il démontrait que loin d'être abstraites et immatérielles, les idées sont le résultat de conditions matérielles précises et déterminées. Les techniques et les supports de transmission, les aléas de l'histoire produisent autant d'idées qu'un prétendu sujet cartésien [-@mechoulan_ou_2010]. Cette question, <em>d'où nous viennent nos idées ?</em>, apparaît tout aussi essentielle dans le cadre de la recherche universitaire : d'où viennent les hypothèses de recherche, les méthodologies, les modèles épistémologiques, les solutions brillantes (ou moins brillantes) à des problèmes complexes ? Et plus fondamentalement, d'où nous viennent nos projets de recherche ? Comment adviennent-ils et comment évoluent-ils, plus en particulier, dans le contexte spécifique de ce que l'on appelle les « humanités numériques » ? La thèse que nous souhaitons défendre ici s'appuie sur les mêmes conclusions que celles formulées par Éric Méchoulan : loin d'être le fruit d'un·e seul·e chercheur·e, la pensée est le fruit d'un ensemble complexe de conjonctures médiatrices [@larrue_media_2019] qui comprennent un ensemble de forces hétérogènes dont émergent ensuite des personnes, des techniques, des textes, des plateformes, des méthodes, des collectifs…</p>
-
-                                </div>
-                                
-                            </a>
-                        </li>
-                        
-                    </ul>
-                </details>
                 
             </footer>
         </article>
@@ -6342,7 +5945,7 @@ québécois – Cahier Figura</em> vol. 16, 2006.</p>
 
                 <div class="record-type">
                     <span>types :</span>
-                    <span>undefined</span>
+                    <span>litterature</span>
                 </div>
 
                 
@@ -6368,8 +5971,7 @@ québécois – Cahier Figura</em> vol. 16, 2006.</p>
             <main class="record-content">
                 
                 <h2>La novellisation poétique : une forme oxymorique ?</h2>
-<p><a href="#20240707195218" title="L’art olfactif contemporain, ses médias et leurs inventions fin-de-siècle" class="record-link ">[[20240707195218]]</a><br>
-Raconter un film. Telle est l’ambition, apparemment modeste, de ce que<br>
+<p>Raconter un film. Telle est l’ambition, apparemment modeste, de ce que<br>
 l’on appelle, en décalquant le terme anglais, une novellisation. Un tel<br>
 processus place l’écriture non plus en amont mais en aval du film en<br>
 inversant les rôles habituellement dévolus à ces deux instances dans le<br>
@@ -6856,56 +6458,6 @@ Fiat ou de Sandra Moussempès.</p>
 
             <footer class="list-content-container">
                 
-                <details class="record-links" open="open">
-                    <summary class="menu-title">
-                        links
-                        <span class="badge">1</span>
-                    </summary>
-
-                    <ul class="record-links-list">
-                        
-                        <li data-target-id="20240707195218">
-                            <a href="#20240707195218">
-                                <span class="record-type-points">
-                                    
-                                    <span style="color: var(--n_livre);">⬤</span>
-                                    
-                                </span>
-                                
-                                <span>L’art olfactif contemporain, ses médias et leurs inventions fin-de-siècle</span>
-                                
-                                <div class="record-links-context hover">
-                                    <h2>La novellisation poétique : une forme oxymorique ?</h2>
-<p><a href="#20240707195218" title="L’art olfactif contemporain, ses médias et leurs inventions fin-de-siècle" class="record-link highlight">[[20240707195218]]</a><br>
-Raconter un film. Telle est l’ambition, apparemment modeste, de ce que<br>
-l’on appelle, en décalquant le terme anglais, une novellisation. Un tel<br>
-processus place l’écriture non plus en amont mais en aval du film en<br>
-inversant les rôles habituellement dévolus à ces deux instances dans le<br>
-cadre de l’adaptation filmique d’une œuvre littéraire. Cette<br>
-irrévérencieuse antécédence de l’image sur l’écrit est une des raisons<br>
-pour lesquelles la novellisation a longtemps été considérée avec<br>
-suspicion, avant qu’un chercheur en études culturelles comme Jan Baetens<br>
-ne la tire des oubliettes en lui consacrant plusieurs études de qualité<br>
-mettant en lumière les mécanismes, plus complexes qu’on ne pourrait le<br>
-croire, à l’œuvre dans ces œuvres décriées. Je me propose ici<br>
-d’envisager le cas de la novellisation poétique, rarement abordé dans le<br>
-cadre des études sur l’adaptation, qui se consacrent, dans leur immense<br>
-majorité au passage du livre à l’écran [@clerc_adaptation_2004 ;<br>
-@elliott_rethinking_2003 ; Vanoye, 2011], même si certaines études récentes<br>
-[@cleder_analyser_2017] mentionnent aussi le processus inverse[^1]. Le<br>
-cas des novellisations poétiques reste toutefois très largement ignoré,<br>
-à de rares exceptions près [@baetens_novellisation_2008 ; @grignon_novellisation_2014]. De fait, une<br>
-telle étiquette générique peut sembler curieuse, voire oxymorique pour<br>
-plusieurs raisons.</p>
-
-                                </div>
-                                
-                            </a>
-                        </li>
-                        
-                    </ul>
-                </details>
-                
 
                 
             </footer>
@@ -6926,7 +6478,7 @@ plusieurs raisons.</p>
 
                 <div class="record-type">
                     <span>types :</span>
-                    <span>undefined</span>
+                    <span>litterature</span>
                 </div>
 
                 
@@ -7620,7 +7172,7 @@ Im-possible Self-love</em> [@dearmitt_right_2013] ;<br>
                             <a href="#20240707195218">
                                 <span class="record-type-points">
                                     
-                                    <span style="color: var(--n_livre);">⬤</span>
+                                    <span style="color: var(--n_litterature);">⬤</span>
                                     
                                 </span>
                                 
@@ -7670,36 +7222,6 @@ d’association entre selfie et égocentrisme.</p>
                 
 
                 
-                <details class="record-backlinks" open="open">
-                    <summary class="menu-title">
-                        backlinks
-                        <span class="badge">1</span>
-                    </summary>
-
-                    <ul class="record-backlinks-list">
-                        
-                        <li data-target-id="20240707195118">
-                            <a href="#20240707195118">
-                                <span class="record-type-points">
-                                    
-                                    <span style="color: var(--n_lit);">⬤</span>
-                                    
-                                </span>
-                                
-                                <span>La littérature qui résiste:concurrence médiatique et intermédialité</span>
-                                
-                                <div class="record-links-context hover">
-                                    <p><a href="#20240707195235" title="Les Confessions Facebook ou le selfie inventé par Jean-Jacques Rousseau" class="record-link highlight">[[20240707195235]]</a><br>
-[Les modernes s'intéressaient à ce qui pouvait résulter [des] changements et à leur tendance générale : ils réfléchissaient à la chose elle-même, substantivement, de manière utopique ou essentielle. Le postmodernisme est plus formel en ce sens, et plus « distrait » comme aurait pu le dire Benjamin : il ne fait que mesurer les variations et ne sait que trop bien que les contenus ne sont que des images de plus.<br/>Fredric Jameson, <em>Le Postmodernisme</em>]{.epigraphe}</p>
-
-                                </div>
-                                
-                            </a>
-                        </li>
-                        
-                    </ul>
-                </details>
-                
             </footer>
         </article>
         
@@ -7718,7 +7240,7 @@ d’association entre selfie et égocentrisme.</p>
 
                 <div class="record-type">
                     <span>types :</span>
-                    <span>undefined</span>
+                    <span>litterature</span>
                 </div>
 
                 
@@ -7745,9 +7267,9 @@ d’association entre selfie et égocentrisme.</p>
 
             <main class="record-content">
                 
-                <h2>Introduction</h2>
-<p>[[20240708094456]]<br>
-Dans <em>L’histoire de la littérature québécoise</em> parue en 2007, les<br>
+                <p>[[20240717154815]] [[20240717153844]]</p>
+<h2>Introduction</h2>
+<p>Dans <em>L’histoire de la littérature québécoise</em> parue en 2007, les<br>
 auteurs s’interrogent sur la postérité des avant-gardes, notant<br>
 qu’« après 1980, les avant-gardes poétiques s’essoufflent au Québec<br>
 comme ailleurs », et que « la critique a l’habitude d’interpréter cette<br>
@@ -8938,37 +8460,6 @@ série « Ateliers d’écrivains » du 8 février 2011 au 29 janvier 2012.<br
 
             <footer class="list-content-container">
                 
-                <details class="record-links" open="open">
-                    <summary class="menu-title">
-                        links
-                        <span class="badge">1</span>
-                    </summary>
-
-                    <ul class="record-links-list">
-                        
-                        <li data-target-id="20240707195118">
-                            <a href="#20240707195118">
-                                <span class="record-type-points">
-                                    
-                                    <span style="color: var(--n_lit);">⬤</span>
-                                    
-                                </span>
-                                
-                                <span>La littérature qui résiste:concurrence médiatique et intermédialité</span>
-                                
-                                <div class="record-links-context hover">
-                                    <h2>D'où nous viennent nos projets de recherche ?</h2>
-<p><a href="#20240707195118" title="La littérature qui résiste:concurrence médiatique et intermédialité" class="record-link highlight">[[20240707195118]]</a><br>
-« D'où nous viennent nos idées ? » se demandait en 2010 Éric Méchoulan, dans un ouvrage où il démontrait que loin d'être abstraites et immatérielles, les idées sont le résultat de conditions matérielles précises et déterminées. Les techniques et les supports de transmission, les aléas de l'histoire produisent autant d'idées qu'un prétendu sujet cartésien [-@mechoulan_ou_2010]. Cette question, <em>d'où nous viennent nos idées ?</em>, apparaît tout aussi essentielle dans le cadre de la recherche universitaire : d'où viennent les hypothèses de recherche, les méthodologies, les modèles épistémologiques, les solutions brillantes (ou moins brillantes) à des problèmes complexes ? Et plus fondamentalement, d'où nous viennent nos projets de recherche ? Comment adviennent-ils et comment évoluent-ils, plus en particulier, dans le contexte spécifique de ce que l'on appelle les « humanités numériques » ? La thèse que nous souhaitons défendre ici s'appuie sur les mêmes conclusions que celles formulées par Éric Méchoulan : loin d'être le fruit d'un·e seul·e chercheur·e, la pensée est le fruit d'un ensemble complexe de conjonctures médiatrices [@larrue_media_2019] qui comprennent un ensemble de forces hétérogènes dont émergent ensuite des personnes, des techniques, des textes, des plateformes, des méthodes, des collectifs…</p>
-
-                                </div>
-                                
-                            </a>
-                        </li>
-                        
-                    </ul>
-                </details>
-                
 
                 
             </footer>
@@ -9120,10 +8611,10 @@ série « Ateliers d’écrivains » du 8 février 2011 au 29 janvier 2012.<br
     
 
     <script>
-        const data = {"nodes":[{"id":"20240708094341","label":"Éditer la plateforme *Anthologia Graeca* :vecteur de changements dans la pratique des *classics*","types":["undefined"],"size":5.6,"strokeWidth":2},{"id":"20240708094431","label":"L’épopée numérique de l’Anthologie grecque :entre questions épistémologiques, modèles techniques et dynamiques collaboratives","types":["undefined"],"size":5.6,"strokeWidth":2},{"id":"20240708094431","label":"Présences de Josée Yvon dans la littérature québécoise contemporaine","types":["undefined"],"size":5.6,"strokeWidth":2},{"id":"20240708094635","label":"L’écriture collaborative comme principe d’une identité de groupe","types":["undefined"],"size":9.2,"strokeWidth":2},{"id":"20240708094511","label":"L'invention littéraire des médias","types":["undefined"],"size":12.8,"strokeWidth":2},{"id":"20240707195235","label":"Les Confessions Facebook ou le selfie inventé par Jean-Jacques Rousseau","types":["undefined"],"size":9.2,"strokeWidth":2},{"id":"20240707195218","label":"L’art olfactif contemporain, ses médias et leurs inventions fin-de-siècle","types":["undefined"],"size":20,"strokeWidth":2},{"id":"20240707195149","label":"La novellisation poétique, différenciation ou émulation ?","types":["undefined"],"size":5.6,"strokeWidth":2},{"id":"20240707195118","label":"La littérature qui résiste:concurrence médiatique et intermédialité","types":["undefined"],"size":9.2,"strokeWidth":2},{"id":"20240707195111","label":"Allô, j’écoute? Les voix surnaturelles des nouveaux médias fin-de-siècle","types":["undefined"],"size":5.6,"strokeWidth":2},{"id":"20240705154513","label":"De *Lourdes* à *Paris*, en train ou à bicyclette","types":["undefined"],"size":2,"strokeWidth":2}],"links":[{"id":0,"context":["## Repenser le modèle traditionel\n[[20240707195218]]\nBien que les langues anciennes soient au cœur des programmes de formation des curriculums de *classics* (pour reprendre le terme américain décrivant le mieux l'ensemble de ce que sont les sciences de l'Antiquité), de plus en plus d'établissements universitaires reculent sur l'obligation d'apprendre le grec et le latin comme condition pour obtenir un diplôme en *classics*^[Puisque nous écrivons dans un contexte canado-américain, nous avons fait le choix d'utiliser le terme *classics* puisqu'il définit une discipline pluridisciplinaire centrée sur l'Antiquité. Ce terme nous permet d'éviter une confusion avec le système universitaire français où l'histoire ancienne et les lettres classiques sont généralement traitées dans deux facultés ou écoles différentes.]. Dans les dernières années, le cas de l'Université de Princeton au États-Unis qui a retiré l'apprentissage des langues anciennes comme préalable à l'obtention d'une majeure en *classics* a ébranlé la communauté antiquisante [@vesperini_fin_2021]. Plusieurs arguments ont été soulevés par la direction de l'établissement, notamment la nécessité de rendre l'Antiquité plus accessible et favoriser l'inclusion de groupes marginalisés au sein des facultés d'études anciennes^[Les réactions sur « l'abandon » des langues anciennes de Princeton ont été très variées : certain·e·s ont clamé la fin des *classics*, d'autres y ont vu une évolution drastique et nécessaire pour l'avenir de la discipline. Voir par exemple @wood_princeton_2021; @kokkinidis_removal_2021; @mcwhorter_problem_2021.]. Or, malgré les explications fournies par Princeton, cette annonce a également eu pour effet de plonger les études anciennes dans une crise de la nostalgie où les défenseurs du renouveau de la discipline -- qui jugent nécéssaire de revisiter le concept de « *classics* » -- affrontent les « traditionnalistes » qui voient l'enseignement des langues gréco-latines comme la fondation de la discipline [@wood_princeton_2021]. "],"type":"undefined","shape":{"stroke":"simple","dashInterval":null},"color":"#e1e1e1","colorHighlight":"#ff6a6a","source":"20240708094341","target":"20240707195218","report":[]},{"id":1,"context":["## D'où nous viennent nos projets de recherche ?\n[[20240707195118]]\n« D'où nous viennent nos idées ? » se demandait en 2010 Éric Méchoulan, dans un ouvrage où il démontrait que loin d'être abstraites et immatérielles, les idées sont le résultat de conditions matérielles précises et déterminées. Les techniques et les supports de transmission, les aléas de l'histoire produisent autant d'idées qu'un prétendu sujet cartésien [-@mechoulan_ou_2010]. Cette question, *d'où nous viennent nos idées ?*, apparaît tout aussi essentielle dans le cadre de la recherche universitaire : d'où viennent les hypothèses de recherche, les méthodologies, les modèles épistémologiques, les solutions brillantes (ou moins brillantes) à des problèmes complexes ? Et plus fondamentalement, d'où nous viennent nos projets de recherche ? Comment adviennent-ils et comment évoluent-ils, plus en particulier, dans le contexte spécifique de ce que l'on appelle les « humanités numériques » ? La thèse que nous souhaitons défendre ici s'appuie sur les mêmes conclusions que celles formulées par Éric Méchoulan : loin d'être le fruit d'un·e seul·e chercheur·e, la pensée est le fruit d'un ensemble complexe de conjonctures médiatrices [@larrue_media_2019] qui comprennent un ensemble de forces hétérogènes dont émergent ensuite des personnes, des techniques, des textes, des plateformes, des méthodes, des collectifs…"],"type":"undefined","shape":{"stroke":"simple","dashInterval":null},"color":"#e1e1e1","colorHighlight":"#ff6a6a","source":"20240708094431","target":"20240707195118","report":[]},{"id":2,"context":["## D'où nous viennent nos projets de recherche ?\n[[20240707195118]]\n« D'où nous viennent nos idées ? » se demandait en 2010 Éric Méchoulan, dans un ouvrage où il démontrait que loin d'être abstraites et immatérielles, les idées sont le résultat de conditions matérielles précises et déterminées. Les techniques et les supports de transmission, les aléas de l'histoire produisent autant d'idées qu'un prétendu sujet cartésien [-@mechoulan_ou_2010]. Cette question, *d'où nous viennent nos idées ?*, apparaît tout aussi essentielle dans le cadre de la recherche universitaire : d'où viennent les hypothèses de recherche, les méthodologies, les modèles épistémologiques, les solutions brillantes (ou moins brillantes) à des problèmes complexes ? Et plus fondamentalement, d'où nous viennent nos projets de recherche ? Comment adviennent-ils et comment évoluent-ils, plus en particulier, dans le contexte spécifique de ce que l'on appelle les « humanités numériques » ? La thèse que nous souhaitons défendre ici s'appuie sur les mêmes conclusions que celles formulées par Éric Méchoulan : loin d'être le fruit d'un·e seul·e chercheur·e, la pensée est le fruit d'un ensemble complexe de conjonctures médiatrices [@larrue_media_2019] qui comprennent un ensemble de forces hétérogènes dont émergent ensuite des personnes, des techniques, des textes, des plateformes, des méthodes, des collectifs…"],"type":"undefined","shape":{"stroke":"simple","dashInterval":null},"color":"#e1e1e1","colorHighlight":"#ff6a6a","source":"20240708094431","target":"20240707195118","report":[]},{"id":3,"context":["[[20240708094511]] \nIl arrive que « l’*homo digitalis* » devienne un « *homo fabulator*[^1] » : aux antipodes de l’opinion commune, qui considère le jeu vidéo comme un concurrent de la littérature traditionnelle, certains MMORPG tendent en effet à créer des vocations d’écrivains, en encourageant l’expression littéraire de fictions au sein de leurs communautés.  Ces jeux deviennent ainsi l’occasion et le lieu d’émergence de pratiques d’écriture collaboratives dont l’une des fonctions essentielles est d’assurer la cohésion du groupe, en lui fournissant des récits fondateurs, des mythes étiologiques, des normes et des valeurs. Cette culture littéraire participative[^2] apparaît ainsi comme un des lieux d’élaboration de ces « croyances et pratiques communes » qui définissent les communautés virtuelles [@stone_will_2001] ; elle contribue à souder voire à fonder des identités collectives, en construisant des « imaginaires de communauté » [@leroux_lidentite_2013], et en créant par là un sentiment d’appartenance pour les joueurs au sein de ces « communautés imaginées[^5] ». Ce sont ces pratiques scripturaires fictionnelles, envisagées dans leur dimension identitaire, que nous nous proposons d’étudier. Nous nous appuierons sur le MMORPG *Elite Dangerous*[^6] pour tenter de définir, à partir de cette étude, la notion d’*effet de communauté*, entendue comme production d'un sentiment réel d'appartenance reposant sur une pure fiction partagée. La prolifération fictionnelle auquel donne lieu *Elite Dangerous*, l'esprit de corps auquel se prête ce jeu de niche, enfin son caractère de « bac à sable » (*sandbox*) offrant une grande agentivité aux joueurs, libres de choisir leur carrière et d’orienter le parcours de leur personnage au fil des mois et des années : tels sont les éléments qui expliquent le choix de ce MMORPG dans le cadre de la présente démonstration. "],"type":"undefined","shape":{"stroke":"simple","dashInterval":null},"color":"#e1e1e1","colorHighlight":"#ff6a6a","source":"20240708094635","target":"20240708094511","report":[]},{"id":4,"context":["[Le rôle de l'inexistant existe ; la fonction de l'imaginaire est réelle&nbsp;; et la logique pure nous enseigne que *le faux implique le vrai*.<br/>Paul Valéry, «&nbsp;Au sujet d'*Eurêka*&nbsp;»]{.epigraphe}\n[[20240708094511]]\nLes médias existeraient-ils sans la littérature&nbsp;? Pourrait-on parler de\n«&nbsp;télévision&nbsp;», de «&nbsp;photographie&nbsp;», de «&nbsp;cinéma&nbsp;» ou du «&nbsp;numérique&nbsp;»\nsans que ces dispositifs aient aussi été construits, institutionnalisés\net même parfois déconstruits dans l'imaginaire collectif par la\nlittérature et son discours&nbsp;? À l'heure où le numérique semble encore\ns'inventer, le présent dossier vise à souligner le rôle du fait\nlittéraire dans la construction de nos médias, qu'ils soient désormais\ndéfinivement sécularisés (c'est notamment le cas de la photographie, du\ncinéma, de la télévision ou du téléphone), totalement oubliés (comme la\nlanterne magique ou le théâtrophone) ou même entièrement fantasmés (à l'instar du\ntéléphonoscope). Il nous invite également à ne pas placer la littérature\ndans une tour d'ivoire, mais, au contraire, à la considérer comme un\nmédia parmi les autres, variable comme eux, fait de chemins qui,\ntoujours, nous amènent à explorer les frontières entre les mots et les\nchoses, ainsi que celles qui séparent l'invention de la répétition,\nl'anticipation de la métamorphose."],"type":"undefined","shape":{"stroke":"simple","dashInterval":null},"color":"#e1e1e1","colorHighlight":"#ff6a6a","source":"20240708094511","target":"20240708094511","report":[]},{"id":5,"context":["[[20240707195218]]\nSi le mot selfie est d’abord apparu en 2002-2003 sur des sites internet\nde partage de photos, il ne sera intégré à l’*Oxford English Dictionary*\nqu’en 2013,[^1] date à partir de laquelle il connaît une plus grande\ncirculation. Selon l’Office québécois de la langue française, un selfie\nest «&nbsp;un autoportrait fait à bout de bras, la plupart du temps avec un\ntéléphone intelligent, un appareil photo numérique ou une tablette,\ngénéralement dans le but de le publier sur un réseau social&nbsp;»[^2]. Les\ntermes «&nbsp;égoportrait&nbsp;» et «&nbsp;autophoto&nbsp;» sont aussi recommandés. Dans les\nécrits sur le selfie, deux lieux communs sont évoqués de façon\nrécurrente. D’une part, il y a une condamnation systématique du selfie\ncomme pratique narcissique et pathologique (c’est d’ailleurs ce que\nsous-entend le terme «&nbsp;égoportrait&nbsp;»)&nbsp;; d’autre part, le néologisme\nsouligne la nouveauté supposée du selfie. Le selfie est associé à une\nexhibition du soi sur les réseaux sociaux, il est vu comme symptomatique\nd’un narcissisme contemporain, comme en témoignent ces titres\nd’articles&nbsp;: «&nbsp;The Growing Narcissism of Selfies&nbsp;» [@williams_growing_2013], «&nbsp;Bienvenue dans\nl’ère des hypernarcissiques&nbsp;» [@chartier_bienvenue_2014] ou encore «&nbsp;Sharing the (Self)love&nbsp;:\nThe Rise of the Selfie and Digital Narcissism&nbsp;» [@chamarro-premuzic_sharing_2014]. Dans *L’Express*,\nClaire Chartier et Youness Bousenna parlent autant d’«&nbsp;égocentrisme&nbsp;»\nque de «&nbsp;nombrilisme décomplexé&nbsp;» dont le selfie offre «&nbsp;le plus\nspectaculaire échantillon&nbsp;» [@chartier_bienvenue_2014]. Tomas Chamorro-Premuzic utilise le même\nton acerbe&nbsp;: «&nbsp;*Welcome to the age of digital narcissism, a world of\nendless ostentation opportunities and unlimited bragging possibilities.\nShowing-off has never been easier and, ironically, more\ncelebrated.*&nbsp;» [@chamarro-premuzic_sharing_2014] Selon ce dernier, les médias sociaux sont largement\nresponsables puisque&nbsp;: «&nbsp;*Instagram made selfie the word of the year,\nwhile Tinder – the ultimate dating tool for narcissists – and Snapchat –\nthe bastion of ephemeral sexting – made Facebook look\nintellectual*&nbsp;» [@chamarro-premuzic_sharing_2014]. Le livre des selfies de Kim Kardashian, distribué\npar la maison Rizzoli et intitulé *Selfish* [@kardashian_selfish_2015], nourrit ce genre\nd’association entre selfie et égocentrisme."],"type":"undefined","shape":{"stroke":"simple","dashInterval":null},"color":"#e1e1e1","colorHighlight":"#ff6a6a","source":"20240707195235","target":"20240707195218","report":[]},{"id":6,"context":["[[20240707195218]]\n[Certes, la tentative à laquelle j’ai assisté est loin d’être parfaite\nencore, il y a des améliorations nombreuses à introduire dans l’appareil\nà disséminer les parfums&nbsp;; c’est encore un art bien confus, et il faut\ns’exercer un peu pour distinguer des nuances parfois subtiles.<br/>Mais je dois dire que j’étais arrivé très incrédule et que je suis\nparti convaincu, qu’il y a là quelque chose de vraiment nouveau, de\nvraiment curieux, capable d’intéresser vivement les blasés, peut-être\nmême le public.<br/>Maurice de Fleury, «&nbsp;Le Paris des Parisiens&nbsp;: L’Art des parfums II&nbsp;», *Le Figaro&nbsp;: supplément littéraire du dimanche*, 22 mars 1890. [@de_fleury_paris_1890]]{.epigraphe}"],"type":"undefined","shape":{"stroke":"simple","dashInterval":null},"color":"#e1e1e1","colorHighlight":"#ff6a6a","source":"20240707195218","target":"20240707195218","report":[]},{"id":7,"context":["## La novellisation poétique&nbsp;: une forme oxymorique&nbsp;?\n[[20240707195218]]\nRaconter un film. Telle est l’ambition, apparemment modeste, de ce que\nl’on appelle, en décalquant le terme anglais, une novellisation. Un tel\nprocessus place l’écriture non plus en amont mais en aval du film en\ninversant les rôles habituellement dévolus à ces deux instances dans le\ncadre de l’adaptation filmique d’une œuvre littéraire. Cette\nirrévérencieuse antécédence de l’image sur l’écrit est une des raisons\npour lesquelles la novellisation a longtemps été considérée avec\nsuspicion, avant qu’un chercheur en études culturelles comme Jan Baetens\nne la tire des oubliettes en lui consacrant plusieurs études de qualité\nmettant en lumière les mécanismes, plus complexes qu’on ne pourrait le\ncroire, à l’œuvre dans ces œuvres décriées. Je me propose ici\nd’envisager le cas de la novellisation poétique, rarement abordé dans le\ncadre des études sur l’adaptation, qui se consacrent, dans leur immense\nmajorité au passage du livre à l’écran [@clerc_adaptation_2004 ;\n@elliott_rethinking_2003 ; Vanoye, 2011], même si certaines études récentes\n[@cleder_analyser_2017] mentionnent aussi le processus inverse[^1]. Le\ncas des novellisations poétiques reste toutefois très largement ignoré,\nà de rares exceptions près [@baetens_novellisation_2008 ; @grignon_novellisation_2014]. De fait, une\ntelle étiquette générique peut sembler curieuse, voire oxymorique pour\nplusieurs raisons."],"type":"undefined","shape":{"stroke":"simple","dashInterval":null},"color":"#e1e1e1","colorHighlight":"#ff6a6a","source":"20240707195149","target":"20240707195218","report":[]},{"id":8,"context":["[[20240707195235]]\n[Les modernes s'intéressaient à ce qui pouvait résulter [des] changements et à leur tendance générale&nbsp;: ils réfléchissaient à la chose elle-même, substantivement, de manière utopique ou essentielle. Le postmodernisme est plus formel en ce sens, et plus «&nbsp;distrait&nbsp;» comme aurait pu le dire Benjamin&nbsp;: il ne fait que mesurer les variations et ne sait que trop bien que les contenus ne sont que des images de plus.<br/>Fredric Jameson, *Le Postmodernisme*]{.epigraphe}"],"type":"undefined","shape":{"stroke":"simple","dashInterval":null},"color":"#e1e1e1","colorHighlight":"#ff6a6a","source":"20240707195118","target":"20240707195235","report":[]},{"id":9,"context":["[[20240708094635]] \nDans *L’Ève future,* le narrateur s’étend sur les pouvoirs de Thomas\nEdison au point de tenir sur celui-ci un véritable discours\nhagiographique (bien qu’il faille tenir compte de l’ironie insistante\nqui traverse l’ouvrage). Il va jusqu’à affirmer que «&nbsp;ses inventions de\ntout genre, dont on ne connaît que les moins étranges, donnent en\ngénéral des impressions d’un positivisme énigmatique [@villiers_de_lisle-adam_leve_1992, p. 118].&nbsp;» Posons\nl’hypothèse que cet oxymore, «&nbsp;positivisme énigmatique&nbsp;», constitue une\nformule clé de l’imaginaire fin-de-siècle en France. Villiers de\nL’Isle-Adam, à l’instar de la plupart des membres des mouvements\nd’avant-gardes, avait une forte répugnance à l’égard du progrès\nqu’instaurait la société industrielle en plein développement. Je me\ncontenterai à ce sujet de citer un exemple célèbre. Il s’agit d’un\nextrait d’un texte de Baudelaire publié dans *Le Pays* à propos de\nl’exposition de 1855&nbsp;:"],"type":"undefined","shape":{"stroke":"simple","dashInterval":null},"color":"#e1e1e1","colorHighlight":"#ff6a6a","source":"20240707195111","target":"20240708094635","report":[]}]};
-        const graphProperties = {"select_origin":"directory","files_origin":"./fiches","nodes_origin":"","links_origin":"","nodes_online":"","links_online":"","images_origin":"","export_target":"","history":true,"focus_max":2,"record_types":{"undefined":{"fill":"#858585","stroke":"#858585"}},"link_types":{"undefined":{"stroke":"simple","color":"#e1e1e1"}},"references_as_nodes":false,"references_type_label":"references","record_filters":[],"graph_background_color":"#ffffff","graph_highlight_color":"#ff6a6a","graph_highlight_on_hover":true,"graph_text_size":10,"graph_arrows":true,"node_size_method":"degree","node_size":10,"node_size_max":20,"node_size_min":2,"attraction_force":200,"attraction_distance_max":250,"attraction_vertical":0,"attraction_horizontal":0,"views":{},"record_metas":[],"generate_id":"always","link_context":"tooltip","hide_id_from_record_header":false,"title":"","author":"","description":"","keywords":[],"link_symbol":"","csl":"","bibliography":"","csl_locale":"","css_custom":"","devtools":false,"lang":"en"};
+        const data = {"nodes":[{"id":"20240708094341","label":"Éditer la plateforme *Anthologia Graeca* :vecteur de changements dans la pratique des *classics*","types":["litterature"],"size":2,"strokeWidth":2},{"id":"20240708094431","label":"L’épopée numérique de l’Anthologie grecque :entre questions épistémologiques, modèles techniques et dynamiques collaboratives","types":["litterature"],"size":2,"strokeWidth":2},{"id":"20240708094431","label":"Présences de Josée Yvon dans la littérature québécoise contemporaine","types":["litterature"],"size":2,"strokeWidth":2},{"id":"20240708094635","label":"L’écriture collaborative comme principe d’une identité de groupe","types":["litterature"],"size":2,"strokeWidth":2},{"id":"20240708094511","label":"L'invention littéraire des médias","types":["litterature"],"size":20,"strokeWidth":2},{"id":"20240707195235","label":"Les Confessions Facebook ou le selfie inventé par Jean-Jacques Rousseau","types":["litterature"],"size":11,"strokeWidth":2},{"id":"20240707195218","label":"L’art olfactif contemporain, ses médias et leurs inventions fin-de-siècle","types":["litterature"],"size":11,"strokeWidth":2},{"id":"20240707195149","label":"La novellisation poétique, différenciation ou émulation ?","types":["litterature"],"size":2,"strokeWidth":2},{"id":"20240707195118","label":"La littérature qui résiste:concurrence médiatique et intermédialité","types":["litterature"],"size":2,"strokeWidth":2},{"id":"20240707195111","label":"Allô, j’écoute? Les voix surnaturelles des nouveaux médias fin-de-siècle","types":["test"],"size":2,"strokeWidth":2},{"id":"20240705154513","label":"De *Lourdes* à *Paris*, en train ou à bicyclette","types":["test"],"size":2,"strokeWidth":2}],"links":[{"id":0,"context":["[[20240708094511]]\n[Le rôle de l'inexistant existe ; la fonction de l'imaginaire est réelle&nbsp;; et la logique pure nous enseigne que *le faux implique le vrai*.<br/>Paul Valéry, «&nbsp;Au sujet d'*Eurêka*&nbsp;»]{.epigraphe}"],"type":"undefined","shape":{"stroke":"simple","dashInterval":null},"color":"#e1e1e1","colorHighlight":"#ff6a6a","source":"20240708094511","target":"20240708094511","report":[]},{"id":1,"context":["[[20240707195218]]\nSi le mot selfie est d’abord apparu en 2002-2003 sur des sites internet\nde partage de photos, il ne sera intégré à l’*Oxford English Dictionary*\nqu’en 2013,[^1] date à partir de laquelle il connaît une plus grande\ncirculation. Selon l’Office québécois de la langue française, un selfie\nest «&nbsp;un autoportrait fait à bout de bras, la plupart du temps avec un\ntéléphone intelligent, un appareil photo numérique ou une tablette,\ngénéralement dans le but de le publier sur un réseau social&nbsp;»[^2]. Les\ntermes «&nbsp;égoportrait&nbsp;» et «&nbsp;autophoto&nbsp;» sont aussi recommandés. Dans les\nécrits sur le selfie, deux lieux communs sont évoqués de façon\nrécurrente. D’une part, il y a une condamnation systématique du selfie\ncomme pratique narcissique et pathologique (c’est d’ailleurs ce que\nsous-entend le terme «&nbsp;égoportrait&nbsp;»)&nbsp;; d’autre part, le néologisme\nsouligne la nouveauté supposée du selfie. Le selfie est associé à une\nexhibition du soi sur les réseaux sociaux, il est vu comme symptomatique\nd’un narcissisme contemporain, comme en témoignent ces titres\nd’articles&nbsp;: «&nbsp;The Growing Narcissism of Selfies&nbsp;» [@williams_growing_2013], «&nbsp;Bienvenue dans\nl’ère des hypernarcissiques&nbsp;» [@chartier_bienvenue_2014] ou encore «&nbsp;Sharing the (Self)love&nbsp;:\nThe Rise of the Selfie and Digital Narcissism&nbsp;» [@chamarro-premuzic_sharing_2014]. Dans *L’Express*,\nClaire Chartier et Youness Bousenna parlent autant d’«&nbsp;égocentrisme&nbsp;»\nque de «&nbsp;nombrilisme décomplexé&nbsp;» dont le selfie offre «&nbsp;le plus\nspectaculaire échantillon&nbsp;» [@chartier_bienvenue_2014]. Tomas Chamorro-Premuzic utilise le même\nton acerbe&nbsp;: «&nbsp;*Welcome to the age of digital narcissism, a world of\nendless ostentation opportunities and unlimited bragging possibilities.\nShowing-off has never been easier and, ironically, more\ncelebrated.*&nbsp;» [@chamarro-premuzic_sharing_2014] Selon ce dernier, les médias sociaux sont largement\nresponsables puisque&nbsp;: «&nbsp;*Instagram made selfie the word of the year,\nwhile Tinder – the ultimate dating tool for narcissists – and Snapchat –\nthe bastion of ephemeral sexting – made Facebook look\nintellectual*&nbsp;» [@chamarro-premuzic_sharing_2014]. Le livre des selfies de Kim Kardashian, distribué\npar la maison Rizzoli et intitulé *Selfish* [@kardashian_selfish_2015], nourrit ce genre\nd’association entre selfie et égocentrisme."],"type":"undefined","shape":{"stroke":"simple","dashInterval":null},"color":"#e1e1e1","colorHighlight":"#ff6a6a","source":"20240707195235","target":"20240707195218","report":[]}]};
+        const graphProperties = {"select_origin":"directory","files_origin":"./fiches","nodes_origin":"","links_origin":"","nodes_online":"","links_online":"","images_origin":"","export_target":"","history":true,"focus_max":2,"record_types":{"undefined":{"fill":"#005C53","stroke":"#005C53"},"litterature":{"fill":"#DBF227","stroke":"#DBF227"},"test":{"fill":"#D6D58E","stroke":"#D6D58E"},"Concept":{"fill":"#042940","stroke":"#042940"},"perso":{"fill":"#005C53","stroke":"#005C53"},"references":{"stroke":"#6C6C6C","fill":"#6C6C6C"}},"link_types":{"undefined":{"stroke":"simple","color":"#e1e1e1"}},"references_as_nodes":false,"references_type_label":"references","record_filters":[],"graph_background_color":"#ffffff","graph_highlight_color":"#ff6a6a","graph_highlight_on_hover":true,"graph_text_size":10,"graph_arrows":true,"node_size_method":"degree","node_size":10,"node_size_max":20,"node_size_min":2,"attraction_force":200,"attraction_distance_max":250,"attraction_vertical":0,"attraction_horizontal":0,"views":{},"record_metas":[],"generate_id":"always","link_context":"tooltip","hide_id_from_record_header":false,"title":"","author":"","description":"","keywords":[],"link_symbol":"","csl":"","bibliography":"","csl_locale":"","css_custom":"","devtools":false,"lang":"en"};
         const tagList = [{"name":"antologie","nodes":["20240708094341"]},{"name":"pedagogie","nodes":["20240708094341"]},{"name":"editeurs","nodes":["20240708094341"]},{"name":"langues","nodes":["20240708094341"]},{"name":"veille","nodes":["20240708094431"]},{"name":"IA","nodes":["20240708094431"]},{"name":"recherche d'information","nodes":["20240708094431"]},{"name":"OSINT","nodes":["20240708094431"]},{"name":"mmorpg","nodes":["20240708094635"]},{"name":"commmunoté","nodes":["20240708094635"]},{"name":"fictionx","nodes":["20240708094635"]},{"name":"rôle","nodes":["20240708094511"]},{"name":"literature","nodes":["20240708094511"]},{"name":"selfie","nodes":["20240707195235"]},{"name":"facebook","nodes":["20240707195235"]},{"name":"rousseau","nodes":["20240707195235"]},{"name":"lectures","nodes":["20240707195218"]},{"name":"art","nodes":["20240707195218"]},{"name":"nez","nodes":["20240707195218"]},{"name":"poeme","nodes":["20240707195149"]},{"name":"emulation","nodes":["20240707195149"]},{"name":"oxymore","nodes":["20240707195149"]},{"name":"moderne","nodes":["20240707195118"]},{"name":"lecture","nodes":["20240707195118"]},{"name":"litt","nodes":["20240707195118"]},{"name":"media","nodes":["20240707195111"]},{"name":"nouvel air","nodes":["20240707195111"]},{"name":"Hybridations médiatiques","nodes":["20240705154513"]},{"name":"machiniques dans le cycle des *Trois Villes*","nodes":["20240705154513"]},{"name":"Émile  Zola (1893-1898)","nodes":["20240705154513"]},{"name":"rsn","nodes":["20240708094431","20240708094511","20240707195235"]},{"name":"test","nodes":["20240708094431","20240708094511","20240707195111"]}];
-        const typeList = {"undefined":{"nodes":["20240708094341","20240708094431","20240708094635","20240708094511","20240707195235","20240707195218","20240707195149","20240707195118","20240707195111","20240705154513"],"active":true}};
+        const typeList = {"litterature":{"nodes":["20240708094341","20240708094431","20240708094635","20240708094511","20240707195235","20240707195218","20240707195149","20240707195118"],"active":true},"test":{"nodes":["20240707195111","20240705154513"],"active":true}};
         const timeline = {"end":null};
         const sorting = {"records":[{"alphabetical":0,"chronological":0},{"alphabetical":1,"chronological":1},{"alphabetical":2,"chronological":2},{"alphabetical":3,"chronological":3},{"alphabetical":4,"chronological":4},{"alphabetical":5,"chronological":5},{"alphabetical":6,"chronological":6},{"alphabetical":7,"chronological":7},{"alphabetical":8,"chronological":8},{"alphabetical":9,"chronological":9},{"alphabetical":10,"chronological":10}],"tags":[{"alphabetical":0,"digital":0},{"alphabetical":23,"digital":1},{"alphabetical":3,"digital":2},{"alphabetical":10,"digital":3},{"alphabetical":31,"digital":4},{"alphabetical":9,"digital":5},{"alphabetical":25,"digital":6},{"alphabetical":21,"digital":7},{"alphabetical":17,"digital":8},{"alphabetical":2,"digital":9},{"alphabetical":7,"digital":10},{"alphabetical":26,"digital":11},{"alphabetical":13,"digital":12},{"alphabetical":29,"digital":13},{"alphabetical":6,"digital":14},{"alphabetical":27,"digital":15},{"alphabetical":12,"digital":16},{"alphabetical":1,"digital":17},{"alphabetical":19,"digital":18},{"alphabetical":24,"digital":19},{"alphabetical":5,"digital":20},{"alphabetical":22,"digital":21},{"alphabetical":18,"digital":22},{"alphabetical":11,"digital":23},{"alphabetical":14,"digital":24},{"alphabetical":16,"digital":25},{"alphabetical":20,"digital":26},{"alphabetical":8,"digital":27},{"alphabetical":15,"digital":28},{"alphabetical":4,"digital":29},{"alphabetical":28,"digital":30},{"alphabetical":30,"digital":31}]};
 

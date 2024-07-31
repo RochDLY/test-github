@@ -1,6 +1,7 @@
 ---
-title : Allô, j’écoute? Les voix surnaturelles des nouveaux médias fin-de-siècle
-id: "20240707195111"
+title : 
+Allô, j’écoute? Les voix surnaturelles des nouveaux médias fin-de-siècle
+id: "20240731114348"
 
 types:
   - test
@@ -10,8 +11,10 @@ tags:
   - nouvel air
   - test
 ---
+[Zola] met à contribution une culture
+du visuel visant à capter la réalité mécaniquement&nbsp;» 
 
-[[20240717153844]]
+
 [—   C’est un rêve, cela, je crois, murmura Lord Ewald.<br/>—   Milord, il n’y a plus de rêve! répondit à voix basse le grand ingénieur.<br/>Villiers de L’Isle-Adam, *L’Ève future*]{.epigraphe}
 
 

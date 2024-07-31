@@ -13,7 +13,7 @@ tags:
 
 
 [Le rôle de l'inexistant existe ; la fonction de l'imaginaire est réelle&nbsp;; et la logique pure nous enseigne que *le faux implique le vrai*.<br/>Paul Valéry, «&nbsp;Au sujet d'*Eurêka*&nbsp;»]{.epigraphe}
-[[20240708094511]]
+
 Les médias existeraient-ils sans la littérature&nbsp;? Pourrait-on parler de
 «&nbsp;télévision&nbsp;», de «&nbsp;photographie&nbsp;», de «&nbsp;cinéma&nbsp;» ou du «&nbsp;numérique&nbsp;»
 sans que ces dispositifs aient aussi été construits, institutionnalisés

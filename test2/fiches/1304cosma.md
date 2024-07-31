@@ -10,7 +10,7 @@ tags:
   - facebook
   - rousseau
 ---
-[[20240707195218]]
+
 Si le mot selfie est d’abord apparu en 2002-2003 sur des sites internet
 de partage de photos, il ne sera intégré à l’*Oxford English Dictionary*
 qu’en 2013,[^1] date à partir de laquelle il connaît une plus grande
