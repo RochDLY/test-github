@@ -31,7 +31,7 @@ link_types:
   undefined:
     stroke: simple
     color: "#e1e1e1"
-citations_as_nodes: true
+references_as_nodes: true
 references_type_label: "référence"
 record_filters: []
 graph_background_color: "#ffffff"

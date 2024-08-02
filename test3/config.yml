@@ -1,5 +1,5 @@
 select_origin: directory
-files_origin: ./fiches
+files_origin: fiches
 nodes_origin: ""
 links_origin: ""
 nodes_online: ""
@@ -15,7 +15,7 @@ record_types:
   litterature: 
     fill: "#DBF227"
     stroke: "#DBF227"
-  test: 
+  article: 
     fill: "#D6D58E"
     stroke: "#D6D58E"
   Concept:
@@ -24,15 +24,15 @@ record_types:
   perso:
     fill: "#005C53"
     stroke: "#005C53"
-  référence:
+  biblio:
     stroke: "#6C6C6C"
     fill: "#6C6C6C"
 link_types:
   undefined:
     stroke: simple
     color: "#e1e1e1"
-citations_as_nodes: true
-references_type_label: "référence"
+references_as_nodes: true
+references_type_label: biblio
 record_filters: []
 graph_background_color: "#ffffff"
 graph_highlight_color: "#ff6a6a"
@@ -57,9 +57,9 @@ author: ""
 description: ""
 keywords: []
 link_symbol: ""
-csl: ./bibliographie/apa.csl
-bibliography: ./bibliographie/biblio.json
-csl_locale: ./bibliographie/locales-fr-FR.xml
-css_custom: ./csstest.css
+csl: bibliographie/apa.csl
+bibliography: bibliographie/biblio.json
+csl_locale: bibliographie/locales-fr-FR.xml
+css_custom: csstest.css
 devtools: false
 lang: en
