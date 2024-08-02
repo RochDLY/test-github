@@ -1,0 +1,32 @@
+---
+articleslies:
+- auteur: ''
+  title: ''
+  url: ''
+bibliography: rapport-a-relire-et-travailler.bib
+director:
+- foaf: ''
+  forname: ''
+  gender: ''
+  isni: ''
+  orcid: ''
+  surname: ''
+  viaf: ''
+dossier:
+- id: ''
+  title: ''
+  title_f: ''
+lang: fr
+link-citations: true
+nocite: '@*'
+rights: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+title: untitled
+title_f: untitled
+translations:
+- lang: ''
+  title: ''
+  url: ''
+translator:
+- forname: ''
+  surname: ''
+--- 
