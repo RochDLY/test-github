@@ -9,7 +9,8 @@ tags:
   - emulation
   - oxymore
 ---
-[-@edwards_bonheur_2011]
+ 
+[@mechoulan__2003, p.10-11]. Méchoulan
 
 ## La novellisation poétique&nbsp;: une forme oxymorique&nbsp;?
 Raconter un film. Telle est l’ambition, apparemment modeste, de ce que
