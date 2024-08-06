@@ -1,6 +1,6 @@
 ---
 title : Les Confessions Facebook ou le selfie inventé par Jean-Jacques Rousseau
-id: "20240707195235"
+
 
 types:
   - litterature

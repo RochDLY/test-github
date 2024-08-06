@@ -1,6 +1,6 @@
 ---
 title : La novellisation poétique, différenciation ou émulation ?
-id: "20240707195149"
+
 
 types:
   - litterature
@@ -10,7 +10,6 @@ tags:
   - oxymore
 ---
  
-[@mechoulan__2003, p.10-11]. Méchoulan
 
 ## La novellisation poétique&nbsp;: une forme oxymorique&nbsp;?
 Raconter un film. Telle est l’ambition, apparemment modeste, de ce que

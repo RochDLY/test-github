@@ -1,10 +1,8 @@
 ---
 title : L’art olfactif contemporain, ses médias et leurs inventions fin-de-siècle
-id: "20240707195218"
 
 types:
   -  litterature
-
 tags:
   - lectures
   - art

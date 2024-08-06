@@ -1,15 +1,12 @@
 ---
 title : De *Lourdes* à *Paris*, en train ou à bicyclette
-id: "20240705154513"
 
 types:
   - test
-
 tags:
   - Hybridations médiatiques 
   - machiniques dans le cycle des *Trois Villes* 
   - Émile  Zola (1893-1898)
-  
 ---
 
 

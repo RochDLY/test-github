@@ -1,6 +1,5 @@
 ---
 title : L'invention littéraire des médias
-id: "20240708094511"
 
 types:
   - litterature
