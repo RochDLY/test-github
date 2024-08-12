@@ -4,7 +4,7 @@
 Cosma est un outil de visualisation conçu pour les professionnels de l'information qui transforme des fichiers de texte simple avec des liens wiki en un réseau dynamique de cartes indexées. Cosma est prévu pour se superposer à un éditeur de texte tel que Stylo ; comme tous deux utilisent le langage markdown et héritent d’une philosophie des formats ouverts et de l’interopérabilité, leur articulation est donc non seulement possible, mais entrevue par les développeurs de Cosma. L’enrichissement et l’exploitation des données sémantiques contenues dans les articles est également une des pistes de développement en cours pour l’éditeur Stylo. 
 Cette intégration permet un enrichissement des données des articles sur Stylo, pour les auteurs comme pour les revues. Les auteurs pourront valoriser les liens entre leurs propres textes, dans un prolongement de leurs propres activités de recherche en sciences humaines, et analyser et synthétiser leurs données de recherche de façon innovante et opérante. Les revues, quant à elles, pourront visualiser les références, les enjeux, les thématiques traversant l’ensemble de leur production, mais aussi des unités plus discrètes, comme les dossiers ou les articles eux-mêmes.
 
-## Mofification pour généré le cosma
+## Mofification pour généré le cosma pour une revue ou un corpus.
 ### En tête YAML 
 Sur les fiches Markdown, nous avons récupéré tout le texte en markdown, mais nous avons ajouté une en-tête YAML à la main :
 Exemple :
