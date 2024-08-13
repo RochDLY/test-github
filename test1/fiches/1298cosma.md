@@ -4,6 +4,7 @@ title : La littérature qui résiste:concurrence médiatique et intermédialité
 
 types:
   - litterature
+  - test
 tags:
   - moderne
   - lecture
