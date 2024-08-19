@@ -10,23 +10,17 @@ history: true
 focus_max: 2
 record_types:
   undefined:
-    fill: "#005C53"
-    stroke: "#005C53"
+    fill: "#E8EDC5"
+    stroke: "#E8EDC5"
   litterature: 
-    fill: "#DBF227"
-    stroke: "#DBF227"
+    fill: "#F2CFB9"
+    stroke: "#F2CFB9"
   test: 
-    fill: "#D6D58E"
-    stroke: "#D6D58E"
-  Concept:
-    fill: "#042940"
-    stroke: "#042940"
-  perso:
-    fill: "#005C53"
-    stroke: "#005C53"
+    stroke: "#B9BDA5"
+    fill: "#B9BDA5"
   référence:
-    stroke: "#6C6C6C"
-    fill: "#6C6C6C"
+    fill: "#E8EDC5"
+    stroke: "#E8EDC5"
 link_types:
   undefined:
     stroke: simple
